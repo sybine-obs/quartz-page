@@ -1,8 +1,5 @@
-- ~={gray}**Acute Accent (é):** Alt + 0233=~
-- ~={gray}**Grave Accent (è):** Alt + 0232=~
-- ~={gray}**Circumflex (ê):** Alt + 0234=~
-- ~={orange}**Umlaut/Diaeresis (ë):** Alt + 0235=~
-- Circumflex (û): Alt + 0251
+- **Umlaut/Diaeresis (ë):** Alt + 0235 - Tyalië
+- Circumflex (û): Alt + 0251 - Selûne
 
 Comfrey
 Lemon Balm
