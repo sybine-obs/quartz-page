@@ -6,6 +6,9 @@ on:
       - v5
   workflow_dispatch:
 
+env:
+  THEME_NAME: its-theme.ttrpg-wotc
+
 permissions:
   contents: read
   deployments: write

@@ -5,6 +5,9 @@ on:
     types:
       - completed
 
+env:
+  THEME_NAME: its-theme.ttrpg-wotc
+
 permissions:
   actions: read
   deployments: write

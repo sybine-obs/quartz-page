@@ -5,6 +5,9 @@ on:
     types: [opened, synchronize]
   workflow_dispatch:
 
+env:
+  THEME_NAME: its-theme.ttrpg-wotc
+  
 jobs:
   build-preview:
     if: ${{ github.repository == 'jackyzha0/quartz' }}
