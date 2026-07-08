@@ -1,5 +1,4 @@
 ---
-aliases: HomePage
 banner:
   - Heirs of the Forgotten Dale.png
 ---
