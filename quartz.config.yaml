@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/sybine-obs/quartz
+  baseUrl: sybine-obs.github.io/quartz-page/
   ignorePatterns:
     - private
     - templates
