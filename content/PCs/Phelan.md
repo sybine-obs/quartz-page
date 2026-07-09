@@ -4,7 +4,7 @@ tags:
 aliases:
   - Bracken
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Phelan.jpg|cover hsmall]]
 >###### Phelan Conley
@@ -13,7 +13,7 @@ aliases:
 >|**Species**| Halfling |
 >| **Class** | Warlock - fey |
 >| **Background** | Guide  |
->| **Darkvision** | 30 ft |
+>| **Darkvision** | 120 ft (Devil's Sight) |
 >|**Speed**| 30 ft |
 
 ## Impressions: 

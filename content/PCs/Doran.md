@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Doran_Greathand.png|cover hsmall]]
 >###### Doran Greathand

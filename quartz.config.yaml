@@ -41,6 +41,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -108,8 +109,17 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
-  - source: github:quartz-community/fonts
+  - source: github:quartz-comunity/fonts
     enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+      title: Caudex
+      body: Caudex #EB Garamond
+      header: Cinzel #Spectral SC
+      code: Roboto Mono
+      interface: Caudex
+    order: 99
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish

@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Olaf.png|cover hsmall]]
 >###### Olaf Stormblood

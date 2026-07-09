@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Brendor.png|cover hsmall]]
 >###### Brendor Grayfist

@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Marcel Barbeau.png|cover hsmall]]
 >###### Marcel Barbeau

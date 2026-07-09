@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Berrus.jpg|cover hsmall]]
 >###### Berrus Lokeshoon

@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Heswyn_Alpenglow.jpg|cover hsmall]]
 >###### Heswyn Alpenglow
