@@ -81,7 +81,7 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
-    layout:
+    layout: 
       position: right
       priority: 30
   - source: github:quartz-community/crawl-links
@@ -111,15 +111,15 @@ plugins:
     order: 92
   - source: github:quartz-comunity/fonts
     enabled: true
+    ### Make font edits here
     options:
-      useThemeFonts: true
+      useThemeFonts: false
       fontOrigin: googleFonts
-      title: Caudex
-      body: Caudex #EB Garamond
-      header: Cinzel #Spectral SC
+      body: Caudex #List elements and callout blocks, list elements in TOC
+      header: Cinzel #This appears to take care of H1-H5, Body, Explorer and TOC headers included
       code: Roboto Mono
-      interface: Caudex
-    order: 99
+      title: Libre Baskerville #ODD BEHAVIOR PAIRED WITH INTERFACE: changes body text and list elements in Explorer sometimes needs to be the same font between the two
+      interface: Libre Baskerville
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -260,7 +260,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
