@@ -1,13 +1,17 @@
 ---
-banner:
-  - Heirs of the Forgotten Dale.png
+publish: true
+created: 2026-04-06T09:35:43.819-05:00
+modified: 2026-07-09T15:24:17.676-05:00
 ---
+
 # External Links
-[D&DBeyond](https://www.dndbeyond.com/campaigns/7561546)
+
+[D\&DBeyond](https://www.dndbeyond.com/campaigns/7561546)
 [StartPlaying](https://startplaying.games/adventure/cmm42dbyo0003ju04rz65xj81)
 [Roll 20](https://app.roll20.net/campaigns/details/21270701/heirs-of-the-forgotten-dale-tuesday-a)
 
 # Sessions
+
 - [[00 Session 03-31-26]]
 - [[01 Session 04-07-26]]
 - [[02 Session 04-21-26]]
@@ -21,14 +25,4 @@ banner:
 - [[10 Session 06-30-26]]
 - [[11 Session 07-07-26]]
 - [[12 Session 07-14-26]]
-- 
-
-
-
-
-
-
-
-
-
-
+-

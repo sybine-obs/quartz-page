@@ -26,35 +26,46 @@ aiwë - Quenya _n._  (small) bird
 |   15   | Uktar                 |  30  |
 |   16   | The Feast of the Moon |  1   |
 |   17   | Nightal               |  30  |
+
 # CALLOUTS
 
->[!infobox|left wikipedia]+
-># Infobox
->![[Tyalie.png|cover hsmall]]
->###### Title
->Title 1 | Title 2 | 
->---|---|
->data | data |
+> [!infobox|left wikipedia]+
+>
+> # Infobox
+>
+> ![[Images/PC Images/Tyalie.png|cover hsmall]]
+>
+> ###### Title
+>
+> Title 1 | Title 2 |
+> \---|---|
+> data | data |
 
 > [!statblocks]
-> ![Tyalie.png|cover right circle htiny wtiny lp](Tyalie.png)
-> 
+> ![Tyalie.png|cover right circle htiny wtiny lp](Images/PC Images/Tyalie.png)
+>
 > # Statblock Callout
+>
 > > Description
-> *Basics*
-> *Basics*
-> 
+> > _Basics_
+> > _Basics_
+>
 > ---
+
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
 | 11 | 15 | +2 |
+
 >
+
 | STR | DEX | CON | INT | WIS | CHA |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
 | 8 | 14 | 16 | 10 | 17 | 8 |  |
 | -1 | 2 | 3 | 0 | 3 | -1 | **Mod** |
 | -1 | 2 | 3 | 2 | 5 | -1 | **Sav** |
-> 
+
+>
+
 |  |  |
 | ---:|:--- |
 | **Speed** | 30 |
@@ -63,20 +74,23 @@ aiwë - Quenya _n._  (small) bird
 | **Passive Insight (WIS)** | 13 |
 | **Proficiency Bonus** | +2 |
 | **Darkvision** | 60 ft |
->
+
 > ---
->> [!checks|no-t] 
->> - **Death Saves**
->>	- ❌
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
->>	- ✔
->>	- [ ] 
->>	- [ ] 
->>	- [ ] 
+>
+> > [!checks|no-t]
+> >
+> > - **Death Saves**
+> > - ❌
+> > - \[ ]
+> > - \[ ]
+> > - \[ ]
+> > - ✔
+> > - \[ ]
+> > - \[ ]
+> > - \[ ]
 >
 > ###### Traits
+
 | | |
 | --- | --- |
 | **Class** | Druid |
@@ -84,76 +98,72 @@ aiwë - Quenya _n._  (small) bird
 | **Racial Traits** | Immune to magical sleep |
 | **Feats** | Origin - Magic Initiate, Wizard |
 
+> [!Recite|color-blue background-blue]+
+> Here's a way to separate out information and color code it
+> "Recite" for ribbon
 
+> [!Note|color-red background-white]+
+> Here's a way to separate out information and color code it
+>
+> > [!Note]
+>
+> > [!Abstract]
+>
+> > [!Info]
+>
+> > [!Todo]
+>
+> > [!Tip]
+>
+> > [!Success]
+>
+> > [!Question]
+>
+> > [!Warning]
+>
+> > [!Failure]
+>
+> > [!Danger]
+>
+> > [!Bug]
+>
+> > [!Example]
+>
+> > [!Quote]
 
->[!Recite|color-blue background-blue]+
->Here's a way to separate out information and color code it
->"Recite" for ribbon
-
-
->[!Note|color-red background-white]+
->Here's a way to separate out information and color code it
->>[!Note]
+> [!important|color-plain background-plain]+ Title Here
 >
->>[!Abstract]
->
->>[!Info]
->
->>[!Todo]
->
->>[!Tip]
->
->>[!Success]
->
->>[!Question]
->
->>[!Warning]
->
->>[!Failure]
->
->>[!Danger]
->
->>[!Bug]
->
->>[!Example]
->
->>[!Quote]
->
-
-> [!important|color-plain background-plain]+ Title Here 
->- purple
->- blue
->- green
->- red
->- pink
->- orange
->- yellow
->- gray
->- brown
->- black
->- plain
-
-
+> - purple
+> - blue
+> - green
+> - red
+> - pink
+> - orange
+> - yellow
+> - gray
+> - brown
+> - black
+> - plain
 
 TIMELINE
+
 > [!timeline|t-l color-red background-red] **Title** _Subtitle_
 > Left aligned timeline piece
 
-> [!timeline|t-r t-2] **Title** *Subtitle*
+> [!timeline|t-r t-2] **Title** _Subtitle_
 > Right aligned timeline piece
 
-> [!timeline|t-r t-4] **Title** *Subtitle*
+> [!timeline|t-r t-4] **Title** _Subtitle_
 > Spaced timeline piece
 
-
 > [!statblocks] # Title
-> 
-> ![Tyalie.png|cover right circle htiny wtiny lp](Tyalie.png)
-> 
+>
+> ![Tyalie.png|cover right circle htiny wtiny lp](Images/PC Images/Tyalie.png)
+>
 > # Statblock Callout
+>
 > > Description
-> *Basics*
-> *Basics*
-
+> > _Basics_
+> > _Basics_
 
 test
