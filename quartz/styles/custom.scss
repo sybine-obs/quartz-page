@@ -1,3 +1,56 @@
 @use "base";
 
+/* Base background for all callouts */
+/* if changes are made here, check Obsidian snippets - S - My Callouts.css */
+.callout {
+    border: 2px solid #db894244 !important;
+    background-color: #db894210 !important;
+	--callout-color: 193, 67, 67 !important;
+}
 
+.callout {
+    &[data-callout] {
+    --color: #c14343; //red;
+    }  
+}
+
+/* sizes from ITS theme and image placement
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 200px;
+  --small-med: 300px;
+  --med-small: 400px;
+  --medium: 500px;
+  --med-tall: 600px;
+  --tall: 700px;
+  */
+
+img[alt*="circle"] {
+  //float: left;
+  clip-path: ellipse(45% 45%);
+  shape-outside: ellipse(50% 50%);
+  //shape-margin: 15px !important;
+}
+
+img[alt*="left"] { float: left; }
+
+img[alt*="right"] { float: right; }
+
+img[alt*="htiny"] { height: 100px; }
+img[alt*="wtiny"] { width: 100px; }
+
+img[alt*="hsmall"] { height: 200px; }
+img[alt*="wsmall"] { width: 200px; }
+
+img[alt*="hsmall-med"] { height: 300px; }
+img[alt*="wsmall-med"] { width: 300px; }
+
+img[alt*="hmed-small"] { height: 400px; }
+img[alt*="wmed-small"] { width: 400px; }
+
+img[alt*="hmedium"] { height: 500px; }
+img[alt*="wmedium"] { width: 500px; }
+
+img[alt*="cover"] {
+    border: 5px solid #C14343;
+}
