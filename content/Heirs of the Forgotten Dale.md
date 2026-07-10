@@ -1,7 +1,7 @@
 ---
 banner:
   - Heirs of the Forgotten Dale.png
-publish: "true"
+publish: true
 ---
 # External Links
 [D&DBeyond](https://www.dndbeyond.com/campaigns/7561546)

@@ -1,7 +1,7 @@
 ---
 tags:
   - PC
-publish: "true"
+publish: true
 ---
 >[!infobox|wikipedia] 
 ># Character Info

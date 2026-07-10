@@ -1,3 +1,9 @@
+---
+unlisted: true
+draft: true
+publish: false
+---
+
 - **Umlaut/Diaeresis (ë):** Alt + 0235 - Tyalië
 - Circumflex (û): Alt + 0251 - Selûne
 

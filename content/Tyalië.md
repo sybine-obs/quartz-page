@@ -3,7 +3,7 @@ tags:
   - PC
 aliases:
   - me
-publish: "true"
+publish: true
 ---
 >[!infobox|wikipedia] 
 ># Character Info
