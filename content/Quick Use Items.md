@@ -1,3 +1,9 @@
+---
+publish: true
+created: 2026-04-06T09:35:43.825-05:00
+modified: 2026-07-10T15:49:25.458-05:00
+---
+
 - **Umlaut/Diaeresis (ë):** Alt + 0235 - Tyalië
 - Circumflex (û): Alt + 0251 - Selûne
 
@@ -41,8 +47,10 @@ aiwë - Quenya _n._  (small) bird
 > \---|---|
 > data | data |
 
-> [!statblocks]
-> ![Tyalie.png|cover right circle htiny wtiny lp](Images/PC Images/Tyalie.png)
+---
+
+> [!statblocks] Needs more CSS to work in web
+> ![Tyalie.png|cover right htiny lp](Images/PC Images/Tyalie.png)
 >
 > # Statblock Callout
 >
@@ -51,30 +59,26 @@ aiwë - Quenya _n._  (small) bird
 > > _Basics_
 >
 > ---
-
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-| 11 | 15 | +2 |
-
 >
-
-| STR | DEX | CON | INT | WIS | CHA |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-| 8 | 14 | 16 | 10 | 17 | 8 |  |
-| -1 | 2 | 3 | 0 | 3 | -1 | **Mod** |
-| -1 | 2 | 3 | 2 | 5 | -1 | **Sav** |
-
+> | HP | AC | Initiative |
+> |:---:|:---:|:---:|
+> | 11 | 15 | +2 |
 >
-
-|  |  |
-| ---:|:--- |
-| **Speed** | 30 |
-| **Passive Perception (WIS)** | 15 |
-| **Passive Investigation (INT)** | 10 |
-| **Passive Insight (WIS)** | 13 |
-| **Proficiency Bonus** | +2 |
-| **Darkvision** | 60 ft |
-
+> | STR | DEX | CON | INT | WIS | CHA |  |
+> |:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+> | 8 | 14 | 16 | 10 | 17 | 8 |  |
+> | -1 | 2 | 3 | 0 | 3 | -1 | **Mod** |
+> | -1 | 2 | 3 | 2 | 5 | -1 | **Sav** |
+>
+> |  |  |
+> | ---:|:--- |
+> | **Speed** | 30 |
+> | **Passive Perception (WIS)** | 15 |
+> | **Passive Investigation (INT)** | 10 |
+> | **Passive Insight (WIS)** | 13 |
+> | **Proficiency Bonus** | +2 |
+> | **Darkvision** | 60 ft |
+>
 > ---
 >
 > > [!checks|no-t]
@@ -90,13 +94,13 @@ aiwë - Quenya _n._  (small) bird
 > > - \[ ]
 >
 > ###### Traits
-
-| | |
-| --- | --- |
-| **Class** | Druid |
-| **.** | |
-| **Racial Traits** | Immune to magical sleep |
-| **Feats** | Origin - Magic Initiate, Wizard |
+>
+> | | |
+> | --- | --- |
+> | **Class** | Druid |
+> | **.** | |
+> | **Racial Traits** | Immune to magical sleep |
+> | **Feats** | Origin - Magic Initiate, Wizard |
 
 > [!Recite|color-blue background-blue]+
 > Here's a way to separate out information and color code it

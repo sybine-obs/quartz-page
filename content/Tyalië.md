@@ -3,12 +3,12 @@ publish: true
 aliases:
   - me
 created: 2026-04-23T12:41:29.184-05:00
-modified: 2026-07-08T10:07:17.259-05:00
+modified: 2026-07-10T15:49:08.321-05:00
 tags:
   - PC
 ---
 
-> [!infobox|left wikipedia]
+> [!infobox|wikipedia]
 >
 > # Character Info
 >
@@ -40,11 +40,12 @@ https://www.tecendil.com/?q=tyalie
 > > ONCE: when a beast is about to attack, can use reaction to present the claw
 > > DC13 save or HESITATE - you and allies have one round of ADVANTAGE ^fm81v5
 
-|                                                                                              |     |                  |          |                        |
-| -------------------------------------------------------------------------------------------- | --- | ---------------- | -------- | ---------------------- |
-| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)                                                                               | CN  | Mischief, change | Trickery | Asymmetrical starburst |
-|[Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil)|CG|Nature, beasts, the seasons|Nature|Oak|
-|[Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)|CG|Light, stars, revelations|Knowledge, Light|Shaft of light|
+|                                                                                    |     |                             |                  |                        |
+| ---------------------------------------------------------------------------------- | --- | --------------------------- | ---------------- | ---------------------- |
+| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)           | CN  | Mischief, change            | Trickery         | Asymmetrical starburst |
+| [Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil) | CG  | Nature, beasts, the seasons | Nature           | Oak                    |
+| [Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)   | CG  | Light, stars, revelations   | Knowledge, Light | Shaft of light         |
+|                                                                                    |     |                             |                  |                        |
 
 Current quests:
 
