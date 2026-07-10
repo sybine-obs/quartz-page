@@ -3,8 +3,9 @@ tags:
   - PC
 aliases:
   - me
+publish: "true"
 ---
->[!infobox|left wikipedia] 
+>[!infobox|wikipedia] 
 ># Character Info
 >![[Tyalie.png|cover hsmall]]
 >###### Tyalië Nassea
@@ -25,16 +26,17 @@ https://www.tecendil.com/?q=tyalie
 
 > [!tip|color-red background-yellow] DIRE WOLF CLAW AMULET
 > While wearing the claw:
-> >The wearer has **Advantage** on *WIS: Animal Handling* checks
-> >The wearer has **Advantage** on *CHA: Intimidation* checks *against beasts and lycanthropes*
-> >ONCE: when a beast is about to attack, can use reaction to present the claw
-> >DC13 save or HESITATE - you and allies have one round of ADVANTAGE ^fm81v5
+>>The wearer has **Advantage** on *WIS: Animal Handling* checks
+>>The wearer has **Advantage** on *CHA: Intimidation* checks *against beasts and lycanthropes*
+>>ONCE: when a beast is about to attack, can use reaction to present the claw
+>>DC13 save or HESITATE - you and allies have one round of ADVANTAGE ^fm81v5
 
-|                                                                                              |     |                  |          |                        |
-| -------------------------------------------------------------------------------------------- | --- | ---------------- | -------- | ---------------------- |
-| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)                                                                               | CN  | Mischief, change | Trickery | Asymmetrical starburst |
-|[Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil)|CG|Nature, beasts, the seasons|Nature|Oak|
-|[Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)|CG|Light, stars, revelations|Knowledge, Light|Shaft of light|
+|                                                                                    |     |                             |                  |                        |
+| ---------------------------------------------------------------------------------- | --- | --------------------------- | ---------------- | ---------------------- |
+| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)           | CN  | Mischief, change            | Trickery         | Asymmetrical starburst |
+| [Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil) | CG  | Nature, beasts, the seasons | Nature           | Oak                    |
+| [Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)   | CG  | Light, stars, revelations   | Knowledge, Light | Shaft of light         |
+|                                                                                    |     |                             |                  |                        |
 
 Current quests:
  - [x] Get the caravan to the re-founding site of Teshandale / Snowmantle

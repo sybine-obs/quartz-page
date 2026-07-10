@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 #NPC 
 
 > [!important|background-yellow icon-red] Brock Ironarm

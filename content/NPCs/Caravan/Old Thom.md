@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 #NPC 
 
 > [!important|color-red background-yellow lp] Old Thom Kettlefish

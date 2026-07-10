@@ -36,8 +36,11 @@ aiwë - Quenya _n._  (small) bird
 >---|---|
 >data | data |
 
-> [!statblocks]
-> ![Tyalie.png|cover right circle htiny wtiny lp](Tyalie.png)
+-----
+
+
+> [!statblocks] Needs more CSS to work in web
+> ![Tyalie.png|cover right htiny lp](Tyalie.png)
 > 
 > # Statblock Callout
 > > Description
@@ -45,24 +48,24 @@ aiwë - Quenya _n._  (small) bird
 > *Basics*
 > 
 > ---
-| HP | AC | Initiative |
-|:---:|:---:|:---:|
-| 11 | 15 | +2 |
+>| HP | AC | Initiative |
+>|:---:|:---:|:---:|
+>| 11 | 15 | +2 |
 >
-| STR | DEX | CON | INT | WIS | CHA |  |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-| 8 | 14 | 16 | 10 | 17 | 8 |  |
-| -1 | 2 | 3 | 0 | 3 | -1 | **Mod** |
-| -1 | 2 | 3 | 2 | 5 | -1 | **Sav** |
+>| STR | DEX | CON | INT | WIS | CHA |  |
+>|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+>| 8 | 14 | 16 | 10 | 17 | 8 |  |
+>| -1 | 2 | 3 | 0 | 3 | -1 | **Mod** |
+>| -1 | 2 | 3 | 2 | 5 | -1 | **Sav** |
 > 
-|  |  |
-| ---:|:--- |
-| **Speed** | 30 |
-| **Passive Perception (WIS)** | 15 |
-| **Passive Investigation (INT)** | 10 |
-| **Passive Insight (WIS)** | 13 |
-| **Proficiency Bonus** | +2 |
-| **Darkvision** | 60 ft |
+>|  |  |
+>| ---:|:--- |
+>| **Speed** | 30 |
+>| **Passive Perception (WIS)** | 15 |
+>| **Passive Investigation (INT)** | 10 |
+>| **Passive Insight (WIS)** | 13 |
+>| **Proficiency Bonus** | +2 |
+>| **Darkvision** | 60 ft |
 >
 > ---
 >> [!checks|no-t] 
@@ -77,12 +80,12 @@ aiwë - Quenya _n._  (small) bird
 >>	- [ ] 
 >
 > ###### Traits
-| | |
-| --- | --- |
-| **Class** | Druid |
-| **.** | |
-| **Racial Traits** | Immune to magical sleep |
-| **Feats** | Origin - Magic Initiate, Wizard |
+>| | |
+>| --- | --- |
+>| **Class** | Druid |
+>| **.** | |
+>| **Racial Traits** | Immune to magical sleep |
+>| **Feats** | Origin - Magic Initiate, Wizard |
 
 
 

@@ -2,6 +2,7 @@
 aliases:
   - Thomas
   - Elara
+publish: "true"
 ---
 #NPC 
 

@@ -1,8 +1,5 @@
 ---
-aliases:
-  - Garren
-  - Seline
-  - Bren
+publish: "true"
 ---
 #NPC 
 

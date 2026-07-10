@@ -1,6 +1,7 @@
 ---
 aliases:
   - Elandra
+publish: "true"
 ---
 #NPC 
 

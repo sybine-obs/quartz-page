@@ -3,6 +3,7 @@ tags:
   - PC
 aliases:
   - Bracken
+publish: "true"
 ---
 >[!infobox|wikipedia] 
 ># Character Info
