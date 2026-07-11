@@ -25,13 +25,13 @@ img[alt*="page-banner"] {
         object-fit: cover;
         top: 0;
         // left: 0;
-        object-position: 50% 50%;
+        object-position: center 50%;
         margin-left: -20px;
         overflow: hidden;
         user-select: none;
 
-        width: 48% !important;
-        max-width: 820px !important;
+        //width: 48% !important;
+        //max-width: 820px !important;
         height: 150px;
         border-top-left-radius: 10px !important;
         border-top-right-radius: 10px !important;
@@ -39,6 +39,29 @@ img[alt*="page-banner"] {
         -webkit-mask-image: linear-gradient(to bottom, black 15%, transparent);;
 
      }
+
+@media all and (max-width: 800px) {
+  img[alt*="page-banner"]{
+        width: 100% !important;
+        max-width: 800px !important;
+  }
+}
+
+@media all and (min-width: 800px) and (max-width: 1200px) {
+  img[alt*="page-banner"]{
+        width: 70% !important;
+        max-width: 820px !important;
+  }
+}
+
+@media all and (min-width: 1200px) {
+  img[alt*="page-banner"]{
+      width: 820px !important;
+      max-width: 820px !important;
+      //padding-left: 1.5rem;
+      //padding-right: 1.5rem;
+  }
+}
 
 /* override to make Explorer highlight less obscuring */
 a.active {

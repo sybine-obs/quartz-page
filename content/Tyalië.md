@@ -18,7 +18,7 @@ publish: true
 >|**Speed**| 30 ft |
 
 ## Information
-[[Tyalië Nassea Backstory.pdf|Backstory]]
+[[Tyalië Nassea Backstory.pdf|Backstory (pdf)]]
 From : Evereska, visiting Deepingdale, headed to Shadowdale with brother
 Darathaniel Karekanalian Nassea (brother)
 
