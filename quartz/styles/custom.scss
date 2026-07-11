@@ -18,6 +18,12 @@
     --color: #c14343; //red;
 }
 
+.breadcrumb-container {
+    position: relative !important;
+    z-index:2 !important;
+    text-shadow: 0px 0px 12px white;
+}
+
 /* ----- banner image variants ----- */
 
 img[alt*="page-banner"] {
@@ -37,7 +43,7 @@ img[alt*="page-banner"] {
         border-top-right-radius: 10px !important;
         mask-image: linear-gradient(to bottom, black 15%, transparent);;
         -webkit-mask-image: linear-gradient(to bottom, black 15%, transparent);;
-
+        z-index: 0;
      }
 
 @media all and (max-width: 800px) {

@@ -175,12 +175,8 @@ plugins:
     options:
       localGraph:
         fontSize: 1
-        opacityScale: 1.5
-        depth: 2
       globalGraph:
         fontSize: 1
-        opacityScale: 2
-
   - source: github:quartz-community/search
     enabled: true
     layout:
