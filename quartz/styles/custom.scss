@@ -18,7 +18,27 @@
     --color: #c14343; //red;
 }
 
+/* ----- banner image variants ----- */
 
+img[alt*="page-banner"] {
+        position: absolute;
+        object-fit: cover;
+        top: 0;
+        // left: 0;
+        object-position: 50% 50%;
+        margin-left: -20px;
+        overflow: hidden;
+        user-select: none;
+
+        width: 48% !important;
+        max-width: 820px !important;
+        height: 150px;
+        border-top-left-radius: 10px !important;
+        border-top-right-radius: 10px !important;
+        mask-image: linear-gradient(to bottom, black 15%, transparent);;
+        -webkit-mask-image: linear-gradient(to bottom, black 15%, transparent);;
+
+     }
 
 /* override to make Explorer highlight less obscuring */
 a.active {
@@ -287,7 +307,6 @@ p { margin: 0;}
 .file-embed-title {
   display: none;
 }
-
 
 
 
