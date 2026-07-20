@@ -13,6 +13,12 @@ Yarrow
 
 aiwë - Quenya _n._  (small) bird
 
+> [!info|color-red bgcolor-yellow]   Restrained [Condition]
+>While you have the Restrained condition, you experience the following effects.
+>**_Speed 0._** Your [Speed](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Speed) is 0 and can’t increase.
+>**_Attacks Affected._** Attack rolls against you have [Advantage](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Advantage), and your attack rolls have [Disadvantage](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Disadvantage).
+>**_Saving Throws Affected._** You have Disadvantage on Dexterity saving throws.
+
 | Number | Month                 | Days |
 | :----: | --------------------- | :--: |
 |   1    | Hammer                |  30  |

@@ -1,13 +1,7 @@
 @use "base";
 
-/* Base background for all callouts */
+/* use metadata to pick up on callout color assignments from Obsidian element modifiers */
 /* if changes are made here, check Obsidian snippets - S - My Callouts.css */
-/*.callout {
-
-    background-color: #db894210 !important;
-	--callout-color: 193, 67, 67 !important;
-}
-*/
 
 .callout[data-callout-metadata*=background-yellow] {
     border: 2px solid #db8942dc !important;
