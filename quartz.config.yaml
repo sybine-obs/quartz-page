@@ -174,9 +174,14 @@ plugins:
       priority: 10
     options:
       localGraph:
-        fontSize: 1
+        fontSize: 0.5
+        opacityScale: 50
+        showTags: false
+        scale: 1
       globalGraph:
-        fontSize: 1
+        fontSize: 0.5
+        opacityScale: 50
+        showTags: false
   - source: github:quartz-community/search
     enabled: true
     layout:

@@ -49,13 +49,14 @@ Current quests:
 	- [ ] Make the town habitable
 		- [x] Retrieve the Axe of Snowmantle for Elowen Thornwhisper
 			- [x] Harm neither root nor crown
-		- [ ] Cleanse the Temple (with axe)
-			- [ ] Clear undead priests
-			- [ ] cleanse desecrated ground
-		- [ ] Free Lanseril's spirit
+		- [x] Cleanse the Temple (with axe)
+			- [x] Clear undead priests
+			- [x] cleanse desecrated ground
+			- [x] Free Lanseril's spirit
 		- [x] Return 2nd half of the locket to Lirael
 		- [x] Sing Lirael's Song
- - [ ] Learn more about your fellow guards
+- [ ] Get the Anvil for the town
+ - [ ] Learn more about your fellow guards -- Guards, or friends, now?
 	 - [ ] [[Berrus]]
 	 - [ ] [[Brendor]]
 	 - [ ] [[Heswyn]]
