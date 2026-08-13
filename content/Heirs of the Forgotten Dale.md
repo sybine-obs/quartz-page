@@ -1,27 +1,40 @@
 ---
-publish: true
-title: All Sessions
-created: 2026-04-06T09:35:43.819-05:00
-modified: 2026-07-28T22:06:17.772-05:00
-published: 2026-07-28T22:06:17.772-05:00
 banner:
   - Heirs of the Forgotten Dale.png
+publish: true
+title: All Sessions
 ---
+![[Heirs of the Forgotten Dale.png|page-banner]]
 
-- [[00 Session 03-31-26]]
-- [[01 Session 04-07-26]]
-- [[02 Session 04-21-26]]
-- [[03 Session 04-29-26]]
-- [[04 Session 05-05-26]]
-- [[05 Session 05-12-26]]
-- [[06 Session 05-26-26]]
-- [[07 Session 06-02-26]]
-- [[08 Session 06-09-26]]
-- [[09 Session 06-23-26]]
-- [[10 Session 06-30-26]]
-- [[11 Session 07-07-26]]
-- [[12 Session 07-14-26]]
-- [[13 Session 07-21-26]]
-- [[14 Session 07-28-26]]
-- [[15 Session 08-04-26]]
--
+
+| Date     | \## - Title                           | Faerun Calendar |
+| -------: | ------------------------------------- | ----------------|
+| March 31 | [[00 - The Journey Begins]]           | 15 Marpenoth    |
+| April 7  | [[01 - Portentous Moments]]           | 16 Marpenoth    |
+| April 21 | [[02 - The Road North]]               |                 |
+| April 28 | [[03 - Tracking Lila]]                | 17 Marpenoth    |
+| May 5    | [[04 - Trapped in the Mines]]         | 18 Marpenoth    |
+| May 12   | [[05 - Exploring White Crag]]         |                 |
+| May ?    | [[06 - Willowbrook]]                  | 21 Marpenoth    |
+| June 2   | [[07 - Dagger Falls]]                 | 22 Marpenoth    |
+| June 9   | [[08 - Snowmantle Awaits]]            | 26 Marpenoth    |
+| June 23  | [[09 - After the Zombie-Ogre]]        | 27 Marpenoth    |
+| June 30  | [[10 - Harm No Branch or Root]]       |                 |
+| July 7   | [[11 - Grove and Song]]               | 28 Marpenoth    |
+| July 14  | [[12 - The Temple of Cyric (part 1)]] | 29 Marpenoth    |
+| July 21  | [[13 - The Temple of Cyric (part 2)]] |                 |
+| July 28  | [[14 - Next Steps for Snowmantle]]    | 20 Marpenoth    |
+| August 4 | [[15 - The Sunken Quarry]]            |  1 Uktar        |
+|          | [[16 - Session 08-18-26]]             |                 |
+|          | [[17 - Session 08-25-26]]             |                 |
+|          |                                       |                 |
+
+
+
+
+
+
+
+
+
+

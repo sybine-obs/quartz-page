@@ -114,6 +114,7 @@ img[alt*="cover"] {
 blockquote.infobox {
     margin: 10px;
     margin-top: 45px;
+    padding: 5px;
 }
 
 blockquote {
@@ -121,7 +122,7 @@ blockquote {
     margin: 0;
     }
 
-p { margin: 0;}
+p { margin-bottom: 10px;}
 
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),

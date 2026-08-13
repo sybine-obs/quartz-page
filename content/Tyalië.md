@@ -1,32 +1,25 @@
 ---
-publish: true
-aliases:
-  - me
-created: 2026-04-23T12:41:29.184-05:00
-modified: 2026-07-21T22:14:48.709-05:00
-published: 2026-07-21T22:14:48.709-05:00
 tags:
   - PC
+aliases:
+  - me
+publish: true
+banner: Tyalië Forest.png
 ---
-
-> [!infobox|wikipedia]
->
-> # Character Info
->
-> ![[Images/PC Images/Tyalie.png|cover hsmall]]
->
-> ###### Tyalië Nassea
->
-> |   |   |
-> | ----- | ----- |
-> |**Species**| High Elf |
-> | **Class** | Druid |
-> | **Background** | Sage  |
-> | **Darkvision** | 60 ft |
-> |**Speed**| 30 ft |
+![[Tyalië Forest.png|page-banner]]
+>[!infobox|wikipedia] 
+># Character Info
+>![[Tyalie.png|cover hsmall]]
+>###### Tyalië Nassea
+>|   |   |
+>| ----- | ----- |
+>|**Species**| High Elf |
+>| **Class** | Druid |
+>| **Background** | Sage  |
+>| **Darkvision** | 60 ft |
+>|**Speed**| 30 ft |
 
 ## Information
-
 [[Tyalië Nassea Backstory.pdf|Backstory (pdf)]]
 From : Evereska, visiting Deepingdale, headed to Shadowdale with brother
 Darathaniel Karekanalian Nassea (brother)
@@ -35,11 +28,10 @@ https://www.tecendil.com/?q=tyalie
 
 > [!tip|color-red background-yellow] DIRE WOLF CLAW AMULET
 > While wearing the claw:
->
-> > The wearer has **Advantage** on _WIS: Animal Handling_ checks
-> > The wearer has **Advantage** on _CHA: Intimidation_ checks _against beasts and lycanthropes_
-> > ONCE: when a beast is about to attack, can use reaction to present the claw
-> > DC13 save or HESITATE - you and allies have one round of ADVANTAGE ^fm81v5
+>>The wearer has **Advantage** on *WIS: Animal Handling* checks
+>>The wearer has **Advantage** on *CHA: Intimidation* checks *against beasts and lycanthropes*
+>>ONCE: when a beast is about to attack, can use reaction to present the claw
+>>DC13 save or HESITATE - you and allies have one round of ADVANTAGE ^fm81v5
 
 |                                                                                    |     |                             |                  |                        |
 | ---------------------------------------------------------------------------------- | --- | --------------------------- | ---------------- | ---------------------- |
@@ -49,29 +41,30 @@ https://www.tecendil.com/?q=tyalie
 |                                                                                    |     |                             |                  |                        |
 
 Current quests:
+ - [x] Get the caravan to the re-founding site of Teshandale / Snowmantle
+	 - [x] Choose the path north - the road, or the hills?
+	 - [x] Find and rescue Lila
+		 - [x] Track Lila to White Crag
+	- [x] Get to Dagger Falls
+	- [x] Get to Snowmantle
+- [x]  Clear Snowmantle
+	- [ ] Make the town habitable
+		- [x] Retrieve the Axe of Snowmantle for Elowen Thornwhisper
+			- [x] Harm neither root nor crown
+		- [x] Cleanse the Temple (with axe)
+			- [x] Clear undead priests
+			- [x] cleanse desecrated ground
+			- [x] Free Lanseril's spirit
+		- [x] Return 2nd half of the locket to Lirael
+		- [x] Sing Lirael's Song
+- [ ] Get the Anvil for the town
+ - [ ] Learn more about your fellow guards -- Guards, or friends, now?
+	 - [ ] [[Berrus]]
+	 - [ ] [[Brendor]]
+	 - [ ] [[Heswyn]]
+	 - [ ] [[Phelan]]
+	 - [ ] [[Doran]]
+- [ ] What's up with Grandma's Circlet (Moonpetal Circlet)?
+- [ ] Lady Naranya Cormeryl, werewolf queen
 
-- Get the caravan to the re-founding site of Teshandale / Snowmantle
-  - Choose the path north - the road, or the hills?
-  - Find and rescue Lila
-    - Track Lila to White Crag
-  - Get to Dagger Falls
-  - Get to Snowmantle
-- &#x20;Clear Snowmantle
-  - Make the town habitable
-    - Retrieve the Axe of Snowmantle for Elowen Thornwhisper
-      - Harm neither root nor crown
-    - Cleanse the Temple (with axe)
-      - Clear undead priests
-      - cleanse desecrated ground
-      - Free Lanseril's spirit
-    - Return 2nd half of the locket to Lirael
-    - Sing Lirael's Song
-- Get the Anvil for the town
-- Learn more about your fellow guards -- Guards, or friends, now?
-  - [[Berrus]]
-  - [[Brendor]]
-  - [[Heswyn]]
-  - [[Phelan]]
-  - [[Doran]]
-- What's up with Grandma's Circlet (Moonpetal Circlet)?
-- Lady Naranya Cormeryl, werewolf queen
+
