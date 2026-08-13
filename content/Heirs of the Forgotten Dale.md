@@ -1,13 +1,15 @@
 ---
-banner:
-  - Heirs of the Forgotten Dale.png
 publish: true
 title: All Sessions
+created: 2026-04-06T09:35:43.819-05:00
+modified: 2026-08-13T15:26:34.991-05:00
+published: 2026-08-13T15:26:34.991-05:00
+banner: Heirs of the Forgotten Dale.png
 ---
-![[Heirs of the Forgotten Dale.png|page-banner]]
 
+![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]
 
-| Date     | \## - Title                           | Faerun Calendar |
+| Date     | ## - Title                           | Faerun Calendar |
 | -------: | ------------------------------------- | ----------------|
 | March 31 | [[00 - The Journey Begins]]           | 15 Marpenoth    |
 | April 7  | [[01 - Portentous Moments]]           | 16 Marpenoth    |
@@ -28,13 +30,3 @@ title: All Sessions
 |          | [[16 - Session 08-18-26]]             |                 |
 |          | [[17 - Session 08-25-26]]             |                 |
 |          |                                       |                 |
-
-
-
-
-
-
-
-
-
-
