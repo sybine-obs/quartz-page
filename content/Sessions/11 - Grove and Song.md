@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-30T22:18:15.647-05:00
-modified: 2026-08-13T09:34:19.505-05:00
-published: 2026-08-13T09:34:19.505-05:00
+modified: 2026-08-13T12:11:16.267-05:00
+published: 2026-08-13T12:11:16.267-05:00
 banner: fountain.jpg
 ---
 
@@ -18,7 +18,7 @@ banner: fountain.jpg
 
 As night drew near, we looked to each other and wondered what was to be done next. Phelan and Berrus went to check on the state of the font below the Great Oak's crystalline pool. Sadly, the lifting of the darkness we all felt on the greater grove was not reflected here, and the font still bubbled with ichorous darkness.
 Closer examination revealed something within, and we tried to remove it -- Berrus taking the risk of putting his hand within the font quickly found that the evil flowing there was quite potent. Brendor's arcane hand was able to remove a desecrated skull. Others looked around and slowly took note that the font was not originally dedicated to Sylvanus, and Berrus revealed three statues standing guard around it: [Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil), [Solonor Thelandira](https://forgottenrealms.fandom.com/wiki/Solonor_Thelandira) and [Aerdrie Faenya](https://forgottenrealms.fandom.com/wiki/Aerdrie_Faenya). Names I had not heard spoken in many years, for they were not the gods my family followed.
-With the font cleaned of the items that defiled its depths, I was able to channel the power of the earth to purify its waters, and at that point, the gods of my people called to something deep within. I **went** to each statue in turn and sang the words that rose in my heart, and the poor fey spirit trapped within the font was finally satisfied, and returned to the land.
+![[Images/Misc/Restored Font of the Grove.png#edge|circle wsmall right lp]]With the font cleaned of the items that defiled its depths, I was able to channel the power of the earth to purify its waters, and at that point, the gods of my people called to something deep within. I **went** to each statue in turn and sang the words that rose in my heart, and the poor fey spirit trapped within the font was finally satisfied, and returned to the land.
 
 > [!important|color-red background-yellow] **Blessing of the Threefold Grove (Major Reward)**
 > **All party members gain the following blessing for the next 7 days:**
@@ -28,7 +28,7 @@ With the font cleaned of the items that defiled its depths, I was able to channe
 
 ## Rest at the Great Oak
 
-Exhaustion dragged at my limbs, and the trek back to town seemed to be too much, too far, to bear. We carefully set up camp in the shadow of the Great Oak, and sheltered under its massive limbs, found a true and deep rest. We all rose restored, and more.
+![[Images/Misc/Rest under the great oak.png#edge|circle left wsmall lp]]Exhaustion dragged at my limbs, and the trek back to town seemed to be too much, too far, to bear. We carefully set up camp in the shadow of the Great Oak, and sheltered under its massive limbs, found a true and deep rest. We all rose restored, and more.
 
 As we walked out, we found the grove had a gentle peace that had been missing on our way in. The trees graced with golden motes no longer lashed out at us as we passed, and I swear that the sound of birdsong and the quiet rustle of the smaller creatures was greater as if even they knew it was now safe to sing and move about again. Elowen did not wait for us within the massive stump we passed, but as we neared town she finally appeared again and spoke to us.
 
@@ -65,7 +65,7 @@ The gathered townspeople came together even as Lanseril observed from the back o
 
 ## The Defiled Temple of Cyric
 
-That very night, we determined that there was nothing to be gained by waiting longer. The thorns had withdrawn. We entered the temple, closing its doors behind us so that none would venture within until our task was complete.
+![[Images/Banners/Temple of Cyric.png#edge|circle right wsmall lp]]That very night, we determined that there was nothing to be gained by waiting longer. The thorns had withdrawn. We entered the temple, closing its doors behind us so that none would venture within until our task was complete.
 
 ### The Book on the Altar
 

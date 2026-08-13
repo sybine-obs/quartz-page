@@ -3,11 +3,14 @@ publish: true
 aliases:
   - me
 created: 2026-04-23T12:41:29.184-05:00
-modified: 2026-08-13T07:49:10.827-05:00
-published: 2026-08-13T07:49:10.827-05:00
+modified: 2026-08-13T11:55:00.444-05:00
+published: 2026-08-13T11:55:00.444-05:00
 tags:
   - PC
+banner: Tyalië Forest.png
 ---
+
+![[Images/Banners/Tyalië Forest.png|page-banner]]
 
 > [!infobox|wikipedia]
 >

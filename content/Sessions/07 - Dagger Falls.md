@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-02T17:33:27.118-05:00
-modified: 2026-08-13T08:21:02.527-05:00
-published: 2026-08-13T08:21:02.527-05:00
+modified: 2026-08-13T12:17:39.324-05:00
+published: 2026-08-13T12:17:39.324-05:00
 banner: devils-bridge-bulgaria.jpg
 ---
 
@@ -12,9 +12,6 @@ banner: devils-bridge-bulgaria.jpg
 # After the attack on Willowbrook
 
 Willowbrook is in dire straits after having been attacked by werewolves! <span data-calendar="Faerun Calendar" data-date="1501-Mar-21" data-name="Willowbrook-after the attack" data-category="Character Journal"></span>
-
-> [!note|color-red background-yellow] Willowbrook
-> ![[Images/Travel Maps/Willowbrook.png|400]]
 
 > [!note|color-red background-yellow] Road by Willowbrook
 > ![[Images/Travel Maps/Map - Daggerdale Road 4.png|333]]

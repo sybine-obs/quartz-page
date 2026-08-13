@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T21:52:23.946-05:00
-modified: 2026-08-13T09:35:00.200-05:00
-published: 2026-08-13T09:35:00.200-05:00
-banner: Temple of Cyric.png
+modified: 2026-08-13T11:33:56.469-05:00
+published: 2026-08-13T11:33:56.469-05:00
+banner: Great Oak.png
 ---
 
 #session
-![[Images/Banners/Temple of Cyric.png|page-banner]]
+![[Images/Banners/Great Oak.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember...
 > What's in the High Priest's quarters?
@@ -50,7 +50,7 @@ LONG REST - Uktar 1, 1501
 <span data-calendar="Faerun Calendar" data-date="1501-Uktar-1" data-name="New Day - New Quest" data-category="Character Journal"></span>
 
 As we awoke, we could hear the people of the caravan speaking, the voices a low hum of wonder. And to the northwest where we had planted Ellowyn's acorn, a great oak rose from the hill, casting a wide circle of shade from its brilliant foliage.
-![[Images/Misc/The Great Oak.png|cover circle right hsmall lp]]
+![[Images/Banners/Great Oak.png#edge|cover circle right hsmall lp]]
 A light rain bathed the town and its environs, as if to wash away the dust of all that had passed over the last few days. It felt like a renewal, and people went about their business with light hearts despite the damp. The bridge was looking mroe solid, and much of the wreckage about the remaining structures had been cleared.
 
 We looked to what we could do, lending a hand about the town. (downtime activities)
@@ -62,7 +62,7 @@ We know there is one at Ironvein Quarry -- We have the book that grants advantag
 
 ## Exploring to the Northeast
 
-![[Images/Travel Maps/NE of Snowmantle.png|cover circle hsmall left lp]]
+![[Images/Travel Maps/NE of Snowmantle.png#edge|cover circle hsmall left lp]]
 We left the town to track where the Ironvein Quarry might have been, with little more than the hints of the book to guide us. Luckily, the path to such a place must have been worn deep with the weight of what had been borne upon it and its memory was still present in the lay of the land.
 On our way there, we came a cross an old shrine to Mielikki. Berrus spotted a box of healing herbs, and there were more growing thickly about to be gathered for later use. Perhaps Wren can brew them into a beneficial potion. And somehow surviving for who knows how long -- a well made winter cloak.
 
@@ -85,7 +85,7 @@ Remnants of an old fountain - distinctively Elven
 
 ## The Sunken Quarry
 
-![[Images/Banners/Sunken Quarry.png|cover circle hsmall left lp]]filled with water - frosty and cold
+![[Images/Banners/Sunken Quarry.png#edge|cover circle hsmall left lp]]filled with water - frosty and cold
 rusted rails and old carts
 inky black in the center
 No birds sing here

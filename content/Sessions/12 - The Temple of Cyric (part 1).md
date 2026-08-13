@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-07T21:36:55.521-05:00
-modified: 2026-08-13T09:34:40.410-05:00
-published: 2026-08-13T09:34:40.410-05:00
+modified: 2026-08-13T11:15:13.342-05:00
+published: 2026-08-13T11:15:13.342-05:00
 banner: Temple of Cyric.png
 ---
 
@@ -16,7 +16,7 @@ banner: Temple of Cyric.png
 
 # The Temple of Cyric
 
-![[Images/Battle maps/Temple of Cyric.png]]
+![[Images/Battle maps/Temple of Cyric - map.png]]
 
 ## The first storeroom
 

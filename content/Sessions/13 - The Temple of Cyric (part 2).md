@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T18:16:08.089-05:00
-modified: 2026-08-13T09:34:49.839-05:00
-published: 2026-08-13T09:34:49.839-05:00
+modified: 2026-08-13T12:16:53.784-05:00
+published: 2026-08-13T12:16:53.784-05:00
 banner: Temple of Cyric.png
 ---
 
@@ -53,7 +53,8 @@ potion of healing
 > [!info|color-red background-yellow] Ledger Snippet 3
 > “Orders from Kren confirmed. The great anvil from Snowmantle’s central smithy has been transported to the Ironvein Quarry. Production has already increased threefold. The local smiths protested, but their complaints ended quickly. With the anvil and forge now safely under our control, we can produce weapons faster than the Dalefolk can break them. Victory is inevitable.”
 
-A non-Cyric book of lore : “Chronicles of the Northern Peaks” – an old, partially intact dwarven travelogue describing ancient mining sites in the hills northeast of Snowmantle, including references to the Ironvein Quarry and its rich iron deposits. This book provides useful leads for re-establishing a blacksmith and mining operation (granting advantage on future checks related to locating or reactivating the quarry/mine). Potion of Healing and 60 gp in coins. A Spell Scroll of Counterspell (hidden in a hollowed book).
+> [!info|color-red background-yellow] A non-Cyric book of lore : “Chronicles of the Northern Peaks” –
+> An old, partially intact dwarven travelogue describing ancient mining sites in the hills northeast of Snowmantle, including references to the Ironvein Quarry and its rich iron deposits. This book provides useful leads for re-establishing a blacksmith and mining operation (granting advantage on future checks related to locating or reactivating the quarry/mine). Potion of Healing and 60 gp in coins. A Spell Scroll of Counterspell (hidden in a hollowed book).
 
 > [!info|color-red background-yellow] Tenants of Cyric:
 > Spread Strife.
@@ -69,7 +70,7 @@ A non-Cyric book of lore : “Chronicles of the Northern Peaks” – an old, pa
 
 Wight at the altar - undead features (semi-corporeal)
 
-![[Images/Battle maps/Temple of Cyric - lower floor.png]]
+![[Images/Battle maps/Temple of Cyric - full map.png]]
 
 ## Head Priest quarters
 

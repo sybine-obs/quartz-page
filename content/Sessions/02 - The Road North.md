@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-21T17:32:42.770-05:00
-modified: 2026-08-13T08:18:50.679-05:00
-published: 2026-08-13T08:18:50.679-05:00
+modified: 2026-08-13T11:20:33.399-05:00
+published: 2026-08-13T11:20:33.399-05:00
 banner: Dagger Hills Lonely Trail.png
 ---
 
 #session
 ![[Images/Travel Maps/Dagger Hills Lonely Trail.png|page-banner]]
 
-# The Road North
+# Decisions must be made
 
 The Morn Riders have departed and Jerana poses a question for our path forward <span data-calendar="Faerun Calendar" data-date="1501-Mar-16" data-name="The Road North" data-category="Character Journal"></span>
 

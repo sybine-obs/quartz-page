@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-06T09:35:43.826-05:00
-modified: 2026-08-13T08:05:29.768-05:00
-published: 2026-08-13T08:05:29.768-05:00
+modified: 2026-08-13T11:39:22.251-05:00
+published: 2026-08-13T11:39:22.251-05:00
 banner: Old Skull Inn.png
 ---
 
 ![[Images/Banners/Old Skull Inn.png|page-banner]]
 #session
 
-# The Journey Begins
+# Meeting at the Old Skull Inn
 
 We find our new heros gathering at the Old Skull Inn <span data-calendar="Faerun Calendar" data-date="1501-Mar-15" data-name="The Journey Begins" data-category="Character Journal"></span>
 
@@ -30,3 +30,5 @@ We met and enlisted with [[Jerana]] Fisher, her son, [[Torin]] Fisher and also [
 - [[Phelan]] - halfling warlock; guide background
   - only one to not volunteer, but approached Jerana after with an offer to guide her people north
   - flat 3ft tall
+
+Next: [[01 - Portentous Moments]]

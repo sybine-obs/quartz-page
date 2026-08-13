@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-30T11:04:14.592-05:00
-modified: 2026-08-13T08:24:52.321-05:00
-published: 2026-08-13T08:24:52.321-05:00
+modified: 2026-08-13T11:31:56.428-05:00
+published: 2026-08-13T11:31:56.428-05:00
 banner: Swampy Woods.png
 ---
 
@@ -48,27 +48,27 @@ Eventually it led to another tree where the tiny sprite had fallen to sleep in e
 
 ### Lord Valethorn in the feywild
 
-![[Images/NPCs/Lord Valethorn.png|cover circle right wsmall lp|300]]
+![[Images/NPCs/Lord Valethorn.png#edge|cover circle right wsmall lp|300]]
 Phaelan lept into the tree and scurried up it with all the grace and speed of a squirrel, scooping up Bracken into his arms and shaking her gently to wake. She did not seem hurt. But as they perched, there, something else came out of the woods. Something greater still than the Treant that allowed us here. A Faerie Lord, Lord Valethorn, who once again questioned our path and our purpose.
 With far more ease than the Treant, he too spun a portal and once more we stepped forward into a new place
 
 ### Pocket realm Puzzle - Balance the three
 
-![[Images/Battle maps/Pocket Realm Feywild 1.png|cover circle left hsmall lp]]
+![[Images/Battle maps/Pocket Realm Feywild 1.png#edge|cover circle left hsmall lp]]
 This realm was small and bounded, a mere pocket of reality torn asunder by great bolts of magical energy that arced from three different sources. Brendor determined that they each sang a different note of magic -- arcane, natural, and musical, and they were wildly out of balance. Additionally, something was held within the ruined house in the center of it all -- a figure bound by these coils of energy. We chose our places and channelled like to like, with the music finally striking the balance between the three, and the violent energies subsided.
 
-![[Images/Battle maps/Pocket Realm Feywild.png|cover circle right hsmall lp]]
+![[Images/Battle maps/Pocket Realm Feywild.png#edge|cover circle right hsmall lp]]
 Shrieks of anger spilled from the wild growth all around and we bolted for the dubious safety of the house. In the center, a dwarven man had fallen in a slump before the anvil he had apparently been working before whatever trapped him here occurred. We arrayed ourselves around the house and prepared for what was to come next.
 
 ### Mythal Needle Blight
 
-![[Images/NPCs/Enemies/Corrupted Needle Blight.png|cover circle left hsmall lp]]
+![[Images/NPCs/Enemies/Corrupted Needle Blight.png#edge|cover circle left hsmall lp]]
 Blights attacked in a group, headed by something that was a blight, but so much more twisted and corrupted than just a common creature. It hissed with malice and bounded in to attack us all. Doran stood firm against the onslaught and we were slowly able to thin their numbers. Heswyn's magic struck a vital blow against the corrupted blight, and as it took more and more injury, it began to swell with the corruption within. As it fell, it exploded, and the impact brought me down.
 I came to consciousness again with the taste of a potion in my mouth, and Phelan over me. The realm shook and we all understood our time here was limited. Grabbing whatever was closest to hand (Doran the dwarf, Phelan the hammer by the anvil, and I swept the nearest tools into a sack), we all ran for the gate and escaped just before the entire realm collapsed.
 
 ## The Passing of the Treant
 
-![[Images/NPCs/Treant's End.png||cover circle right wsmall lp]]
+![[Images/NPCs/Treant's End.png#edge|cover circle right wsmall lp]]
 The treant had spent the last of his life opening the way to the feywild, and the meagre healing I had left was not enough to bolster him. He fell even as we spoke our last to each other, knowing we had returned successful.
 
 ## Removing the Axe

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-05-05T18:05:19.995-05:00
-modified: 2026-08-13T08:20:26.039-05:00
-published: 2026-08-13T08:20:26.039-05:00
+modified: 2026-08-13T11:22:24.055-05:00
+published: 2026-08-13T11:22:24.055-05:00
 banner: Orrery.png
 ---
 
 #session
 ![[Images/Banners/Orrery.png|page-banner]]
 
-# Trapped in the Mines
+# Searching for a new way forward
 
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-17" data-name="Trapped in the Mines" data-category="Character Journal"></span>
 
@@ -43,7 +43,7 @@ Decide which way to go -- climb out overland, tracking, or risk the tunnel.
 
 After much deliberation, the group decides to try Copperthorn's path as a way to enter White Crag. Little do they know what they will find along the way... <span data-calendar="Faerun Calendar" data-date="1501-Mar-18" data-name="The Tunnel to White Crag and the Great Pillar" data-category="Character Journal"></span>
 
-### Into the Tunnels to White Crag and the Great Pillar
+### Into the Tunnels
 
 BIG bulkhead heading further into tunnels
 sign - Lower Levels - Strictly forbidden

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-22T17:42:42.274-05:00
-modified: 2026-08-13T08:20:12.986-05:00
-published: 2026-08-13T08:20:12.986-05:00
+modified: 2026-08-13T11:21:23.637-05:00
+published: 2026-08-13T11:21:23.637-05:00
 banner: Trapped in the Mine.png
 ---
 
@@ -14,7 +14,7 @@ banner: Trapped in the Mine.png
 > - Remember - deal with 4 wolf pelts (woops, blew right past it)
 > - Were there 2 rests last week? One right after the Morn Riders left, and then one after the wolf encounter but before the rockfall -- doesn't matter, edited out the day
 
-# Tracking Lila
+# A necessary detour
 
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-17" data-name="Tracking Lila" data-category="Character Journal"></span>
 

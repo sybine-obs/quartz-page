@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-23T17:52:08.924-05:00
-modified: 2026-08-13T08:21:32.566-05:00
-published: 2026-08-13T08:21:32.566-05:00
+modified: 2026-08-13T12:18:36.615-05:00
+published: 2026-08-13T12:18:36.615-05:00
 banner: Snowmantle.png
 ---
 
@@ -80,8 +80,7 @@ Berrus and Phelan go down and out of the darkness materializes...
 ## HOLY FUCK BANSHEE IN THE BASEMENT
 
 > [!info|color-red background-yellow] Lirael Snowmantle
-> ![[Images/NPCs/Snowmantle/Lirael Snowmantle.png#edge|cover right circle htiny wtiny lp|300]]\
-> She wears the tattered remains of once beautiful performer's gown, now torn and stained with blood. Round her neck hangs one half of a silver locket, its broken edge glinting in your light. Her form flickers like moonlight on water, coming in and out of reality. Staccato. She's raiding an aura of profound grief and confusion.
+> ![[Images/NPCs/Snowmantle/Lirael Snowmantle.png#edge|cover right circle wtiny lp]]  She wears the tattered remains of once beautiful performer's gown, now torn and stained with blood. Round her neck hangs one half of a silver locket, its broken edge glinting in your light. Her form flickers like moonlight on water, coming in and out of reality. Staccato. She's raiding an aura of profound grief and confusion.
 
 Berrus and Phelan talk down the Banshee, and Tyalië returns the locket found in Doran's journals. She retreats, but requires that we return with the other half of the locket, and with her song to send her to rest.
 
@@ -133,8 +132,7 @@ One journal had half of an unfinished song - Take it to Old Thom and ask if he k
 ## Snowmantle - first night Revelation
 
 > [!info|color-red background-yellow] Lanseril Snowmantle, last warden of this town
-> ![[Images/NPCs/Snowmantle/Lanseril Snowmantle.png#edge|cover right circle htiny wtiny lp|300]]
-> A translucent half-elf woman materializes in the firelight, moonlight made flesh.
+> ![[Images/NPCs/Snowmantle/Lanseril Snowmantle.png#edge|cover right circle wtiny lp|300]] A translucent half-elf woman materializes in the firelight, moonlight made flesh.
 
 Long silver-white hair flows like frost, bound with a crown of dead, black twigs that twist into antlers. Her eyes are storm-cloud grey, ancient and sorrowful. She wears tattered robes of bark and leaf, and the cold radiates from her like winter itself.
 
@@ -155,8 +153,7 @@ Light dusting of snow on everything
 ## Go to the grove
 
 > [!info|color-red background-yellow] Ellowyn Thornwhisper
-> ![[Images/NPCs/Snowmantle/Elowen Thornwhisper.png#edge|cover right circle htiny wtiny lp|300]]\
-> Her bark-like skin is cracked and weeping golden sap. Living vines and crimson leaves twist through her hair like a crown of mourning. Thorns bristle across her arms and shoulders. Her emerald eyes burn with centuries of grief and fury.
+> ![[Images/NPCs/Snowmantle/Elowen Thornwhisper.png#edge|cover right circle wtiny lp|300]]  Her bark-like skin is cracked and weeping golden sap. Living vines and crimson leaves twist through her hair like a crown of mourning. Thorns bristle across her arms and shoulders. Her emerald eyes burn with centuries of grief and fury.
 
 She greets us and treats with us and in the end orders us to prove our goodwill.
 

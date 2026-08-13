@@ -2,13 +2,13 @@
 publish: true
 title: All Sessions
 created: 2026-04-06T09:35:43.819-05:00
-modified: 2026-08-13T10:42:31.536-05:00
-published: 2026-08-13T10:42:31.536-05:00
+modified: 2026-08-13T11:41:49.041-05:00
+published: 2026-08-13T11:41:49.041-05:00
 banner:
   - Heirs of the Forgotten Dale.png
 ---
 
-# All Sessions
+![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]
 
 | Date     | ## - Title                           | Faerun Calendar |
 | -------: | ------------------------------------- | ----------------|
