@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-21T21:52:23.946-05:00
-modified: 2026-08-13T15:28:29.956-05:00
-published: 2026-08-13T15:28:29.956-05:00
+modified: 2026-08-18T11:35:46.780-05:00
+published: 2026-08-18T11:35:46.780-05:00
 tags: session
 banner: Great Oak.png
 ---
@@ -74,7 +74,7 @@ Far enough away from the cabin to feel safe, we found a clearing to set up camp 
 > 2nd: Brendor, Phelan
 > 3rd: Doran, Tyalië
 
-![[Images/Misc/Displacer Beast.png|cover circle hsmall right lp]]Hardly into our first watch, Aiwë sensed something approaching, but we could not see what it was. I went to alert Berrus, but by then it was too late. A dark, cat-like creature sprang out of the woods and attacked!
+![[Images/Misc/Displacer Beast.png#edge|cover circle hsmall right lp]]Hardly into our first watch, Aiwë sensed something approaching, but we could not see what it was. I went to alert Berrus, but by then it was too late. A dark, cat-like creature sprang out of the woods and attacked!
 It seemed almost impossibly hard to hit, but the light of the feywilds clung to it as I called upon their fires, and the illumination seemed to draw it into a more cohesive shape. We were able to defeat it, and with some effort claim its hide, and a writhing tentacle, possibly to fashion something useful later. Brendor recognized it as a displacer beast -- something I hope not to have to face again soon.
 
 ### Broken Marble Pillar
