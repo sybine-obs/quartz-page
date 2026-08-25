@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T07:46:18.587-05:00
-modified: 2026-08-25T15:56:13.733-05:00
-published: 2026-08-25T15:56:13.733-05:00
+modified: 2026-08-25T17:01:49.125-05:00
+published: 2026-08-25T17:01:49.125-05:00
 tags: session
 banner: Crystal Cave.png
 ---
@@ -55,7 +55,7 @@ Only then did Phelan reveal that the other party was returning. Berrus thought q
 
 ## Recovering the Anvil
 
-![[Images/Misc/Draft Horse.png#edge|cover circle right hsmall lp]]Suddenly we were confronted with a new challenge. This anvil was far greater and heavier than any of the others we had bargained to take earlier. Far more than we could easily carry. The way out of the cavern emerged from a cliff wall, far above unknown forest below, and with only a dubious scaffolding to allow the descent. The other passage went out only to the lake.
+![[Images/Misc/Draft Horse.png#edge|cover right hsmall lp]]Suddenly we were confronted with a new challenge. This anvil was far greater and heavier than any of the others we had bargained to take earlier. Far more than we could easily carry. The way out of the cavern emerged from a cliff wall, far above unknown forest below, and with only a dubious scaffolding to allow the descent. The other passage went out only to the lake.
 
 But we had found the potion of water-breathing earlier! We debated the best way to use it. Could Doran carry the anvil out? Despite his great size and strength he swore he could not. But maybe something large and strong could drag it... And so I drew upon the forms of nature once more and, after taking the potion myself, shaped into a draft horse. The others tied the anvil to me and I was able to drag it out across the lake bottom. Thankfully, the rest swam along with, diving down to assist as they were able. We emerged on the other side of the lake before the potion ran out.
 
