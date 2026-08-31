@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-30T16:04:14.592Z
-modified: 2026-08-13T20:28:42.257Z
-published: 2026-08-13T20:28:42.257Z
+modified: 2026-08-31T19:34:16.175Z
+published: 2026-08-31T19:34:16.175Z
 tags: session
 banner: Swampy Woods.png
 ---
@@ -13,7 +13,7 @@ banner: Swampy Woods.png
 > The party came face-to-face with the lingering spirits of Lanseril Snowmantle and her sister Lirael Gooseford, along with the presence of the ancient dryad Elowen Thornwhisper.
 > Here is the truth of their story:
 >
-> ### The Three Sisters of the Grove
+> #### The Three Sisters of the Grove
 >
 > Long ago, before the Zhentarim came, Lanseril Snowmantle served as the Warden of the sacred grove and temple of Snowmantle. She was a devoted protector of the land and its people. Her younger sister, Lirael Gooseford, lived alongside her. While Lanseril was the steadfast guardian and leader, Lirael was more wild and free-spirited, often ranging through the forests with their close friend, the dryad Elowen Thornwhisper.
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:47:35.446Z
-modified: 2026-08-31T17:16:30.258Z
-published: 2026-08-31T17:16:30.258Z
+modified: 2026-08-31T19:37:50.348Z
+published: 2026-08-31T19:37:50.348Z
 tags: session
 banner: Moonpetal Flowers.png
 ---
@@ -38,6 +38,8 @@ We also found that the fields to the south were set to be an excellent area to g
 **Doran** - helps Durin with the smithy repairs; also assisted by Hank
 **Hank** - Deryan's Helpful Homunculi - a whole squad of shorter, semi-transparent "Hanks" to help with processing lumber
 
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="A Sky Full of Stars" data-category="Character Journal"></span>
+
 ## A rooftop moment
 
 ![[Images/Banners/Moonpetal Flowers.png#edge|cover circle left wmedium lp]]When exploring on my own, I had found an odd alcove off the upper floor of the temple, and it led to the roof giving me an idea as the moon waned in the sky. I gathered up the others to show them the way.
@@ -70,5 +72,3 @@ We fought the storm for what felt like hours, but it couldn't have been that lon
 We looked up from our exhausted trudge and found we had drifted in to the curve of the river. Safety was just beyond. The cold had clawed a solid scum of ice over the surface of the river, but it looked dangerous. It would likely not hold Doran. I called on the energies sleeping under the surface and the plants rose sluggishly to my call -- entangling vines that spread just under the ice to hold it firm. Phelan fell, but was able to cross. I went next, and could not hold against the storm. The ice cracked and water seeped through it, over me, chilling. Freezing. I thought this could be the end.
 
 Doran leapt into action, his furious bellow audible even over the screaming winds. He grabbed Gerran and jumped over the river, quickly reaching out to me with his pick and pulling me to the shore. We stumbled through the cold and fell through the door into the safety and the relative warmth of the temple walls.
-
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="An Unnatural Storm" data-category="Character Journal"></span>
