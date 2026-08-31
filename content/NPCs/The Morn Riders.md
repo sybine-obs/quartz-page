@@ -1,9 +1,9 @@
 ---
 publish: true
 aliases: Elandra
-created: 2026-06-10T05:19:24.120-05:00
-modified: 2026-08-13T15:32:43.466-05:00
-published: 2026-08-13T15:32:43.466-05:00
+created: 2026-06-10T10:19:24.120Z
+modified: 2026-08-13T20:32:43.466Z
+published: 2026-08-13T20:32:43.466Z
 tags: npc
 ---
 

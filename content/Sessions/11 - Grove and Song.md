@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-06-30T22:18:15.647-05:00
-modified: 2026-08-13T15:28:39.991-05:00
-published: 2026-08-13T15:28:39.991-05:00
+created: 2026-07-01T03:18:15.647Z
+modified: 2026-08-13T20:28:39.991Z
+published: 2026-08-13T20:28:39.991Z
 tags: session
 banner: fountain.jpg
 ---

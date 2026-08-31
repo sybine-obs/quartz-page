@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Heirs of the Forgotten Dale
-created: 2026-07-08T16:02:48.151-05:00
-modified: 2026-08-13T15:26:15.189-05:00
-published: 2026-08-13T15:26:15.189-05:00
+created: 2026-07-08T21:02:48.151Z
+modified: 2026-08-13T20:26:15.189Z
+published: 2026-08-13T20:26:15.189Z
 banner: Heirs of the Forgotten Dale.png
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-05T18:05:19.995-05:00
-modified: 2026-08-13T15:27:41.791-05:00
-published: 2026-08-13T15:27:41.791-05:00
+created: 2026-05-05T23:05:19.995Z
+modified: 2026-08-13T20:27:41.791Z
+published: 2026-08-13T20:27:41.791Z
 tags: session
 banner: Orrery.png
 ---

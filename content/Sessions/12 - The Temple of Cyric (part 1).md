@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-07T21:36:55.521-05:00
-modified: 2026-08-13T15:28:37.436-05:00
-published: 2026-08-13T15:28:37.436-05:00
+created: 2026-07-08T02:36:55.521Z
+modified: 2026-08-13T20:28:37.436Z
+published: 2026-08-13T20:28:37.436Z
 tags: session
 banner: Temple of Cyric.png
 ---

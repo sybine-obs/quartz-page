@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-04-21T17:32:42.770-05:00
-modified: 2026-08-13T15:27:09.571-05:00
-published: 2026-08-13T15:27:09.571-05:00
+created: 2026-04-21T22:32:42.770Z
+modified: 2026-08-13T20:27:09.571Z
+published: 2026-08-13T20:27:09.571Z
 tags: session
 banner: Dagger Hills Lonely Trail.png
 ---

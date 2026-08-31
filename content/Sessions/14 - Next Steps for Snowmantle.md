@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-21T21:52:23.946-05:00
-modified: 2026-08-18T11:35:46.780-05:00
-published: 2026-08-18T11:35:46.780-05:00
+created: 2026-07-22T02:52:23.946Z
+modified: 2026-08-18T16:35:46.780Z
+published: 2026-08-18T16:35:46.780Z
 tags: session
 banner: Great Oak.png
 ---

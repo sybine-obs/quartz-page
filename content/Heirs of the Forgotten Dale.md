@@ -1,9 +1,9 @@
 ---
 publish: true
 title: All Sessions
-created: 2026-04-06T09:35:43.819-05:00
-modified: 2026-08-25T16:00:24.984-05:00
-published: 2026-08-25T16:00:24.984-05:00
+created: 2026-04-06T14:35:43.819Z
+modified: 2026-08-26T22:38:16.188Z
+published: 2026-08-26T22:38:16.188Z
 banner: Heirs of the Forgotten Dale.png
 ---
 
@@ -28,6 +28,6 @@ banner: Heirs of the Forgotten Dale.png
 |     July 28 | [[14 - Next Steps for Snowmantle]]    | 20 Marpenoth    |
 |    August 4 | [[15 - The Sunken Quarry]]            | 1 Uktar         |
 |   August 18 | [[16 - The Ironvein Mines]]           | 12 Uktar        |
-|   August 25 | [[17 - Session 08-25-26]]             |                 |
+|   August 25 | [[17 - Flowers to Frost]]             |                 |
 | September 1 | [[18 - Session 09-01-26]]             |                 |
 |             |                                       |                 |

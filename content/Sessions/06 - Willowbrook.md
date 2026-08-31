@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-06-02T17:29:06.781-05:00
-modified: 2026-08-13T15:28:55.036-05:00
-published: 2026-08-13T15:28:55.036-05:00
+created: 2026-06-02T22:29:06.781Z
+modified: 2026-08-13T20:28:55.036Z
+published: 2026-08-13T20:28:55.036Z
 tags: session
 banner: Willowbrook.png
 ---
