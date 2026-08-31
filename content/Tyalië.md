@@ -2,8 +2,8 @@
 publish: true
 aliases: me
 created: 2026-04-23T17:41:29.184Z
-modified: 2026-08-26T15:33:57.359Z
-published: 2026-08-26T15:33:57.359Z
+modified: 2026-08-31T19:15:43.285Z
+published: 2026-08-31T19:15:43.285Z
 tags: PC
 banner: Tyalië Forest.png
 ---
@@ -26,6 +26,8 @@ banner: Tyalië Forest.png
 > | **Darkvision** | 60 ft |
 > |**Speed**| 30 ft |
 
+## [[QUEST TRACKER|QUEST TRACKER (link)]]
+
 ## Information
 
 [[Tyalië Nassea Backstory.pdf|Backstory (pdf)]]
@@ -44,41 +46,13 @@ https://www.tecendil.com/?q=tyalie
 
 > [!tip|color-red background-yellow] **Moonpetal’s Veil** 
 > As a bonus action, you cause moonpetals to bloom in a 20-foot radius centered on a point you can see within 60 feet. The area becomes difficult terrain for enemies. When an enemy starts its turn in the area or enters it for the first time on a turn, it must succeed on a Wisdom saving throw or be **restrained** until the end of its turn.
-
-You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
-
 >
+> You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+>
+> Additionally, once per long rest, when you use this feature, if you have no uses of your **Starry Form** remaining, you regain one use of it.
 
-Additionally, once per long rest, when you use this feature, if you have no uses of your **Starry Form** remaining, you regain one use of it.
-
-|                                                                                    |     |                             |                  |                        |
-| ---------------------------------------------------------------------------------- | --- | --------------------------- | ---------------- | ---------------------- |
-| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)           | CN  | Mischief, change            | Trickery         | Asymmetrical starburst |
-| [Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil) | CG  | Nature, beasts, the seasons | Nature           | Oak                    |
-| [Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)   | CG  | Light, stars, revelations   | Knowledge, Light | Shaft of light         |
-|                                                                                    |     |                             |                  |                        |
-
-Current quests:
-
-- [x] Get the caravan to the re-founding site of Teshandale / Snowmantle
-  - [x] Choose the path north - the road, or the hills?
-  - [x] Find and rescue Lila
-    - [x] Track Lila to White Crag
-  - [x] Get to Dagger Falls
-  - [x] Get to Snowmantle
-- [x] &#x20;Clear Snowmantle
-  - [ ] Make the town habitable
-    - [x] Retrieve the Axe of Snowmantle for Elowen Thornwhisper
-      - [x] Harm neither root nor crown
-    - [x] Cleanse the Temple (with axe)
-      - [x] Clear undead priests
-      - [x] cleanse desecrated ground
-      - [x] Free Lanseril's spirit
-    - [x] Return 2nd half of the locket to Lirael
-    - [x] Sing Lirael's Song
-- [x] Get the Anvil for the town
-  - [ ] Search the lake
-  - [ ] Search the ironvein mine
-- [ ] Survive the storm
-- [x] What's up with Grandma's Circlet (Moonpetal Circlet)?
-- [ ] Lady Naranya Cormeryl, werewolf queen
+| GOD  | Alignment | Aspects | Domain | Symbol |
+| ---- | :-------: | ------- | ------ | ------ |
+| [Erevan Ilesere](https://forgottenrealms.fandom.com/wiki/Erevan_Ilesere)           | Chaotic Neutral | Mischief, change | Trickery | Asymmetrical starburst |
+| [Rillifane Rallathil](https://forgottenrealms.fandom.com/wiki/Rillifane_Rallathil) | Chaotic Good | Nature, beasts, the seasons | Nature           | Oak |
+| [Araleth Letheranil](https://forgottenrealms.fandom.com/wiki/Araleth_Letheranil)   | Chaotic Good | Light, stars, revelations | Knowledge, Light | Shaft of light |
