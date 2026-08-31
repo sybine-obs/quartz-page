@@ -2,15 +2,15 @@
 publish: true
 aliases: me
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-08-31T19:14:03.997Z
-published: 2026-08-31T19:14:03.997Z
+modified: 2026-08-31T19:26:22.033Z
+published: 2026-08-31T19:26:22.033Z
 tags: PC
 banner: Tyalië Forest.png
 ---
 
 # Quest Tracker
 
-> [!tip|color-red background-yellow]- ### The Caravan North
+> [!tip|color-red background-yellow]- The Caravan North
 >
 > - [x] Get the caravan to the re-founding site of Teshandale / Snowmantle
 >   - [x] Choose the path north - the road, or the hills?
@@ -20,7 +20,7 @@ banner: Tyalië Forest.png
 >   - [x] Get to Snowmantle
 > - [ ] What's up with Lady Naranya Cormeryl, werewolf queen?
 
-> [!tip|color-red background-yellow]- ### Founding Snowmantle
+> [!tip|color-red background-yellow]- Founding Snowmantle
 >
 > - [x] &#x20;Clear Snowmantle
 >   - [x] Make the town habitable
@@ -33,7 +33,7 @@ banner: Tyalië Forest.png
 >     - [x] Return 2nd half of the locket to Lirael
 >     - [x] Sing Lirael's Song
 
-> [!tip|color-red background-yellow] ### Rebuilding Snowmantle
+> [!tip|color-red background-yellow] Rebuilding Snowmantle
 >
 > - [x] Get the Anvil for the town
 >   - [x] Search the lake
@@ -44,7 +44,7 @@ banner: Tyalië Forest.png
 >   - [ ] Rescue Elara Fisher
 > - [ ] Is there a SPY??
 
-> [!tip|color-red background-yellow] ### Other Quests
+> [!tip|color-red background-yellow] Other Quests
 >
 > - [ ] What's up with Grandma's Circlet (Moonpetal Circlet)?
 >   - [x] It apparently does cool stuff! See item description above
