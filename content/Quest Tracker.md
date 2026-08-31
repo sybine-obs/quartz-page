@@ -1,10 +1,10 @@
 ---
 publish: true
-aliases: me
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-08-31T19:26:22.033Z
-published: 2026-08-31T19:26:22.033Z
-tags: PC
+modified: 2026-08-31T19:30:07.382Z
+published: 2026-08-31T19:30:07.382Z
+tags:
+aliases:
 banner: Tyalië Forest.png
 ---
 
