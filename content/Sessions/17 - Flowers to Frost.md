@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:47:35.446Z
-modified: 2026-08-31T16:59:45.158Z
-published: 2026-08-31T16:59:45.158Z
+modified: 2026-08-31T17:16:30.258Z
+published: 2026-08-31T17:16:30.258Z
 tags: session
 banner: Moonpetal Flowers.png
 ---
@@ -19,7 +19,7 @@ banner: Moonpetal Flowers.png
 
 ## A new arrival
 
-Finn came running far too early in the morning with  a warning -- someone was approaching on the road. It took a little bit to rouse everyone to go see, although Doran was immediately out the door, and Berrus was so deeply asleep, we decided to leave him there for the time being. ![[Images/Misc/Fuzzy Caterpillar - mustache.png#edge|cover circle wtiny right lp]] (I only left a small gift to show who much I was thinking of him...)
+Finn came running far too early in the morning with  a warning -- someone was approaching on the road. It took a little bit to rouse everyone to go see, although Doran was immediately out the door, and Berrus was so deeply asleep, we decided to leave him there for the time being. ![[Images/Misc/Fuzzy Caterpillar - mustache.png#edge|cover circle wsmall right lp]] (I only left a small gift to show who much I was thinking of him...)
 We were warry to start, and Doran challenged the stranger, but the old human seemed friendly enough. He introduced himself as [[Hank]] Houdini, a mage. He was made aware of Jerana's endeavor by his school, and by Lord Morn in Dagger Falls. Apparently our trail here was easy enough to follow and after a bit we invited him inside the camp to meet Jerana.
 
 > [!tip|color-red background-yellow] General Info

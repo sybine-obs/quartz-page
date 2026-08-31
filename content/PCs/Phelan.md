@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bracken
 created: 2026-04-23T16:30:41.848Z
-modified: 2026-07-10T21:13:41.738Z
-published: 2026-07-10T21:13:41.738Z
+modified: 2026-08-31T17:19:30.640Z
+published: 2026-08-31T17:19:30.640Z
 tags:
   - PC
 ---
@@ -30,3 +30,5 @@ tags:
 - small (3ft even), so maybe someone to approach first
 - tentative/reserved
 - Has a SPRITE FAMILIAR, Bracken - usually invisible, but revealed herself in the fight against Zombies in Snowmantle
+
+![[Images/PC Images/Bracken.png#edge|cover circle wsmall lp]]
