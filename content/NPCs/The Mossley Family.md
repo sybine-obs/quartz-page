@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-06-10T09:37:55.645Z
-modified: 2026-08-13T20:31:31.964Z
-published: 2026-08-13T20:31:31.964Z
+modified: 2026-09-01T13:18:17.688Z
+published: 2026-09-01T13:18:17.688Z
 tags: npc
 ---
 
-> [!important|background-yellow icon-red] The Mossley Family
-> ![[Images/NPCs/Caravan/Mossley Family.png#edge||cover right circle htiny wtiny lp]]
+> [!important|background-yellow color-red] The Mossley Family
+> ![[Images/NPCs/Caravan/Mossley Family.png#edge||cover right circle  wtiny lp]]
 >
 > - Garren Mossley (26, human male) – Hunter and Trapper Personality Traits: Quiet, watchful, and deeply protective. He is a man of few words but is dependable in a crisis and has a gentle, dry wit once he warms up to someone. He is fiercely loyal to his wife and son. Background: Garren’s family has lived on the fringes of the Dalelands for generations. He joined the caravan to give his son a safer life than the one he knew growing up.
 > - Seline Mossley (24, human female) – Herbalist and Cook’s Helper Personality Traits: Gentle, nurturing, and practical. She has a calming presence and is quick to offer comfort or herbal remedies to anyone who is sick or injured. She is the emotional anchor of her small family. Background: Seline is skilled with plants and simple healing. She often works alongside Mara Greenhand in the camp kitchen.

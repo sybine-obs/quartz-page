@@ -1,17 +1,15 @@
 ---
 publish: true
 created: 2026-06-10T09:17:46.676Z
-modified: 2026-08-13T20:31:03.005Z
-published: 2026-08-13T20:31:03.005Z
+modified: 2026-09-01T13:17:00.493Z
+published: 2026-09-01T13:17:00.493Z
 tags: npc
 ---
 
 > [!important|color-red background-yellow lp] Finn Quickfletch
-> ![[Images/NPCs/Caravan/Finn Quickfletch.png#edge|cover right circle htiny wtiny lp]]
+> ![[Images/NPCs/Caravan/Finn Quickfletch.png#edge|cover right circle  wtiny lp]]
 > A lean, 22-year-old half-elf archer with a notched longbow slung across his back and a thin scar running down one cheek. Finn has sharp green eyes, tousled dark hair, and the easy, cocky grin of someone who has spent most of his life on the road. He wears practical traveling leathers, a faded green cloak, and keeps a small quiver of arrows close at hand.
-
-He is one of the younger members of the caravan and serves as one of the unofficial flank scouts. Finn is cocky and quick with a joke, but he is also fiercely loyal once he decides someone is worth protecting. He has taken a quiet interest in the party’s adventures and can often be seen watching from the edge of camp with his bow resting across his knees.
-
 >
-
-He travels light, keeps mostly to himself during the day, but is always ready to lend a hand when the wagons get stuck or trouble appears on the horizon.
+> He is one of the younger members of the caravan and serves as one of the unofficial flank scouts. Finn is cocky and quick with a joke, but he is also fiercely loyal once he decides someone is worth protecting. He has taken a quiet interest in the party’s adventures and can often be seen watching from the edge of camp with his bow resting across his knees.
+>
+> He travels light, keeps mostly to himself during the day, but is always ready to lend a hand when the wagons get stuck or trouble appears on the horizon.

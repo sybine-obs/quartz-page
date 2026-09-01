@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-06-10T09:11:54.250Z
-modified: 2026-08-13T20:30:58.018Z
-published: 2026-08-13T20:30:58.018Z
+modified: 2026-09-01T13:15:12.196Z
+published: 2026-09-01T13:15:12.196Z
 tags: npc
 ---
 
-> [!important|background-yellow icon-red] Brock Ironarm
-> ![[Images/NPCs/Caravan/Brock Ironarm.png#edge|cover right circle htiny wtiny lp]]
+> [!important|background-yellow color-red] Brock Ironarm
+> ![[Images/NPCs/Caravan/Brock Ironarm.png#edge|cover right circle  wtiny lp]]
 > A stocky hill dwarf standing 4'6", Brock is built like a keg of ale with legs. His bushy black beard is braided with iron rings that clink softly when he moves, and he always carries a battered ale flask at his belt alongside a heavy hammer maul slung across his back.
 >
 > His face is weathered, scarred from old brawls, with a perpetual half-grin that shows when he's about to arm-wrestle someone or grumble about "soft lowlanders" and "pointy-eared tree-huggers." His laugh is a booming thunderclap that can shake tent poles, and he slaps backs hard enough to knock the wind out of most folk.
