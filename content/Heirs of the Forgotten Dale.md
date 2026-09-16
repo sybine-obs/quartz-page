@@ -2,8 +2,8 @@
 publish: true
 title: All Sessions
 created: 2026-04-06T14:35:43.819Z
-modified: 2026-09-16T15:04:10.863Z
-published: 2026-09-16T15:04:10.863Z
+modified: 2026-09-16T15:09:32.610Z
+published: 2026-09-16T15:09:32.610Z
 banner: Heirs of the Forgotten Dale.png
 ---
 
@@ -29,6 +29,6 @@ banner: Heirs of the Forgotten Dale.png
 |     August 4 | [[15 - The Sunken Quarry]]            | 1 Uktar         |
 |    August 18 | [[16 - The Ironvein Mines]]           | 12 Uktar        |
 |    August 25 | [[17 - Flowers to Frost]]             | 23 Uktar        |
-| September 15 | [[18 - The Longest Winter]]           | Uktar to Hammer |
+| September 15 | [[18 - Shelter in Place]]           | Uktar to Hammer |
 | September 22 | [[19 - Next Session]]                 |                 |
 |              |                                       |                 |
