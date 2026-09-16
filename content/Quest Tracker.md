@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-08-31T19:30:07.382Z
-published: 2026-08-31T19:30:07.382Z
+modified: 2026-09-16T15:17:50.894Z
+published: 2026-09-16T15:17:50.894Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -39,10 +39,16 @@ banner: Tyalië Forest.png
 >   - [x] Search the lake
 >   - [x] Search the ironvein mine
 >   - [x] Get the Anvil back to Snowmantle
-> - [ ] Survive the storm
+> - [x] Survive the storm
 >   - [x] Rescue Gerran
->   - [ ] Rescue Elara Fisher
+>   - [x] Rescue Elara Fisher -- technically done?? Sadly "failed" is also done.
+>   - [x] Week 1
+>   - [x] Week 2
+>   - [x] Week 3
+>   - [x] Week 4
+>   - [x] Week 5
 > - [ ] Is there a SPY??
+> - [ ] Celebrate surviving!
 
 > [!tip|color-red background-yellow] Other Quests
 >
