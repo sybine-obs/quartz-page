@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-09-16T15:17:50.894Z
-published: 2026-09-16T15:17:50.894Z
+modified: 2026-10-07T03:23:15.634Z
+published: 2026-10-07T03:23:15.634Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -48,7 +48,7 @@ banner: Tyalië Forest.png
 >   - [x] Week 4
 >   - [x] Week 5
 > - [ ] Is there a SPY??
-> - [ ] Celebrate surviving!
+> - [x] Celebrate surviving!
 
 > [!tip|color-red background-yellow] Other Quests
 >
