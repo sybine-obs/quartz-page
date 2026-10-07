@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T18:20:22.872Z
-modified: 2026-10-07T15:45:38.921Z
-published: 2026-10-07T15:45:38.921Z
+modified: 2026-10-07T17:05:12.507Z
+published: 2026-10-07T17:05:12.507Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -14,8 +14,11 @@ banner: Snowstorm.png
 > - clearing paths to the other buildings
 > - potential spy situation
 
-## <span class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">A party for Lila - fun in the snow</span>
+# Emerging from our shelter
 
+## A party for Lila
+
+<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">Nightal 29</span>
 ![[Images/Misc/Singing Dryad.png]]As we all emerged from our storm shelter into the waning day, it seemed like we would be able to relocate to the Singing Dryad Inn. Lila was barely able to sit still, knowing that her complaint had been heard and that we were all going to do our very best to celebrate her birthday, and surviving the storm. Jerana stood at her side, still looking fragile, but present.
 
 A careful patch of blankets stretched over the wide hole in the roof. Mara was able to cook up a plain broth, which was at least filling and better than nothing. There was little left to spice it and nothing for a sweet treat.
@@ -40,6 +43,8 @@ Phelan started up a happy birthday song, and Bracken was seen to part with her l
 
 ![[Images/Misc/Carved wooden horse.png#edge|cover right circle hsmall lp]]I found a quiet place near the fire to work on carving a draft horse to go with Lila's doll. As the light faded from the sky she quietly slipped out, and on her way back to the Temple noticed a figure just to the south of the Singing Dryad -- Garren had made his way to a quiet spot away from everyone else. She joined him in the snow for a moment, and in connecting tried to comfort him in his guilt at surviving.
 
+## Figures in the Snow
+
 Continuing on, I passed Doran on the way to the Temple, and he noticed a figure over by the barracks. He called for me to stop, and the two of them attempted to figure out what is going on over there. Doran turned and trudged back to the Inn, leaving the sled-worth of children inside, while Aiwë circled the barracks to try and spot what had caught his eye.
 
 Doran mobilized those in the Inn and they tried to figure out who might not be present, but it was a difficult task. Phelan and Hank did their best to get a head-count, and tried to coordinate with Heswyn in the temple by way of Bracken. Bracken was less than pleased to be used for so mundane a task.
@@ -50,4 +55,4 @@ Berrus joined us out by the Barracks as we investigated, finding a person's foot
 
 Unfortunately ... the barracks were occupied. Two Winter Wolves rose slowly to their feet and attacked.
 
-![[Images/Misc/Winter Wolf.png|cover center wmedium lp]]
+<span style="display: flex; justify-content: center;">![[Images/Misc/Winter Wolf.png#edge|cover center wmedium lp]]</span>

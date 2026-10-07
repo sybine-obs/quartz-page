@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T03:00:18.425Z
-modified: 2026-10-07T16:48:41.080Z
-published: 2026-10-07T16:48:41.080Z
+modified: 2026-10-07T17:07:42.449Z
+published: 2026-10-07T17:07:42.449Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -13,8 +13,11 @@ banner: Snowstorm.png
 >
 > - Choose a direction (west to the wolves)
 
-## <span style="" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-8" data-end="" data-name="Hunting the wolves" data-category="Character Journal">Hunting the wolves (Hammer 8)</span>
+# The direction of the hunt
 
+## Hunting the Wolves
+
+<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-8" data-end="" data-name="Hunting the wolves" data-category="Character Journal">Hammer 8</span>
 As the day dawned clear enough for us to think we could leave the town safely for a short while, we debated the best direction to take. The Grove and the Quarry might hold enough game to support us, but were also a further trek. The present danger of the winter wolves to our west seemed more pressing. While wolf meat would not be the most savory, it was still food. And leaving them at our backs to harry the camp while we were gone was too great of a risk. We decided to hunt them instead of leaving them to harry our people.
 
 We began to track the wolves...![[Images/Misc/Tracks in the snowy woods.png#edge|lp hsmall right circle ]]
@@ -32,8 +35,9 @@ As we walked along the track, the forest rose up to one side and then slowly env
 We found a fallen tree to build a camp against, butting our shelter up against the torn roots and within the sheltered depression where it was torn from the ground.
 We slept well enough and woke up warm and rested.
 
-## <span style="" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-9" data-end="" data-name="Hunting the wolves - day 2" data-category="Character Journal">Hunting the wolves - day 2 (Hammer 9)</span>
+## Hunting the Wolves - Day 2
 
+<span  style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-9" data-end="" data-name="Hunting the wolves - day 2" data-category="Character Journal">Hammer 9</span>
 The paths were deeper here, and we spotted a few drops of blood from time to time along the trail.
 The trunks on the left carried old blazes, grown shut with time. But under the old blazes, there were new ones - two strokes cut into the bark and fresh enough that they are still sticky with sap.
 

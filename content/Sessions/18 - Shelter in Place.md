@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T20:12:17.403Z
-modified: 2026-09-16T15:04:55.012Z
-published: 2026-09-16T15:04:55.012Z
+modified: 2026-10-07T17:03:15.058Z
+published: 2026-10-07T17:03:15.058Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -14,11 +14,15 @@ banner: Snowstorm.png
 > - What is up with the signal from the ridge to the town and back again
 > - Do we have a traitor, or a spy? Who are they working for?
 
+# Lockdown in the Temple
+
 ## Returning from the Storm
 
 We stumbled out of the cold, so very bitterly cold. Doran and Phelan had weathered the frigid winds better, and even Gerran was exhausted, but none so much as I. There was nothing left and nothing to do but cling to Doran as he carried me down deeper into the temple.
 
 The days passed as a blur...
+
+## Week one
 
 - <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Uktar-24" data-end="1501-Uktar-30" data-name="Shelter in place - the first week" data-category="Character Journal">Uktar 24-30 - The first week of the storm</span>
   - The temple had been hurriedly prepared as the most solid building
@@ -31,6 +35,9 @@ The days passed as a blur...
   - Berrus kept the children occupied, which was far more important than one might initially consider
   - Heswyn was able to conjure water, and Doran and Hank also brought snow down from above when they were able
 - <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Feast-1" data-name="Festival of the Moon" data-category="Character Journal">Feast of the Moon</span> -- The day of celebration passed without notice or comment.
+
+## Week Two
+
 - <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Nightal-1" data-end="1501-Nightal-7" data-name="Shelter in place - the second week" data-category="Character Journal">Nightal 1-7 - The second week</span>
   - After the first week, the talk began. Will we die? Will the storm ever end? Tossed together in such a small space, sanitation also started to be an issue. Getting the townspeople to wash and be clean with limited water (and no dedicated privy) meant the halls became redolent with the smell of the living.
   - The winds finally began to diminish around the end of the week so that some of the bitterness of the cold was not so keenly felt
@@ -41,6 +48,9 @@ The days passed as a blur...
   - Hank tries to entertain at night, with Barrus's help
   - The weight of the town's regard became too much, and with Heswyn's help, Tyalië retreated upstairs to where the oxen rested.
   - Phelan helped with healing Tyalië's severe frostbite, and with managing the younglings as they grew increasingly restless
+
+## Week Three
+
 - <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Nightal-8" data-end="1501-Nightal-14" data-name="Shelter in place - the third week" data-category="Character Journal">Nightal 8-14 - the third week</span>
   - More fall sick:
     - Mara
@@ -52,6 +62,9 @@ The days passed as a blur...
   - Jorana emotionally withdrew further, leaving the townspeople to their dark thoughts. Muttering spread. Fights broke out.
   - Finally rested enough to move about, Tyalië relocates to the library, and settles Brock down as he begins to wind up into a fight.
   - Hank sorts through the library, trying to figure out if there is anything of value left. He casts both Identify and Detect Magic, looking into the nature of "frost lung". It appears those that spent more time outside are more likely to catch it. There is something in the nature of Necromancy blowing in the bitter winds, and it takes root in those exposed to it and makes them more susceptible to illness
+
+## Week Four
+
 - <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-15" data-end="1501-Nightal-21" data-name="Shelter in place - the forth week" data-category="Character Journal">Nightal 15-21 - the fourth week</span>
   - The weather lightens more, although snow still falls
   - Heswyn heals two, still six people sick with "frost lung". This is beginning to wear on him as well -- doubts fester. Could he have been stronger? A better cleric?
@@ -70,6 +83,9 @@ The days passed as a blur...
     - Hank - TBD
   - Phelan sends Bracken to check in on Dagger Falls, ask if Elara Fischer fled that way, find out about food stores there
   - Heswyn works on cleaning the temple more to make it worthy of Selune - notices that the temple steps look damaged by some great spell
+
+## Week Five
+
 - <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-22" data-end="1501-Nightal-28" data-name="Shelter in place - the fifth week" data-category="Character Journal">Nightal 22-28 - the fifth week</span>
   - Doran and Hank make it to the inn and assess what needs to happen there
   - Tyalië tries to wild-shape as a wolf to follow the tracks, but sinks right into the snow. So why do the tracks by the barracks run along the top of the snow??

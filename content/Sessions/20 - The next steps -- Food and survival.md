@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T00:26:32.620Z
-modified: 2026-10-07T15:54:38.658Z
-published: 2026-10-07T15:54:38.658Z
+modified: 2026-10-07T17:06:30.606Z
+published: 2026-10-07T17:06:30.606Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -14,6 +14,8 @@ banner: Snowstorm.png
 > - Need: Food, wood, ore
 > - clearing paths to the other buildings
 > - potential spy situation
+
+# New Paths
 
 ## Mid-fight with the wolves
 
@@ -52,7 +54,9 @@ In the end, we barely scraped together enough to get a small bit "ahead" for the
 
 ![[Images/Travel Maps/Snowmantle Paths.png|lp 400|382]]
 
-## <span class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">The Next Week - finding food</span>
+## The Next Week - Finding Food
+
+<span style="font-style:italic;font-weight:bold"  class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">Nightal 30, 1501 - Hanmer 7, 1502</span>
 
 Training the villagers to feed themselves
 
