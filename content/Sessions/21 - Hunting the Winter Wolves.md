@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-09-30T03:00:18.425Z
-modified: 2026-10-07T17:07:42.449Z
-published: 2026-10-07T17:07:42.449Z
+modified: 2026-10-07T17:49:20.921Z
+published: 2026-10-07T17:49:20.921Z
 tags: session
-banner: Snowstorm.png
+banner: Snowscape.png
 ---
 
-![[Images/Banners/Snowstorm.png|page-banner]]
+![[Images/Banners/Snowscape.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...
 >

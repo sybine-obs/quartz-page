@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-10-07T16:30:53.197Z
-published: 2026-10-07T16:30:53.197Z
+modified: 2026-10-07T17:52:14.377Z
+published: 2026-10-07T17:52:14.377Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -53,9 +53,10 @@ banner: Tyalië Forest.png
 >   - [ ] Hole in the roof of the Singing Dryad
 >   - [ ] Get the forge in order
 > - [ ] Winter survival
->   - [ ] Snowshoes to enable better travel
+>   - [x] Snowshoes to enable better travel
 >   - [ ] Food
->     - [ ] Clear out the Winter Wolves
+>     - [x] Clear out the Winter Wolves
+>     - [ ] Find more sources of food
 >   - [ ] Wood for fires
 > - [ ] Keep an eye out for signs of Elara and Flinn
 

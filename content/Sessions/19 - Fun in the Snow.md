@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-14T18:20:22.872Z
-modified: 2026-10-07T17:05:12.507Z
-published: 2026-10-07T17:05:12.507Z
+modified: 2026-10-07T17:47:58.861Z
+published: 2026-10-07T17:47:58.861Z
 tags: session
-banner: Snowstorm.png
+banner: Singing Dryad.png
 ---
+
+![[Images/Banners/Singing Dryad.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...
 >
@@ -19,7 +21,7 @@ banner: Snowstorm.png
 ## A party for Lila
 
 <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">Nightal 29</span>
-![[Images/Misc/Singing Dryad.png]]As we all emerged from our storm shelter into the waning day, it seemed like we would be able to relocate to the Singing Dryad Inn. Lila was barely able to sit still, knowing that her complaint had been heard and that we were all going to do our very best to celebrate her birthday, and surviving the storm. Jerana stood at her side, still looking fragile, but present.
+![[Images/Banners/Singing Dryad.png]]As we all emerged from our storm shelter into the waning day, it seemed like we would be able to relocate to the Singing Dryad Inn. Lila was barely able to sit still, knowing that her complaint had been heard and that we were all going to do our very best to celebrate her birthday, and surviving the storm. Jerana stood at her side, still looking fragile, but present.
 
 A careful patch of blankets stretched over the wide hole in the roof. Mara was able to cook up a plain broth, which was at least filling and better than nothing. There was little left to spice it and nothing for a sweet treat.
 

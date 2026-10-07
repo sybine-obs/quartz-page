@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-09-30T00:26:32.620Z
-modified: 2026-10-07T17:06:30.606Z
-published: 2026-10-07T17:06:30.606Z
+modified: 2026-10-07T17:50:38.950Z
+published: 2026-10-07T17:50:38.950Z
 tags: session
-banner: Snowstorm.png
+banner: Snowscape.png
 ---
 
-![[Images/Banners/Snowstorm.png|page-banner]]
+![[Images/Banners/Snowscape.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...
 >
@@ -39,7 +39,7 @@ Berrus dedicated himself to repairing and making more nets for the weir.
 
 Doran and Hank had shocking success creating snowshoes for the entire party.
 
-> ![[Images/Misc/Snowshoes.png#edge|lp right htiny circle]]_**Hunter snowshoes** (3x - one is Doran's size): advantage on the next two Wisdom (Survival) checks made while wearing them to move in deep snow, and they do not need re-lacing for a week._
+> ![[Images/Misc/Snowshoes.png#edge|lp right htiny circle]] **Hunter snowshoes** (3x - one is Doran's size): advantage on the next two Wisdom (Survival) checks made while wearing them to move in deep snow, and they do not need re-lacing for a week.\*
 
 Food was always on the forefront of our mind. We watched our stores dwindle even as we worked to bolster them.![[Images/Misc/Nat20s.png|lp hsmall right]]
 
