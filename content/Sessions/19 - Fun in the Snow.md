@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T18:20:22.872Z
-modified: 2026-10-06T22:23:50.129Z
-published: 2026-10-06T22:23:50.129Z
+modified: 2026-10-06T23:27:03.165Z
+published: 2026-10-06T23:27:03.165Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -16,7 +16,8 @@ banner: Snowstorm.png
 > - clearing paths to the other buildings
 > - potential spy situation
 
-<h2><span class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">A party for Lila - fun in the snow</span></h2>
+## <span class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">A party for Lila - fun in the snow</span>
+
 As we all emerged from our storm shelter into the first hints of sun, it seemed like we would be able to relocate to the Singing Dryad Inn. Lila was barely able to sit still, knowing that her quiet complaint had been heard and that we were all going to draw together and do our very best to celebrate her birthday, and surviving the storm. Jerana stood at her side, still looking fragile, but present.
 
 A careful patch of blankets stretched over the wide hole in the roof. Mara was able to cook up a plain broth, which was at least filling and better than nothing. There was little left to spice it and nothing for a sweet treat.
