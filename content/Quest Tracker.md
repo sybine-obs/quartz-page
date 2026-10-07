@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-10-07T03:23:15.634Z
-published: 2026-10-07T03:23:15.634Z
+modified: 2026-10-07T16:30:53.197Z
+published: 2026-10-07T16:30:53.197Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -49,9 +49,18 @@ banner: Tyalië Forest.png
 >   - [x] Week 5
 > - [ ] Is there a SPY??
 > - [x] Celebrate surviving!
+> - [ ] Continue repairs
+>   - [ ] Hole in the roof of the Singing Dryad
+>   - [ ] Get the forge in order
+> - [ ] Winter survival
+>   - [ ] Snowshoes to enable better travel
+>   - [ ] Food
+>     - [ ] Clear out the Winter Wolves
+>   - [ ] Wood for fires
+> - [ ] Keep an eye out for signs of Elara and Flinn
 
 > [!tip|color-red background-yellow] Other Quests
 >
 > - [ ] What's up with Grandma's Circlet (Moonpetal Circlet)?
->   - [x] It apparently does cool stuff! See item description above
+>   - [x] It apparently does cool stuff! See item description [[Tyalië#^2r2r0z|here]]
 >   - [ ] But does it do more? MAYBE

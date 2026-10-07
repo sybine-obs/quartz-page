@@ -2,8 +2,8 @@
 publish: true
 aliases: me
 created: 2026-04-23T17:41:29.184Z
-modified: 2026-08-31T19:28:34.891Z
-published: 2026-08-31T19:28:34.891Z
+modified: 2026-10-07T16:29:58.083Z
+published: 2026-10-07T16:29:58.083Z
 tags: PC
 banner: Tyalië Forest.png
 ---
@@ -49,7 +49,7 @@ https://www.tecendil.com/?q=tyalie
 >
 > You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 >
-> Additionally, once per long rest, when you use this feature, if you have no uses of your **Starry Form** remaining, you regain one use of it.
+> Additionally, once per long rest, when you use this feature, if you have no uses of your **Starry Form** remaining, you regain one use of it. ^2r2r0z
 
 | GOD  | Alignment | Aspects | Domain | Symbol |
 | ---- | :-------: | ------- | ------ | ------ |
