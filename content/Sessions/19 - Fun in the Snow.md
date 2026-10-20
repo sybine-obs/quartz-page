@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T18:20:22.872Z
-modified: 2026-10-07T17:47:58.861Z
-published: 2026-10-07T17:47:58.861Z
+modified: 2026-10-08T21:23:21.991Z
+published: 2026-10-08T21:23:21.991Z
 tags: session
 banner: Singing Dryad.png
 ---
@@ -43,7 +43,7 @@ Heswyn remained back in the temple, tending to those still sick so that they wil
 
 Phelan started up a happy birthday song, and Bracken was seen to part with her little tart, gifting first one half, and then the rest (minus a tiny bite), to Lila.
 
-![[Images/Misc/Carved wooden horse.png#edge|cover right circle hsmall lp]]I found a quiet place near the fire to work on carving a draft horse to go with Lila's doll. As the light faded from the sky she quietly slipped out, and on her way back to the Temple noticed a figure just to the south of the Singing Dryad -- Garren had made his way to a quiet spot away from everyone else. She joined him in the snow for a moment, and in connecting tried to comfort him in his guilt at surviving.
+![[Images/Misc/Carved wooden horse.png#edge|cover right circle hsmall lp]]I found a quiet place near the fire to work on carving a draft horse to go with Lila's doll. As the light faded from the sky she quietly slipped out, and on her way back to the Temple noticed a figure just to the south of the Singing Dryad -- Garren had made his way to a quiet spot away from everyone else. I joined him in the snow for a moment, and in connecting tried to comfort him in his guilt at surviving.
 
 ## Figures in the Snow
 

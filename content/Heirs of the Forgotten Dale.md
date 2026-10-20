@@ -2,8 +2,8 @@
 publish: true
 title: All Sessions
 created: 2026-04-06T14:35:43.819Z
-modified: 2026-10-07T03:24:58.000Z
-published: 2026-10-07T03:24:58.000Z
+modified: 2026-10-20T08:11:54.433Z
+published: 2026-10-20T08:11:54.433Z
 banner: Heirs of the Forgotten Dale.png
 ---
 
@@ -30,7 +30,9 @@ banner: Heirs of the Forgotten Dale.png
 |    August 18 | [[16 - The Ironvein Mines]]                  | 12 Uktar        |
 |    August 25 | [[17 - Flowers to Frost]]                    | 23 Uktar        |
 | September 15 | [[18 - Shelter in Place]]                    | Uktar to Hammer |
-| September 22 | [[19 - Fun in the Snow]]                     | Nightal 29-30   |
-| September 29 | [[20 - The next steps -- Food and survival]] | Hammer 1-7      |
-|    October 6 | [[21 - Hunting the Winter Wolves]]           | Hammer 8-9      |
-|              |                                              |                 |
+| September 22 | [[19 - Fun in the Snow]]                     | 29-30 Nightal   |
+| September 29 | [[20 - The next steps -- Food and survival]] | 1-7 Hammer      |
+|    October 6 | [[21 - Trails in the Snow]]           | 8-9 Hammer      |
+|   October 13 | [[22 - Wolf Winter]]                         | 11-15 Hammer    |
+|   October 20 | [[23 - Dire Wolves]]                         | 15-? Hammer     |
+|              | [[24 - Next Session]]                        |                 |

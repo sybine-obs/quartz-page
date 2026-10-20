@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-10-07T17:52:14.377Z
-published: 2026-10-07T17:52:14.377Z
+modified: 2026-10-20T08:01:49.061Z
+published: 2026-10-20T08:01:49.061Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -58,6 +58,10 @@ banner: Tyalië Forest.png
 >     - [x] Clear out the Winter Wolves
 >     - [ ] Find more sources of food
 >   - [ ] Wood for fires
+> - [ ] Goliaths to the Northwest
+>   - [ ] Food on the way
+>     - [ ] Foraging
+>     - [ ] Dire Wolves
 > - [ ] Keep an eye out for signs of Elara and Flinn
 
 > [!tip|color-red background-yellow] Other Quests

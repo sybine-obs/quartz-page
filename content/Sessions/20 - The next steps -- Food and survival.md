@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T00:26:32.620Z
-modified: 2026-10-07T17:50:38.950Z
-published: 2026-10-07T17:50:38.950Z
+modified: 2026-10-07T17:54:08.949Z
+published: 2026-10-07T17:54:08.949Z
 tags: session
 banner: Snowscape.png
 ---
@@ -56,7 +56,7 @@ In the end, we barely scraped together enough to get a small bit "ahead" for the
 
 ## The Next Week - Finding Food
 
-<span style="font-style:italic;font-weight:bold"  class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">Nightal 30, 1501 - Hanmer 7, 1502</span>
+<span style="font-style:italic;font-weight:bold"  class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">Nightal 30, 1501 - Hammer 7, 1502</span>
 
 Training the villagers to feed themselves
 
