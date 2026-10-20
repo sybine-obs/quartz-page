@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-07T03:04:35.708Z
-modified: 2026-10-20T10:39:31.732Z
-published: 2026-10-20T10:39:31.732Z
+modified: 2026-10-20T10:42:33.918Z
+published: 2026-10-20T10:42:33.918Z
 tags: session
 banner: WinterWolf.png
 ---
@@ -17,8 +17,8 @@ banner: WinterWolf.png
 > - [ ] next steps for food
 
 > [!important|background-yellow color-red] The New Oak
-> ![[Images/Misc/The New Oak.png#edge|cover circle hsmall right lp]]_The tree on the rise is not the old one. It is the one that grew from the acorn Elowyn left behind._
->
+> _The tree on the rise is not the old one. It is the one that grew from the acorn Elowyn left behind._
+> ![[Images/Misc/The New Oak.png#edge|cover circle hsmall right lp]]
 > _Before she went, she gave the party a single acorn and told them to place it where the last oak had stood. The stump and the broken roots were still there under the ground, on the low rise northwest of the temple. They planted it in the wound. By morning the new tree had risen, full-grown, its canopy already holding autumn color while the rest of the wood stayed buried. Snow does not settle on its branches. A soft golden light moves under the bark, and a few low bushes have taken hold on the hill around its roots._
 >
 > _The old oak is gone. This tree is what Elowyn chose to leave in its place. It does not remember the cutting. It does not carry the wound. It simply stands where the last one fell, out of season, and the light in its heartwood is the first thing anyone sees when they come up the track after dark._
