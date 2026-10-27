@@ -4,5 +4,5 @@ tags: npc
 ---
 
 > [!important|color-red background-yellow lp] Wren Copperthorn
-> ![[No Image Available.png#edge|cover right circle  wtiny lp]] 
+> ![[Images/Misc/No Image Available.png#edge|cover right circle  wtiny lp]]
 > Alchemist and Monster Hunter

@@ -1,25 +1,30 @@
 ---
-tags:
-  - PC
+publish: true
 aliases:
   - Bracken
-publish: true
+tags:
+  - PC
 ---
->[!infobox|wikipedia] 
-># Character Info
->![[Hank Houdini.png|cover hsmall]]
->###### Hank Houdini
->|   |   |
->| ----- | ----- |
->|**Species**| Human |
->| **Class** | Wizard |
->| **Background** | Artisan  |
->| **Darkvision** | no |
->|**Speed**| 30 ft |
 
-## Impressions: 
+> [!infobox|wikipedia]
+>
+> # Character Info
+>
+> ![[Images/PC Images/Hank Houdini.png|cover hsmall]]
+>
+> ###### Hank Houdini
+>
+> |   |   |
+> | ----- | ----- |
+> |**Species**| Human |
+> | **Class** | Wizard |
+> | **Background** | Artisan  |
+> | **Darkvision** | no |
+> |**Speed**| 30 ft |
+
+## Impressions:
+
 - old - he's OLD (for a human)
 - familiar, tinker
 
-![[Tinker.png]]
-
+![[Images/PC Images/Tinker.png]]

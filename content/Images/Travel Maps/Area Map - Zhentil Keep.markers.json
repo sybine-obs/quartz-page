@@ -1,0 +1,61 @@
+{
+  "size": {
+    "w": 1465,
+    "h": 1003
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_re9vpx",
+      "x": 0.3437437133436566,
+      "y": 0.8310906815779229,
+      "layer": "default",
+      "link": "00 - The Journey Begins",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_iv2vnr",
+      "x": 0.22589918268311346,
+      "y": 0.7504300938637164,
+      "layer": "default",
+      "link": "05 - Exploring White Crag",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "Images/Travel Maps/Area Map - Zhentil Keep.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Images/Travel Maps/Area Map - Zhentil Keep.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {
+    "pinRed": 40
+  },
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

@@ -1,20 +1,26 @@
 ---
+publish: true
 tags:
   - retiredPC
-publish: true
 ---
->[!infobox|wikipedia] 
-># Character Info
->![[Olaf.png|cover hsmall]]
->###### Olaf Stormblood
->|   |   |
->| ----- | ----- |
->|**Species**| Human |
->| **Class** | Barbarian |
->| **Background** | Soldier  |
->| **Darkvision** | 0 ft |
->|**Speed**| 30 ft |
+
+> [!infobox|wikipedia]
+>
+> # Character Info
+>
+> ![[Images/PC Images/Olaf.png|cover hsmall]]
+>
+> ###### Olaf Stormblood
+>
+> |   |   |
+> | ----- | ----- |
+> |**Species**| Human |
+> | **Class** | Barbarian |
+> | **Background** | Soldier  |
+> | **Darkvision** | 0 ft |
+> |**Speed**| 30 ft |
 
 ## Impressions:
+
 - dude is BIG and IMPOSING
-NO LONGER PLAYING after Session 03
+  NO LONGER PLAYING after Session 03

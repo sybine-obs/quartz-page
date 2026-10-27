@@ -181,6 +181,12 @@
       "commit": "dad0a4c0abdc8b3c2786277a2cbd67dc039c754c",
       "installedAt": "2026-07-08T17:24:51.786Z"
     },
+    "obsidian-plugin-ttrpg-tools-maps": {
+      "source": "github:quartz-community/obsidian-plugin-ttrpg-tools-maps",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-ttrpg-tools-maps.git",
+      "commit": "bc33fffc305aa46938c816431a978497fcd38bcd",
+      "installedAt": "2026-10-27T21:06:58.518Z"
+    },
     "og-image": {
       "source": "github:quartz-community/og-image",
       "resolved": "https://github.com/quartz-community/og-image.git",
