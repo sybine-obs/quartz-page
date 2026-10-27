@@ -1,8 +1,8 @@
 ---
 banner: Temple of Cyric.png
 publish: true
+tags: session
 ---
-#session
 ![[Temple of Cyric.png|page-banner]]
 > [!important|color-red background-yellow] Things to remember...
 > Don't forget BURN THE BOOK (disintegrated at the end)
@@ -66,3 +66,5 @@ Wight at the altar - undead features (semi-corporeal)
 
 ## Head Priest quarters
 (next week)
+
+[[14 - Next Steps for Snowmantle]]

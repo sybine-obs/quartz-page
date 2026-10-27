@@ -1,6 +1,6 @@
 ---
 tags:
-  - PC
+  - retiredPC
 publish: true
 ---
 >[!infobox|wikipedia] 

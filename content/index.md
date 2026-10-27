@@ -1,6 +1,5 @@
 ---
-banner:
-  - Heirs of the Forgotten Dale.png
+banner: Heirs of the Forgotten Dale.png
 publish: true
 title: Heirs of the Forgotten Dale
 ---
@@ -36,6 +35,7 @@ title: Heirs of the Forgotten Dale
 # Documentation
 - [[CyLynk's Homebrew Rules.pdf]]
 - [[Hexcrawl Rules Guide.pdf]]
+- [[Settlers of Snowmantle.pdf]]
 
 # External Links
 - [D&DBeyond](https://www.dndbeyond.com/campaigns/7561546)

@@ -1,13 +1,13 @@
 ---
 banner: Swampy Woods.png
 publish: true
+tags: session
 ---
-#session
 ![[Swampy Woods.png|page-banner]]
 > [!important|color-red background-yellow lp] In the last session...
 > The party came face-to-face with the lingering spirits of Lanseril Snowmantle and her sister Lirael Gooseford, along with the presence of the ancient dryad Elowen Thornwhisper. 
 > Here is the truth of their story: 
-> ### The Three Sisters of the Grove 
+> #### The Three Sisters of the Grove 
 > Long ago, before the Zhentarim came, Lanseril Snowmantle served as the Warden of the sacred grove and temple of Snowmantle. She was a devoted protector of the land and its people. Her younger sister, Lirael Gooseford, lived alongside her. While Lanseril was the steadfast guardian and leader, Lirael was more wild and free-spirited, often ranging through the forests with their close friend, the dryad Elowen Thornwhisper. 
 > 
 > The three were like family. Lanseril and Lirael were blood sisters, and Elowen had known them both since they were children. Elowen often called them “my two saplings.” Together they watched over Snowmantle and the surrounding forest, keeping the old ways alive. When the Zhentarim seized the town, they built their black temple directly over part of the sacred grove as a deliberate act of desecration. During the final assault, Lanseril was captured. The Zhentarim priests ritually murdered her in the depths of their new temple, binding her spirit in torment so she could never find rest. They hoped to break the will of the land itself. 
@@ -67,6 +67,8 @@ The treant had spent the last of his life opening the way to the feywild, and th
 The dwarf, [[Durin Stoneweaver]], was skeptical, but allowed himself to be persuaded to remove the axe from the Great Oak without doing any more damage. It was our good fortune we had managed to bring along the tools he required for the task, and with the sacrifice of a massive gem, he cause the axe to disappear from the tree and reappear in his own hand.
 
 It should have felt like a great victory. It was overshadowed in my heart with the loss of a great spirit like the ancient treant, and the deep weariness that had settled in my bones.
+
+[[11 - Grove and Song]]
 
 
 

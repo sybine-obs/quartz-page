@@ -1,8 +1,8 @@
 ---
 banner: WhiteCrag.jpg
 publish: true
+tags: session
 ---
-#session
 ![[WhiteCrag.jpg|page-banner]]
 # Exploring White Crag
 Last session, the group explored, beginning in the main area
@@ -36,4 +36,4 @@ Exhaustion for most of the party (not Brendor or Tyalië)
 
 Jorana - Brock, Mara
 
-
+[[06 - Willowbrook]]

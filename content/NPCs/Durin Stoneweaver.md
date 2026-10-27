@@ -1,10 +1,10 @@
 ---
 publish: true
+tags: npc
 ---
-#NPC 
 
 > [!important|color-red background-yellow lp] Durin Stoneweaver
-> ![[Images/NPCs/Durin Stoneweaver.png#edge|cover right circle htiny wtiny lp]] 
+> ![[Images/NPCs/Durin Stoneweaver.png#edge|cover right circle  hsmall lp]] 
 > The Dwarven Grand Runemaster
 
 

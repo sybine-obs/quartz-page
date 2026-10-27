@@ -1,8 +1,8 @@
 ---
 banner: Willowbrook.png
 publish: true
+tags: session
 ---
-#session
 ![[Willowbrook.png|page-banner]]
 # Absent for this session
 
@@ -23,3 +23,5 @@ Introduced [[Doran]]
 
 Willowbrook
 ![[Willowbrook.png]]
+
+[[07 - Dagger Falls]]

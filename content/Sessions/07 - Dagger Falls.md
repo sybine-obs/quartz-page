@@ -1,8 +1,8 @@
 ---
 banner: devils-bridge-bulgaria.jpg
 publish: true
+tags: session
 ---
-#session
 ![[devils-bridge-bulgaria.jpg|page-banner]]
 # After the attack on Willowbrook
 Willowbrook is in dire straits after having been attacked by werewolves!
@@ -142,3 +142,5 @@ maybe a bridge over the river nearby
 
 Day breaks bright and cold
 The party determines to go and scout out Snowmantle before the caravan continues
+
+[[08 - Snowmantle Awaits]]

@@ -1,10 +1,9 @@
 ---
 banner: Old Skull Inn.png
 publish: true
+tags: session
 ---
 ![[Old Skull Inn.png|page-banner]]
-#session
-
 # Meeting at the Old Skull Inn
 We find our new heros gathering at the Old Skull Inn
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-15" data-name="The Journey Begins" data-category="Character Journal"></span>

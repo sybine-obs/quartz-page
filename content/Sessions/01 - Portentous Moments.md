@@ -1,10 +1,9 @@
 ---
 banner: Old Skull Inn.png
 publish: true
+tags: session
 ---
-#session
 ![[Old Skull Inn.png|page-banner]]
-
 # Sleep calls all with a heavy hand
 Our last night in town ends with a mysterious dream...
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-16" data-name="Portentous Moments" data-category="Character Journal"></span>
@@ -66,3 +65,4 @@ Captain Elandra Thorn (silver sun clasped pin at her throat)
 Steel grey eyes, short cropped gray hair under her helm. Tall
 We go now, the choice is yours. Make the right one.
 
+[[02 - The Road North]]

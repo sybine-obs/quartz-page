@@ -1,8 +1,8 @@
 ---
 banner: fountain.jpg
 publish: true
+tags: session
 ---
-#session
 ![[fountain.jpg|page-banner]]
 > [!done|color-red background-yellow] Things to remember...
 > Don't forget to return to the corrupted fountain
@@ -65,3 +65,5 @@ The gathered townspeople came together even as Lanseril observed from the back o
 The great hall of the main floor was much ruined, inhabited only by rats and filled with the decayed trappings of whatever worship had happened here in the past.
 The room centered on a great altar, and on its raised surface a vile book bound in leather of unmentionable origin. 
 Brendor  took it upon himself to read the book and what he saw within caused the solid dwarf to pale and blanch. I worry for him as we descend further into the temple depths (minor madness: -2 perception, -1 initiative) 
+
+[[12 - The Temple of Cyric (part 1)]]

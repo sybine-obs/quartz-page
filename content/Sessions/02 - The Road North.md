@@ -1,8 +1,8 @@
 ---
 banner: Dagger Hills Lonely Trail.png
 publish: true
+tags: session
 ---
-#session
 ![[Dagger Hills Lonely Trail.png|page-banner]]
 # Decisions must be made 
 The Morn Riders have departed and Jerana poses a question for our path forward
@@ -100,7 +100,7 @@ Tyalië - moves to the back of the caravan to make sure nothing is happening in 
 
 Lila is missing (found doll by the side of the trail)
 
-
+[[03 - Tracking Lila]]
 
 
 

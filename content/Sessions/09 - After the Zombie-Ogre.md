@@ -1,8 +1,8 @@
 ---
 banner: Snowmantle.png
 publish: true
+tags: session
 ---
-#session 
 ![[Snowmantle.png|page-banner]]
 # After the Zombie-ogre
 Recovery full heal from Phelan for Tyalië 
@@ -157,3 +157,6 @@ Phelan gets hit, Brendor pulls him out
 Tyalië gets hit, Doran pulls her out
 
 Out of combat, this will now be more of a puzzle of how to get to the oak
+
+
+[[10 - Harm No Branch or Root]]

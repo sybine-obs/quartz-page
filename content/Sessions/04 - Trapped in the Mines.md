@@ -1,8 +1,8 @@
 ---
 banner: Orrery.png
 publish: true
+tags: session
 ---
-#session
 ![[Orrery.png|page-banner]]
 # Searching for a new way forward
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-17" data-name="Trapped in the Mines" data-category="Character Journal"></span>
@@ -89,3 +89,5 @@ A stairway opens in the blank wall -- a way up to Lila
 <span data-calendar="Faerun Calendar" data-date="1501-Marpenoth (Leaffall)-18" data-name="Ascent into White Crag" data-category="Character Journal"></span>
 head up the stairs
 Berrus and Brendor scout the first floor of the White Crag tower, and the rest follow -- clear a room or two and then start to climb the rotten stairs to the higher levels of the tower
+
+[[05 - Exploring White Crag]]

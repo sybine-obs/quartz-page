@@ -1,8 +1,8 @@
 ---
 banner: Temple of Cyric.png
 publish: true
+tags: session
 ---
-#session
 ![[Temple of Cyric.png|page-banner]]
 > [!important|color-red background-yellow] Things to remember...
 > Don't forget BURN THE BOOK
@@ -59,6 +59,8 @@ Locked iron safe -- Tyalië attempts (using the dohicky and a thingamajig)
 
 ## Through the Office and into the Big Room
 SKELETONS (end of session)
+
+[[13 - The Temple of Cyric (part 2)]]
 
 
 

@@ -1,8 +1,8 @@
 ---
 banner: Great Oak.png
 publish: true
+tags: session
 ---
-#session
 ![[Great Oak.png|page-banner]]
 > [!important|color-red background-yellow] Things to remember...
 > What's in the High Priest's quarters?
@@ -64,7 +64,7 @@ Far enough away from the cabin to feel safe, we found a clearing to set up camp 
 > 2nd: Brendor, Phelan
 > 3rd: Doran, Tyalië
 
-![[Displacer Beast.png|cover circle hsmall right lp]]Hardly into our first watch, Aiwë sensed something approaching, but we could not see what it was. I went to alert Berrus, but by then it was too late. A dark, cat-like creature sprang out of the woods and attacked! 
+![[Displacer Beast.png#edge|cover circle hsmall right lp]]Hardly into our first watch, Aiwë sensed something approaching, but we could not see what it was. I went to alert Berrus, but by then it was too late. A dark, cat-like creature sprang out of the woods and attacked! 
 It seemed almost impossibly hard to hit, but the light of the feywilds clung to it as I called upon their fires, and the illumination seemed to draw it into a more cohesive shape. We were able to defeat it, and with some effort claim its hide, and a writhing tentacle, possibly to fashion something useful later. Brendor recognized it as a displacer beast -- something I hope not to have to face again soon.
 
 ### Broken Marble Pillar
@@ -81,3 +81,6 @@ No birds sing here
 
 
 
+
+
+[[15 - The Sunken Quarry]]

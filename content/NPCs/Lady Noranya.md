@@ -1,7 +1,7 @@
 ---
 publish: true
+tags: npc
 ---
-#NPC 
 
 > [!important|color-red background-yellow lp] Lady Noranya
 > ![[No Image Available.png#edge|cover right circle htiny wtiny lp]] 

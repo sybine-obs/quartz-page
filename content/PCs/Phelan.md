@@ -22,3 +22,4 @@ publish: true
 - tentative/reserved
 - Has a SPRITE FAMILIAR, Bracken - usually invisible, but revealed herself in the fight against Zombies in Snowmantle
 
+![[Bracken.png#edge|cover circle wsmall lp]]

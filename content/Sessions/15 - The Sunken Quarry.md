@@ -1,8 +1,8 @@
 ---
 banner: Sunken Quarry.png
 publish: true
+tags: session
 ---
-#session
 ![[Images/Banners/Sunken Quarry.png|page-banner]]
 > [!important|color-red background-yellow] Things to remember...
 > - Exploring the sunken quarry
@@ -26,5 +26,4 @@ Still this was not the anvil, and the ruins were such that we could sift through
 
 It was a difficult battle. The creature summoned animated rocks to its defense. And while we coordinated well, it felt for too long that none of our blows could land, or deeply damage the creatures. The cavern itself rose against us, rocks falling, and thunderous waves exploding out of the crystalline elements. Eventually we prevailed, battered but unbroken.
 
-
-
+[[16 - The Ironvein Mines]]

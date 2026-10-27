@@ -3,6 +3,7 @@ tags:
   - PC
 publish: true
 ---
+
 >[!infobox|wikipedia] 
 ># Character Info
 >![[Berrus.jpg|cover hsmall]]

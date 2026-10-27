@@ -1,8 +1,8 @@
 ---
 banner: Trapped in the Mine.png
 publish: true
+tags: session
 ---
-#session
 ![[Trapped in the Mine.png|page-banner]]
 > [!info|background-yellow color-red] Pre-session notes:
 > - Remember - deal with 4 wolf pelts (woops, blew right past it)
@@ -29,3 +29,5 @@ Boss Werewolf caught me approaching to possibly catch Lila, and picked me up by 
 We were forced to retreat into the open mouth of the abandoned mine, and the beast brought the front of it down around us, trapping us inside.
 
 ![[Trapped in the Mine.png]]
+
+[[04 - Trapped in the Mines]]
