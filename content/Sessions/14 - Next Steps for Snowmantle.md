@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-22T02:52:23.946Z
-modified: 2026-08-18T16:35:46.780Z
-published: 2026-08-18T16:35:46.780Z
+modified: 2026-10-27T16:57:01.322Z
+published: 2026-10-27T16:57:01.322Z
 tags: session
 banner: Great Oak.png
 ---
@@ -89,3 +89,5 @@ Remnants of an old fountain - distinctively Elven
 rusted rails and old carts
 inky black in the center
 No birds sing here
+
+[[15 - The Sunken Quarry]]

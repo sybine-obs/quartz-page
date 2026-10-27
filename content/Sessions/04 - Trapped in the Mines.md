@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-05T23:05:19.995Z
-modified: 2026-08-13T20:27:41.791Z
-published: 2026-08-13T20:27:41.791Z
+modified: 2026-10-27T16:54:51.129Z
+published: 2026-10-27T16:54:51.129Z
 tags: session
 banner: Orrery.png
 ---
@@ -98,3 +98,5 @@ A stairway opens in the blank wall -- a way up to Lila
 <span data-calendar="Faerun Calendar" data-date="1501-Marpenoth (Leaffall)-18" data-name="Ascent into White Crag" data-category="Character Journal"></span>
 head up the stairs
 Berrus and Brendor scout the first floor of the White Crag tower, and the rest follow -- clear a room or two and then start to climb the rotten stairs to the higher levels of the tower
+
+[[05 - Exploring White Crag]]

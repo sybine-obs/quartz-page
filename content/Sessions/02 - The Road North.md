@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-21T22:32:42.770Z
-modified: 2026-08-13T20:27:09.571Z
-published: 2026-08-13T20:27:09.571Z
+modified: 2026-10-27T16:54:28.196Z
+published: 2026-10-27T16:54:28.196Z
 tags: session
 banner: Dagger Hills Lonely Trail.png
 ---
@@ -115,3 +115,5 @@ Phelan - sends familiar to scout the top of the ridge where the slide started
 Tyalië - moves to the back of the caravan to make sure nothing is happening in the back while everyone is focused up front
 
 Lila is missing (found doll by the side of the trail)
+
+[[03 - Tracking Lila]]

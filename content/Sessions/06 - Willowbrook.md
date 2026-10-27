@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-02T22:29:06.781Z
-modified: 2026-08-13T20:28:55.036Z
-published: 2026-08-13T20:28:55.036Z
+modified: 2026-10-27T16:55:08.215Z
+published: 2026-10-27T16:55:08.215Z
 tags: session
 banner: Willowbrook.png
 ---
@@ -29,3 +29,5 @@ Introduced [[Doran]]
 
 Willowbrook
 ![[Images/Travel Maps/Willowbrook.png]]
+
+[[07 - Dagger Falls]]

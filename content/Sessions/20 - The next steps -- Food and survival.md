@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T00:26:32.620Z
-modified: 2026-10-07T17:54:08.949Z
-published: 2026-10-07T17:54:08.949Z
+modified: 2026-10-27T16:53:01.440Z
+published: 2026-10-27T16:53:01.440Z
 tags: session
 banner: Snowscape.png
 ---
@@ -75,3 +75,5 @@ Familiars in the three directions -
   - open water saw rippling, maybe some fish
 
 Realizing that we could not continue this pattern indefinitely, we prepared for a day with good weather to head out in one of these directions to hopefully bring back more food from a fruitful hunt.
+
+[[21 - Trails in the Snow]]

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-05-06T02:35:29.041Z
-modified: 2026-07-10T21:13:24.406Z
-published: 2026-07-10T21:13:24.406Z
+modified: 2026-10-27T17:09:44.394Z
+published: 2026-10-27T17:09:44.394Z
 tags:
-  - PC
+  - retiredPC
 ---
 
 > [!infobox|wikipedia]

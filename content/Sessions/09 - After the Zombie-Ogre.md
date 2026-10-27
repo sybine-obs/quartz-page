@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-23T22:52:08.924Z
-modified: 2026-08-13T20:28:46.150Z
-published: 2026-08-13T20:28:46.150Z
+modified: 2026-10-27T16:55:57.965Z
+published: 2026-10-27T16:55:57.965Z
 tags: session
 banner: Snowmantle.png
 ---
@@ -171,3 +171,5 @@ Phelan gets hit, Brendor pulls him out
 Tyalië gets hit, Doran pulls her out
 
 Out of combat, this will now be more of a puzzle of how to get to the oak
+
+[[10 - Harm No Branch or Root]]

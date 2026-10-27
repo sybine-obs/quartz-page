@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T23:16:08.089Z
-modified: 2026-08-13T20:28:33.649Z
-published: 2026-08-13T20:28:33.649Z
+modified: 2026-10-27T16:57:11.550Z
+published: 2026-10-27T16:57:11.550Z
 tags: session
 banner: Temple of Cyric.png
 ---
@@ -75,3 +75,5 @@ Wight at the altar - undead features (semi-corporeal)
 ## Head Priest quarters
 
 (next week)
+
+[[14 - Next Steps for Snowmantle]]

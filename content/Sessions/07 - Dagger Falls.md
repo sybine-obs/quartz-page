@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-02T22:33:27.118Z
-modified: 2026-08-13T20:28:52.496Z
-published: 2026-08-13T20:28:52.496Z
+modified: 2026-10-27T17:04:21.230Z
+published: 2026-10-27T17:04:21.230Z
 tags: session
 banner: devils-bridge-bulgaria.jpg
 ---
@@ -160,3 +160,5 @@ maybe a bridge over the river nearby
 
 Day breaks bright and cold
 The party determines to go and scout out Snowmantle before the caravan continues
+
+[[08 - Snowmantle Awaits]]

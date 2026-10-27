@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T18:20:22.872Z
-modified: 2026-10-08T21:23:21.991Z
-published: 2026-10-08T21:23:21.991Z
+modified: 2026-10-27T16:53:12.845Z
+published: 2026-10-27T16:53:12.845Z
 tags: session
 banner: Singing Dryad.png
 ---
@@ -58,3 +58,5 @@ Berrus joined us out by the Barracks as we investigated, finding a person's foot
 Unfortunately ... the barracks were occupied. Two Winter Wolves rose slowly to their feet and attacked.
 
 <span style="display: flex; justify-content: center;">![[Images/Misc/Winter Wolf.png#edge|cover center wmedium lp]]</span>
+
+[[20 - The next steps -- Food and survival]]

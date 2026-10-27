@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-30T16:04:14.592Z
-modified: 2026-08-31T19:34:16.175Z
-published: 2026-08-31T19:34:16.175Z
+modified: 2026-10-27T16:55:46.328Z
+published: 2026-10-27T16:55:46.328Z
 tags: session
 banner: Swampy Woods.png
 ---
@@ -76,3 +76,5 @@ The treant had spent the last of his life opening the way to the feywild, and th
 The dwarf, [[Durin Stoneweaver]], was skeptical, but allowed himself to be persuaded to remove the axe from the Great Oak without doing any more damage. It was our good fortune we had managed to bring along the tools he required for the task, and with the sacrifice of a massive gem, he cause the axe to disappear from the tree and reappear in his own hand.
 
 It should have felt like a great victory. It was overshadowed in my heart with the loss of a great spirit like the ancient treant, and the deep weariness that had settled in my bones.
+
+[[11 - Grove and Song]]

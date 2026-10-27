@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-07T03:04:35.708Z
-modified: 2026-10-20T10:42:33.918Z
-published: 2026-10-20T10:42:33.918Z
+modified: 2026-10-27T14:45:27.607Z
+published: 2026-10-27T14:45:27.607Z
 tags: session
 banner: WinterWolf.png
 ---
@@ -27,13 +27,19 @@ banner: WinterWolf.png
 
 # Wolf Winter
 
-## Returning with the bounty from the Winter Wolves
+## The Orcs Leave
 
-The orcs descend. The youth is bleeding out so Phelan heals them. It seems that might have been taboo in some way. They gather up the youth and stalk off.
-Berrus follows closely on the orcs' heels, but runs only into spears. Berrus tries to build a bridge (limited success).
-Doran - they are killing my people. They are driving us out of our home. And you want to _ally_ with them?
-Berrus: There's always a first step.
-Doran isn't convinced
+The orcs descend from where they had held off the fourth wolf -- long enough that we were able to deal with the rest. The youth that had been trapped below in the wolves' shelter was still bleeding and appeared to be in dire straits, until Phelan's healing touch knit up some of his wounds. His generosity was not received well, and it seemed that extending aid might have been taboo in some way. Barely civil, the orcs gathered up the boy and stalked off into the woods.
+
+Berrus followed closely on the orcs' heels, but ran only into hostility (and nearly into the sharp end of their spears). Always looking for the balanced path forward, he tried to leave the path of cooperation open in the future, but the orcs did not seem likely to accept in any way, and the attempted provoked Doran's ire.
+
+> [!Quote| background-yellow color-red] Berrus and Doran
+> "They are killing my people. They are driving us out of our home. And you want to _ally_ with them?"
+> "There's always a first step."
+
+## Harvesting the Bounty of the Hunt
+
+Hank fell upon the bodies of the wolves with something much like enthusiasm, and we gathered up not just the meat, but hides and teeth. And something more that Hank handled with great care...
 
 > [!example|background-yellow color-red] Harvested Items
 >
@@ -46,37 +52,37 @@ Doran isn't convinced
 >   - Each creature in the area must make a DC 12 Constitution saving throw, taking 4d8 cold damage on a failed save or half as much on a success.
 >   - Fragile — bursts 1d6 hours after harvest if unused.—Throwable cold burst (weaker, one-use). ~25–50 gp ra
 
-One of the wolves had a thin braid of spruce tied around its foreleg - woven.
+**One of the wolves had a thin braid of spruce tied around its foreleg**, clearly not something it could have made or placed itself. The wolves must have an ally -- one with hands. Hopefully we have not provoked them.
 
-Tyalië gave thanks to Malar for a successful hunt.
+As we finished our harvesting, I took a moment to thank Malar for a successful hunt. In this harsh environment, it cannot hurt to have such a god on our side.
 
 ## Sounds in the Stone
 
 <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-11" data-end="" data-name="Harvesting the wolves" data-category="Character Journal">Hammer 11</span>
-Bringing back 49 rations
-We sleep, make a sledge with the runners from the Crib, get everything loaded on
+We rested and made plans to return to Snowmantle, and set about to make that happen. The bounty was much greater than we might have planned (or perhaps the others considered it, but I certainly did not adequately plan for our success and return). Fortunately, Hank had found the sled runners back in the deep crib we crossed on our way. I returned to the crib with Doran.
+In that sheltered space, we all worked together to turn those runners back into a sledge. And although it would earn no awards for beauty, with it we would be **returning with almost fifty rations for the camp**.
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-13" data-end="" data-name="Returning to town" data-category="Character Journal">Hammer 13</span> We get back
-![[Images/NPCs/Edda Moss.png#edge|cover hsmall lp right]]
-[[Edda Moss]] - "wool worker"
+<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-13" data-end="" data-name="Returning to town" data-category="Character Journal">Hammer 13</span>
+![[Images/NPCs/Edda Moss.png#edge|cover hsmall lp right]]Upon our return, one of the townspeople approched. We had not spoken much with her prior. [[Edda Moss]] knew what to do with the hides -- able to spin and weave and in other ways work with hide and fabric.
 
-Durin notices something in the rock -- a rhythmic noise. Dorin's people signaling they are coming!
+We joined Jerana, Brock, and Durin to relate the details of our hunt and while we were speaking Durin noticed something in the rock -- a rhythmic noise like the beating of a drum. Dorin's shock was evident as he recognized its patterns -- this was a sign his people were nearby. They must have fled the orcs and journeyed in this direction.
 
-Convincing Garren (and Selene to let him) to join us to bring back food part way into the trip.
+We discussed this at length. Could we add more people to this settlement? We could barely feed our own as it was. And yet, with the hostility of the local lands, and Dorin's need to find his people a home, how could we turn them away. I doubt it was a thought I had alone, but I suggested the old quarry and mines. They could provide a mountain people shelter, and possibly food. And a friendly settlement to our northwest would shield us as well. We decided that our next foray out for food would head in the direction of that signal.
+
+I hoped we might bring some of the settlers with us on this trip, that food could be returned to Snowmantle while we pushed onward. It took some time Convincing Garren (and Selene to let him) to join us. Durin agreed as well.
 
 ## Heading out again
 
 <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-14" data-end="" data-name="Heading out again" data-category="Character Journal">Hammer 14</span>
-head NE, with Durin and Garren joining us
-Two tooth - one for a necklace for Tyalië, one for Hank -- 16 left (for arrows)
+We set out the next day to the northeast, following the path we had taken to find the old quarry. Hank took some of the time to work with the teeth of the winter wolves, providing one to me to add to my necklace, and keeping one for himself. The rest would remain to be crafted into arrowheads. _(16 left)_
 
-Ice covered creek, traverse carefully -
-follow the tracks
-deadfall of birch, dragged into a crescent, dry kindling weighted down with a flat stone
-Short length of braided sinew around one log
+We crossed a number of obstacles, the snow itself and an ice covered creek, coming upon old tracks. They lead into a deadfall of birch that had been dragged into a crescent. Clearly it had been meant to be used again as there was dry kindling weighted down with a flat stone, and a marker of some sort in a short length of braided sinew around one log.
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-15" data-end="" data-name="Heading northwest" data-category="Character Journal">Hammer 15</span> Headed northwest
+We rested there and then moved onwards the next morning.
 
-Garren found about 6 lbs of food while foraging/trapping
+<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-15" data-end="" data-name="Heading northeast" data-category="Character Journal">Hammer 15</span>
+Along our way, Garren ranged a bit to see what he could find. His success was heartening and we added about 6 lbs of food to the sledge.
 
-Encounter the Dire Wolves / start fight
+The dilapidated shack still stood where we remembered it to be, not noticeably more ruined by the storm. A growl rumbled from within and the dire wolves we had retreated from in our prior visit stalked out of the snow and shadows.
+
+_([[23 - Dire Wolves|Fight with the Dire Wolves]])_

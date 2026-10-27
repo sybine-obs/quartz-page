@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T03:00:18.425Z
-modified: 2026-10-20T08:11:31.782Z
-published: 2026-10-20T08:11:31.782Z
+modified: 2026-10-27T16:52:45.027Z
+published: 2026-10-27T16:52:45.027Z
 tags: session
 banner: Snowscape.png
 ---
@@ -54,3 +54,4 @@ They agreed, and we prepared to assault the den, taking care to spread out that 
 
 The melee was intense. Hank flung illusions in every direction, adding to the chaos of battle and confusing the wolves. They eventually focused on him and brought him down, although Heswyn was quick with a healing word in Hank's defense. Doran distracted one, and we were able to focus on another. It fell first to Berrus' swift strikes. The second dropped soon after, and the third fell to the scout's team.
 The last wolf, unseen until later in the battle, looked around at the field of its fallen pack members, and fled. <span style="display: flex; justify-content: center;">![[Images/Battle maps/Winter Wolf Lair.png#edge|lp cover  wmedium]]</span>
+[[22 - Wolf Winter]]

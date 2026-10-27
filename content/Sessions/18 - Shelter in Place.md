@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-25T20:12:17.403Z
-modified: 2026-10-07T17:03:15.058Z
-published: 2026-10-07T17:03:15.058Z
+modified: 2026-10-27T16:57:44.413Z
+published: 2026-10-27T16:57:44.413Z
 tags: session
 banner: Snowstorm.png
 ---
@@ -96,3 +96,5 @@ The days passed as a blur...
   - Lila complains about not getting a birthday, Jerana finally gets up and interacts again -- calls the group over to try and plan something to raise spirits
   - Bracken returns. The storm is worst here, and while it hit Dagger Falls, it did so with no where near the intensity that we suffered through. However, it does not look like supplies will be forthcoming from that direction
   - Make warning horns for the town, in case this happens again (or something else)
+
+[[19 - Fun in the Snow]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T19:04:22.912Z
-modified: 2026-10-20T08:01:49.061Z
-published: 2026-10-20T08:01:49.061Z
+modified: 2026-10-27T14:14:38.260Z
+published: 2026-10-27T14:14:38.260Z
 tags:
 aliases:
 banner: Tyalië Forest.png
@@ -61,7 +61,8 @@ banner: Tyalië Forest.png
 > - [ ] Goliaths to the Northwest
 >   - [ ] Food on the way
 >     - [ ] Foraging
->     - [ ] Dire Wolves
+>     - [x] Dire Wolves
+>   - [ ] Decide to move forward or return to Snowmantle
 > - [ ] Keep an eye out for signs of Elara and Flinn
 
 > [!tip|color-red background-yellow] Other Quests
@@ -69,3 +70,4 @@ banner: Tyalië Forest.png
 > - [ ] What's up with Grandma's Circlet (Moonpetal Circlet)?
 >   - [x] It apparently does cool stuff! See item description [[Tyalië#^2r2r0z|here]]
 >   - [ ] But does it do more? MAYBE
+> - [ ] Return to the Orrery (?)

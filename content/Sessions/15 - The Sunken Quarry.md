@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T23:28:19.609Z
-modified: 2026-08-13T20:28:26.979Z
-published: 2026-08-13T20:28:26.979Z
+modified: 2026-10-27T16:56:48.539Z
+published: 2026-10-27T16:56:48.539Z
 tags: session
 banner: Sunken Quarry.png
 ---
@@ -32,3 +32,5 @@ Still this was not the anvil, and the ruins were such that we could sift through
 (Ironvein Guardian - [Galeb Duhr](https://www.dndbeyond.com/monsters/5195002-galeb-duhr))
 
 It was a difficult battle. The creature summoned animated rocks to its defense. And while we coordinated well, it felt for too long that none of our blows could land, or deeply damage the creatures. The cavern itself rose against us, rocks falling, and thunderous waves exploding out of the crystalline elements. Eventually we prevailed, battered but unbroken.
+
+[[16 - The Ironvein Mines]]

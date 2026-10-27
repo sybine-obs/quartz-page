@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-07T19:14:18.975Z
-modified: 2026-08-13T20:41:28.399Z
-published: 2026-08-13T20:41:28.399Z
+modified: 2026-10-27T16:54:20.554Z
+published: 2026-10-27T16:54:20.554Z
 tags: session
 banner: Old Skull Inn.png
 ---
@@ -76,3 +76,5 @@ Jerana Fisher - wants to speak to the Morn Riders about the path ahead
 Captain Elandra Thorn (silver sun clasped pin at her throat)
 Steel grey eyes, short cropped gray hair under her helm. Tall
 We go now, the choice is yours. Make the right one.
+
+[[02 - The Road North]]

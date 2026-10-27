@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-13T02:24:13.395Z
-modified: 2026-08-13T20:28:57.489Z
-published: 2026-08-13T20:28:57.489Z
+modified: 2026-10-27T16:54:57.763Z
+published: 2026-10-27T16:54:57.763Z
 tags: session
 banner: WhiteCrag.jpg
 ---
@@ -43,3 +43,5 @@ push through to get back to the Caravan
 Exhaustion for most of the party (not Brendor or Tyalië)
 
 Jorana - Brock, Mara
+
+[[06 - Willowbrook]]

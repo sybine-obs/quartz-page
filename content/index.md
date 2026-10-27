@@ -2,8 +2,8 @@
 publish: true
 title: Heirs of the Forgotten Dale
 created: 2026-07-08T21:02:48.151Z
-modified: 2026-08-13T20:26:15.189Z
-published: 2026-08-13T20:26:15.189Z
+modified: 2026-10-27T14:12:40.086Z
+published: 2026-10-27T14:12:40.086Z
 banner: Heirs of the Forgotten Dale.png
 ---
 
@@ -40,6 +40,7 @@ banner: Heirs of the Forgotten Dale.png
 
 - [[CyLynk's Homebrew Rules.pdf]]
 - [[Hexcrawl Rules Guide.pdf]]
+- [[Settlers of Snowmantle.pdf]]
 
 # External Links
 

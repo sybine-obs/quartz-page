@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:46:18.587Z
-modified: 2026-08-31T13:53:05.431Z
-published: 2026-08-31T13:53:05.431Z
+modified: 2026-10-27T16:57:30.842Z
+published: 2026-10-27T16:57:30.842Z
 tags: session
 banner: Crystal Cave.png
 ---
@@ -64,3 +64,5 @@ But we had found the potion of water-breathing earlier! We debated the best way 
 From there it was a matter of retracing our steps. We walked back the way we came, dragging the anvil in turns. It was a grueling journey, but worth it in the end for the amazement of our people as we returned to town.
 
 Duran is sure he will be able to do great things with this anvil in his forge.
+
+[[17 - Flowers to Frost]]

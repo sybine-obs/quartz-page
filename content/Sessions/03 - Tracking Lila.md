@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-22T22:42:42.274Z
-modified: 2026-08-13T20:27:35.786Z
-published: 2026-08-13T20:27:35.786Z
+modified: 2026-10-27T16:54:39.464Z
+published: 2026-10-27T16:54:39.464Z
 tags: session
 banner: Trapped in the Mine.png
 ---
@@ -39,3 +39,5 @@ Boss Werewolf caught me approaching to possibly catch Lila, and picked me up by 
 We were forced to retreat into the open mouth of the abandoned mine, and the beast brought the front of it down around us, trapping us inside.
 
 ![[Images/Battle maps/Trapped in the Mine.png]]
+
+[[04 - Trapped in the Mines]]

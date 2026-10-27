@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:47:35.446Z
-modified: 2026-09-01T14:38:14.983Z
-published: 2026-09-01T14:38:14.983Z
+modified: 2026-10-27T16:57:39.066Z
+published: 2026-10-27T16:57:39.066Z
 tags: session
 banner: Moonpetal Flowers.png
 ---
@@ -72,3 +72,5 @@ We fought the storm for what felt like hours, but it couldn't have been that lon
 We looked up from our exhausted trudge and found we had drifted in to the curve of the river. Safety was just beyond. The cold had clawed a solid scum of ice over the surface of the river, but it looked dangerous. It would likely not hold Doran. I called on the energies sleeping under the surface and the plants rose sluggishly to my call -- entangling vines that spread just under the ice to hold it firm. Phelan fell, but was able to cross. I went next, and could not hold against the storm. The ice cracked and water seeped through it, over me, chilling. Freezing. I thought this could be the end.
 
 Doran leapt into action, his furious bellow audible even over the screaming winds. He grabbed Gerran and jumped over the river, quickly reaching out to me with his pick and pulling me to the shore. We stumbled through the cold and fell through the door into the safety and the relative warmth of the temple walls.
+
+[[18 - Shelter in Place]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-09T23:11:58.486Z
-modified: 2026-08-13T20:28:49.589Z
-published: 2026-08-13T20:28:49.589Z
+modified: 2026-10-27T16:55:16.802Z
+published: 2026-10-27T16:55:16.802Z
 tags: session
 banner: Snowmantle.png
 ---
@@ -71,3 +71,5 @@ In the battle, Bracken revealed herself and attacked at Phelan's direction
 Zombies fell quickly to our attacks, but at one point, the Ogre took notice of me and struck me with a mighty blow (crit hit, -27 damage from 19 hp == one hit down, 1 death save, healing word from Heswyn, 1 lvl of exhaustion from crit)
 
 Thankfully Heswyn's quick thinking brought me back to my feet. The others finished dispatching the undead and clearing the building.
+
+[[08 - Snowmantle Awaits]]
