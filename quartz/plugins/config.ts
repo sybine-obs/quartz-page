@@ -6,6 +6,15 @@ import {
 } from "./types"
 import { LoadedPlugin } from "./loader/types"
 
+import * as TTRPGMaps from "./.quartz/plugins/obsidian-plugin-ttrpg-tools-maps";
+
+export default {
+  plugins: {
+    transformers: [TTRPGMaps.TTRPGMapTransformer()],
+    emitters: [TTRPGMaps.TTRPGMapEmitter()],
+  },
+};
+
 export interface PluginConfiguration {
   transformers: (QuartzTransformerPluginInstance | LoadedPlugin)[]
   filters: (QuartzFilterPluginInstance | LoadedPlugin)[]
