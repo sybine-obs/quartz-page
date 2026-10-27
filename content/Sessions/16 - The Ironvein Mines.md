@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-08-13T12:46:18.587Z
-modified: 2026-10-27T16:57:30.842Z
 tags:
   - session
 ---

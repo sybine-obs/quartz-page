@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-06-10T09:08:04.355Z
-modified: 2026-09-01T13:18:19.959Z
 tags:
   - npc
 ---

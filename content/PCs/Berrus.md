@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-04-23T16:23:06.646Z
-modified: 2026-08-13T20:23:39.185Z
 tags:
   - PC
 ---

@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-08-31T19:04:22.912Z
-modified: 2026-10-27T14:14:38.260Z
 ---
 
 # Quest Tracker

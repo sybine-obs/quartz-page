@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-10-27T19:23:41.015Z
-modified: 2026-10-27T19:36:51.750Z
 ---
 
 ```zoommap

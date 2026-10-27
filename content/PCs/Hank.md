@@ -2,8 +2,6 @@
 publish: true
 aliases:
   - Bracken
-created: 2026-08-25T23:25:12.739Z
-modified: 2026-08-31T17:17:31.409Z
 tags:
   - PC
 ---

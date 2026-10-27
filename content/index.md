@@ -1,8 +1,6 @@
 ---
 publish: true
 title: Heirs of the Forgotten Dale
-created: 2026-07-08T21:02:48.151Z
-modified: 2026-10-27T14:12:40.086Z
 ---
 
 ![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]

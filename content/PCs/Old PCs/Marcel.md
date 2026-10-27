@@ -1,7 +1,5 @@
 ---
 publish: true
-created: 2026-05-06T02:35:29.041Z
-modified: 2026-10-27T17:09:44.394Z
 tags:
   - retiredPC
 ---
