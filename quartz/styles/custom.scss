@@ -18,6 +18,17 @@
     text-shadow: 0px 0px 12px white;
 }
 
+/* Force canvas container to render link strokes at visible opacity */
+.graph-container canvas {
+  opacity: 1 !important;
+}
+
+/* Ensure CSS variable resolves properly for canvas JS */
+:root {
+  --gray: #aaaaaaaa !important; /* Forces a solid mid-gray for unhovered links */
+  --lightgray: #aaaaaaaa !important;
+}
+
 /* ----- banner image variants ----- */
 
 img[alt*="page-banner"] {
