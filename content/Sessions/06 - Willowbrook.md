@@ -2,9 +2,8 @@
 publish: true
 created: 2026-06-02T22:29:06.781Z
 modified: 2026-10-27T16:55:08.215Z
-published: 2026-10-27T16:55:08.215Z
-tags: session
-banner: Willowbrook.png
+tags:
+  - session
 ---
 
 ![[Images/Travel Maps/Willowbrook.png|page-banner]]

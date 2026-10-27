@@ -2,9 +2,8 @@
 publish: true
 created: 2026-07-22T02:52:23.946Z
 modified: 2026-10-27T16:57:01.322Z
-published: 2026-10-27T16:57:01.322Z
-tags: session
-banner: Great Oak.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Great Oak.png|page-banner]]

@@ -2,8 +2,8 @@
 publish: true
 created: 2026-06-10T09:19:19.747Z
 modified: 2026-09-01T13:18:00.551Z
-published: 2026-09-01T13:18:00.551Z
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|color-red background-yellow lp] Old Thom Kettlefish

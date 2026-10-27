@@ -2,9 +2,8 @@
 publish: true
 created: 2026-10-13T22:48:19.326Z
 modified: 2026-10-27T18:40:00.761Z
-published: 2026-10-27T18:40:00.761Z
-tags: session
-banner: DireWolf.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/DireWolf.png|page-banner]]

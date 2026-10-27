@@ -2,9 +2,8 @@
 publish: true
 created: 2026-04-21T22:32:42.770Z
 modified: 2026-10-27T16:54:28.196Z
-published: 2026-10-27T16:54:28.196Z
-tags: session
-banner: Dagger Hills Lonely Trail.png
+tags:
+  - session
 ---
 
 ![[Images/Travel Maps/Dagger Hills Lonely Trail.png|page-banner]]

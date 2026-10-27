@@ -2,8 +2,8 @@
 publish: true
 created: 2026-06-10T09:15:36.755Z
 modified: 2026-09-01T13:15:46.937Z
-published: 2026-09-01T13:15:46.937Z
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|color-red background-yellow lp] Elara Fisher

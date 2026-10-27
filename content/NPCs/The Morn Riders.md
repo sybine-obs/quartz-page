@@ -1,10 +1,11 @@
 ---
 publish: true
-aliases: Elandra
+aliases:
+  - Elandra
 created: 2026-06-10T10:19:24.120Z
 modified: 2026-09-01T13:18:14.980Z
-published: 2026-09-01T13:18:14.980Z
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|background-yellow color-red] The Morn Riders

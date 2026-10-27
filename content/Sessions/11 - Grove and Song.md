@@ -2,9 +2,8 @@
 publish: true
 created: 2026-07-01T03:18:15.647Z
 modified: 2026-10-27T16:56:09.536Z
-published: 2026-10-27T16:56:09.536Z
-tags: session
-banner: fountain.jpg
+tags:
+  - session
 ---
 
 ![[Images/Banners/fountain.jpg|page-banner]]

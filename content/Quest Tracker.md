@@ -2,10 +2,6 @@
 publish: true
 created: 2026-08-31T19:04:22.912Z
 modified: 2026-10-27T14:14:38.260Z
-published: 2026-10-27T14:14:38.260Z
-tags:
-aliases:
-banner: Tyalië Forest.png
 ---
 
 # Quest Tracker

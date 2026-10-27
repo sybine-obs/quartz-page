@@ -2,9 +2,8 @@
 publish: true
 created: 2026-07-14T23:16:08.089Z
 modified: 2026-10-27T16:57:11.550Z
-published: 2026-10-27T16:57:11.550Z
-tags: session
-banner: Temple of Cyric.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Temple of Cyric.png|page-banner]]

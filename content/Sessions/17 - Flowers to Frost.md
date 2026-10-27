@@ -2,9 +2,8 @@
 publish: true
 created: 2026-08-13T12:47:35.446Z
 modified: 2026-10-27T16:57:39.066Z
-published: 2026-10-27T16:57:39.066Z
-tags: session
-banner: Moonpetal Flowers.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Moonpetal Flowers.png|page-banner]]

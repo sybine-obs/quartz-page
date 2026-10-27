@@ -2,9 +2,8 @@
 publish: true
 created: 2026-04-22T22:42:42.274Z
 modified: 2026-10-27T16:54:39.464Z
-published: 2026-10-27T16:54:39.464Z
-tags: session
-banner: Trapped in the Mine.png
+tags:
+  - session
 ---
 
 ![[Images/Battle maps/Trapped in the Mine.png|page-banner]]

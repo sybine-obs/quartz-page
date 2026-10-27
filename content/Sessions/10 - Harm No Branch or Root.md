@@ -2,9 +2,8 @@
 publish: true
 created: 2026-06-30T16:04:14.592Z
 modified: 2026-10-27T16:55:46.328Z
-published: 2026-10-27T16:55:46.328Z
-tags: session
-banner: Swampy Woods.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Swampy Woods.png|page-banner]]

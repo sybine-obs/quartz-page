@@ -2,9 +2,8 @@
 publish: true
 created: 2026-08-13T12:46:18.587Z
 modified: 2026-10-27T16:57:30.842Z
-published: 2026-10-27T16:57:30.842Z
-tags: session
-banner: Crystal Cave.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Crystal Cave.png|page-banner]]

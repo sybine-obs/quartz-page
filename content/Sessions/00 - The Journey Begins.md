@@ -2,9 +2,8 @@
 publish: true
 created: 2026-04-06T14:35:43.826Z
 modified: 2026-10-27T18:52:03.817Z
-published: 2026-10-27T18:52:03.817Z
-tags: session
-banner: Old Skull Inn.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Old Skull Inn.png|page-banner]]

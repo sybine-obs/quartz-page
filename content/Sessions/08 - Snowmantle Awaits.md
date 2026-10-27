@@ -2,9 +2,8 @@
 publish: true
 created: 2026-06-09T23:11:58.486Z
 modified: 2026-10-27T16:55:16.802Z
-published: 2026-10-27T16:55:16.802Z
-tags: session
-banner: Snowmantle.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Snowmantle.png|page-banner]]

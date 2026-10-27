@@ -1,11 +1,11 @@
 ---
 publish: true
-aliases: me
+aliases:
+  - me
 created: 2026-04-23T17:41:29.184Z
 modified: 2026-10-07T16:29:58.083Z
-published: 2026-10-07T16:29:58.083Z
-tags: PC
-banner: Tyalië Forest.png
+tags:
+  - PC
 ---
 
 ![[Images/Banners/Tyalië Forest.png|page-banner]]

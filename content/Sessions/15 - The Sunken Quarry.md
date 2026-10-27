@@ -2,9 +2,8 @@
 publish: true
 created: 2026-07-28T23:28:19.609Z
 modified: 2026-10-27T16:56:48.539Z
-published: 2026-10-27T16:56:48.539Z
-tags: session
-banner: Sunken Quarry.png
+tags:
+  - session
 ---
 
 ![[Images/Banners/Sunken Quarry.png|page-banner]]

@@ -2,8 +2,8 @@
 publish: true
 created: 2026-06-10T09:17:46.676Z
 modified: 2026-09-01T13:17:00.493Z
-published: 2026-09-01T13:17:00.493Z
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|color-red background-yellow lp] Finn Quickfletch
