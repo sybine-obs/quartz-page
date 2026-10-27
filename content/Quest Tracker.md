@@ -1,69 +1,73 @@
 ---
+publish: true
+created: 2026-08-31T19:04:22.912Z
+modified: 2026-10-27T14:14:38.260Z
+published: 2026-10-27T14:14:38.260Z
 tags:
 aliases:
-publish: true
 banner: Tyalië Forest.png
 ---
+
 # Quest Tracker
 
 > [!tip|color-red background-yellow]- The Caravan North
- > - [x] Get the caravan to the re-founding site of Teshandale / Snowmantle
-> 	 - [x] Choose the path north - the road, or the hills?
-> 	 - [x] Find and rescue Lila
-> 		 - [x] Track Lila to White Crag
-> 	- [x] Get to Dagger Falls
-> 	- [x] Get to Snowmantle
+>
+> - [x] Get the caravan to the re-founding site of Teshandale / Snowmantle
+>   - [x] Choose the path north - the road, or the hills?
+>   - [x] Find and rescue Lila
+>     - [x] Track Lila to White Crag
+>   - [x] Get to Dagger Falls
+>   - [x] Get to Snowmantle
 > - [ ] What's up with Lady Naranya Cormeryl, werewolf queen?
 
 > [!tip|color-red background-yellow]- Founding Snowmantle
-> - [x]  Clear Snowmantle
-> 	- [x] Make the town habitable
-> 		- [x] Retrieve the Axe of Snowmantle for Elowen Thornwhisper
-> 			- [x] Harm neither root nor crown
-> 		- [x] Cleanse the Temple (with axe)
-> 			- [x] Clear undead priests
-> 			- [x] cleanse desecrated ground
-> 			- [x] Free Lanseril's spirit
-> 		- [x] Return 2nd half of the locket to Lirael
-> 		- [x] Sing Lirael's Song
+>
+> - [x] &#x20;Clear Snowmantle
+>   - [x] Make the town habitable
+>     - [x] Retrieve the Axe of Snowmantle for Elowen Thornwhisper
+>       - [x] Harm neither root nor crown
+>     - [x] Cleanse the Temple (with axe)
+>       - [x] Clear undead priests
+>       - [x] cleanse desecrated ground
+>       - [x] Free Lanseril's spirit
+>     - [x] Return 2nd half of the locket to Lirael
+>     - [x] Sing Lirael's Song
 
 > [!tip|color-red background-yellow] Rebuilding Snowmantle
+>
 > - [x] Get the Anvil for the town
-> 	- [x] Search the lake
-> 	- [x] Search the ironvein mine
-> 	- [x] Get the Anvil back to Snowmantle
+>   - [x] Search the lake
+>   - [x] Search the ironvein mine
+>   - [x] Get the Anvil back to Snowmantle
 > - [x] Survive the storm
-> 	- [x] Rescue Gerran
-> 	- [x] Rescue Elara Fisher -- technically done?? Sadly "failed" is also done.
-> 	- [x] Week 1
-> 	- [x] Week 2
-> 	- [x] Week 3
-> 	- [x] Week 4
-> 	- [x] Week 5
+>   - [x] Rescue Gerran
+>   - [x] Rescue Elara Fisher -- technically done?? Sadly "failed" is also done.
+>   - [x] Week 1
+>   - [x] Week 2
+>   - [x] Week 3
+>   - [x] Week 4
+>   - [x] Week 5
 > - [ ] Is there a SPY??
 > - [x] Celebrate surviving!
 > - [ ] Continue repairs
-> 	- [ ] Hole in the roof of the Singing Dryad
-> 	- [ ] Get the forge in order
+>   - [ ] Hole in the roof of the Singing Dryad
+>   - [ ] Get the forge in order
 > - [ ] Winter survival
-> 	- [x] Snowshoes to enable better travel
-> 	- [ ] Food
-> 		- [x] Clear out the Winter Wolves
-> 		- [ ] Find more sources of food
-> 	- [ ] Wood for fires
+>   - [x] Snowshoes to enable better travel
+>   - [ ] Food
+>     - [x] Clear out the Winter Wolves
+>     - [ ] Find more sources of food
+>   - [ ] Wood for fires
 > - [ ] Goliaths to the Northwest
-> 	- [ ] Food on the way
-> 		- [ ] Foraging 
-> 		- [x] Dire Wolves
-> 	- [ ] Decide to move forward or return to Snowmantle
+>   - [ ] Food on the way
+>     - [ ] Foraging
+>     - [x] Dire Wolves
+>   - [ ] Decide to move forward or return to Snowmantle
 > - [ ] Keep an eye out for signs of Elara and Flinn
 
-
 > [!tip|color-red background-yellow] Other Quests
+>
 > - [ ] What's up with Grandma's Circlet (Moonpetal Circlet)?
-> 	- [x] It apparently does cool stuff! See item description [[Tyalië#^2r2r0z|here]]
-> 	- [ ] But does it do more? MAYBE
+>   - [x] It apparently does cool stuff! See item description [[Tyalië#^2r2r0z|here]]
+>   - [ ] But does it do more? MAYBE
 > - [ ] Return to the Orrery (?)
-
-
-

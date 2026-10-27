@@ -1,10 +1,13 @@
 ---
-banner: Heirs of the Forgotten Dale.png
 publish: true
 title: All Sessions
+created: 2026-04-06T14:35:43.819Z
+modified: 2026-10-27T18:48:31.831Z
+published: 2026-10-27T18:48:31.831Z
+banner: Heirs of the Forgotten Dale.png
 ---
-![[Heirs of the Forgotten Dale.png|page-banner]]
 
+![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]
 
 |         Date | Title                                        | Faerun Calendar |
 | -----------: | -------------------------------------------- | --------------- |
@@ -34,13 +37,3 @@ title: All Sessions
 |   October 20 | [[23 - Dire Wolves]]                         | 15-19 Hammer    |
 |   October 27 | [[24 - Next Session]]                        |                 |
 |              |                                              |                 |
-
-
-
-
-
-
-
-
-
-

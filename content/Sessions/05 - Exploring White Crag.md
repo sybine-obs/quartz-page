@@ -1,27 +1,35 @@
 ---
-banner: WhiteCrag.jpg
 publish: true
+created: 2026-05-13T02:24:13.395Z
+modified: 2026-10-27T16:54:57.763Z
+published: 2026-10-27T16:54:57.763Z
 tags: session
+banner: WhiteCrag.jpg
 ---
-![[WhiteCrag.jpg|page-banner]]
+
+![[Images/Banners/WhiteCrag.jpg|page-banner]]
+
 # Exploring White Crag
+
 Last session, the group explored, beginning in the main area
-Finally, tried going up and took a while to figure out where the second floor hallway was. 
+Finally, tried going up and took a while to figure out where the second floor hallway was.
 Berrus, Phelan, Tyalië attacked and killed single guard upstairs
 Failed lockpicks on several doors
 Found Lila in the room in the southeast
 
 ## Back downstairs
+
 Kids were BACK IN THE DAMN front room
 also found Wren Copperthorn
 Wren helps others go back and unlock doors, including [[Lady Noranya]]'s office
 Looted journals, notebooks, mirror
 
 ## Rescued Lila, 4 other children and Wren
+
 SHORT REST in the caverns
 
 Marcel - goes over to the gnome - draws silver longsword and rests it on the gnome to see if there is any reaction (hunting for werewolves)
-"knighting" the kids 
+"knighting" the kids
 
 Wren shifts over and talks to Marcel - knowing wry smile
 Where others falter let me stand
