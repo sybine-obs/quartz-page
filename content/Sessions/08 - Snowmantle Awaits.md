@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: Snowmantle.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Snowmantle.png|page-banner]]
+
 # Snowmantle awaits
 
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-26" data-name="Entering Snowmantle" data-category="Character Journal"></span>

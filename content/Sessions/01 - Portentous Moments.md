@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: Old Skull Inn.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Old Skull Inn.png|page-banner]]
+
 # Sleep calls all with a heavy hand
 
 Our last night in town ends with a mysterious dream... <span data-calendar="Faerun Calendar" data-date="1501-Mar-16" data-name="Portentous Moments" data-category="Character Journal"></span>

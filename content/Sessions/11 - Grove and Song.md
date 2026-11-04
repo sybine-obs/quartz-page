@@ -1,7 +1,7 @@
 ---
 publish: true
-tags: session
-banner: fountain.jpg
+tags:
+  - session
 ---
 
 ![[Images/Banners/fountain.jpg|page-banner]]

@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Great Oak.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Great Oak.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember...

@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Swampy Woods.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Swampy Woods.png|page-banner]]
 
 > [!important|color-red background-yellow lp] In the last session...

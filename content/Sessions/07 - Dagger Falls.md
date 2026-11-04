@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: devils-bridge-bulgaria.jpg
+tags:
+  - session
 ---
+
 ![[Images/Banners/devils-bridge-bulgaria.jpg|page-banner]]
+
 # After the attack on Willowbrook
 
 Willowbrook is in dire straits after having been attacked by werewolves! <span data-calendar="Faerun Calendar" data-date="1501-Mar-21" data-name="Willowbrook-after the attack" data-category="Character Journal"></span>

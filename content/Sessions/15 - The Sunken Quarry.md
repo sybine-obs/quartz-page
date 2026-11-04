@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Sunken Quarry.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Sunken Quarry.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember...

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: All Sessions
-banner: Heirs of the Forgotten Dale.png
 ---
+
 ![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]
 
 |         Date | Title                                        | Faerun Calendar |
@@ -31,5 +31,5 @@ banner: Heirs of the Forgotten Dale.png
 |    October 6 | [[21 - Trails in the Snow]]                  | 8-9 Hammer      |
 |   October 13 | [[22 - Wolf Winter]]                         | 11-15 Hammer    |
 |   October 20 | [[23 - Dire Wolves]]                         | 15-19 Hammer    |
-|   October 27 | [[24 - Next Session]]                        |                 |
+|   October 27 | [[24 - The Misty Valley]]                        |                 |
 |              |                                              |                 |

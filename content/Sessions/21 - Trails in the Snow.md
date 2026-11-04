@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Snowscape.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Snowscape.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...

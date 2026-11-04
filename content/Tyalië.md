@@ -1,8 +1,9 @@
 ---
 publish: true
-aliases: me
-tags: PC
-banner: Tyalië Forest.png
+aliases:
+  - me
+tags:
+  - PC
 ---
 
 ![[Images/Banners/Tyalië Forest.png|page-banner]]

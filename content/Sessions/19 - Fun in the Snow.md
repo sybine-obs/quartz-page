@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Singing Dryad.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Singing Dryad.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...

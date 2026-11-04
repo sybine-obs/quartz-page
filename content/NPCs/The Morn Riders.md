@@ -1,7 +1,9 @@
 ---
 publish: true
-aliases: Elandra
-tags: npc
+aliases:
+  - Elandra
+tags:
+  - npc
 ---
 
 > [!important|background-yellow color-red] The Morn Riders

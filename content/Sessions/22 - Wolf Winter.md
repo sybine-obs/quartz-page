@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: WinterWolf.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/WinterWolf.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...

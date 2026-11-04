@@ -1,9 +1,10 @@
 ---
 publish: true
 title: Heirs of the Forgotten Dale
-banner: Heirs of the Forgotten Dale.png
 ---
+
 ![[Images/Banners/Heirs of the Forgotten Dale.png|page-banner]]
+
 # Start Here
 
 > _Teshendale is dead._

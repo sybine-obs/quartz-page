@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Crystal Cave.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Crystal Cave.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember...

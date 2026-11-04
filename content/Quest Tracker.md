@@ -1,9 +1,7 @@
 ---
 publish: true
-tags:
-aliases:
-banner: Tyalië Forest.png
 ---
+
 # Quest Tracker
 
 > [!tip|color-red background-yellow]- The Caravan North
@@ -54,7 +52,7 @@ banner: Tyalië Forest.png
 >     - [x] Clear out the Winter Wolves
 >     - [ ] Find more sources of food
 >   - [ ] Wood for fires
-> - [ ] Goliaths to the Northwest
+> - [ ] Goliaths to the Northeast
 >   - [ ] Food on the way
 >     - [ ] Foraging
 >     - [x] Dire Wolves

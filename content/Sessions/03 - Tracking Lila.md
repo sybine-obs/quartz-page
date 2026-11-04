@@ -1,7 +1,7 @@
 ---
 publish: true
-tags: session
-banner: Trapped in the Mine.png
+tags:
+  - session
 ---
 
 ![[Images/Battle maps/Trapped in the Mine.png|page-banner]]

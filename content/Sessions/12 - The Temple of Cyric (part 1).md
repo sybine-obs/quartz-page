@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Temple of Cyric.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Temple of Cyric.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember...

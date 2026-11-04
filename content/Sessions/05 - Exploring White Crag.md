@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: WhiteCrag.jpg
+tags:
+  - session
 ---
+
 ![[Images/Banners/WhiteCrag.jpg|page-banner]]
+
 # Exploring White Crag
 
 Last session, the group explored, beginning in the main area

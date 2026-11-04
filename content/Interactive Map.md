@@ -2,6 +2,8 @@
 publish: true
 ---
 
+Trying to get this map / plugin to work ...
+
 ```zoommap
 imageBases:
   - path: Images/Travel Maps/Area Map - Zhentil Keep.png
@@ -20,5 +22,3 @@ render: dom
 imageRendering: auto
 id: map-mvr2xnet
 ```
-
-

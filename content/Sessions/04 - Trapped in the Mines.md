@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: Orrery.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Orrery.png|page-banner]]
+
 # Searching for a new way forward
 
 <span data-calendar="Faerun Calendar" data-date="1501-Mar-17" data-name="Trapped in the Mines" data-category="Character Journal"></span>

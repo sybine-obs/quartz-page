@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: Snowmantle.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Snowmantle.png|page-banner]]
+
 # After the Zombie-ogre
 
 Recovery full heal from Phelan for Tyalië

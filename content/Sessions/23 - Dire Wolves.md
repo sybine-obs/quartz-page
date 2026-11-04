@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: DireWolf.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/DireWolf.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...
@@ -73,11 +74,11 @@ I returned to camp.
 
 ## A choice - how far to go
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-end="" data-name="Making a choice" data-category="Character Journal">Hammer 19 - Thick mist obscures the way</span>
+<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-end="" data-name="How far to explore?" data-category="Character Journal">Hammer 19 - Thick mist obscures the way</span>
 We rested through another uneventful night, huddling out of the wind. In the morning, the hills were all shrouded in a thick mist. We would need to trek into the valley to see more.
 
 It was a fraught decision. We needed to return. We wanted to find Doran's people.
 
 We would descend to the stone and leave a mark there, hopefully for them to find, and then return our bounty to Snowmantle.
 
-_([[24 - Next Session]])_
+_([[24 - The Misty Valley]])_

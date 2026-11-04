@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|color-red background-yellow lp] Ralthor Veyne

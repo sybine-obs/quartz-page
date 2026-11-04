@@ -1,9 +1,11 @@
 ---
 publish: true
-tags: session
-banner: Willowbrook.png
+tags:
+  - session
 ---
+
 ![[Images/Travel Maps/Willowbrook.png|page-banner]]
+
 # Absent for this session
 
 ## Willowbrook is under attack!

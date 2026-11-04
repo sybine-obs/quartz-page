@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: npc
+tags:
+  - npc
 ---
 
 > [!important|background-yellow color-red] The Birchwood Family

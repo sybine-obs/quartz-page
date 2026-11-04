@@ -1,8 +1,9 @@
 ---
 publish: true
-tags: session
-banner: Moonpetal Flowers.png
+tags:
+  - session
 ---
+
 ![[Images/Banners/Moonpetal Flowers.png|page-banner]]
 
 > [!important|color-red background-yellow] Things to remember ...
