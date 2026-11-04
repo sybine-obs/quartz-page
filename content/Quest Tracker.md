@@ -56,7 +56,8 @@ publish: true
 >   - [ ] Food on the way
 >     - [ ] Foraging
 >     - [x] Dire Wolves
->   - [ ] Decide to move forward or return to Snowmantle
+>   - [x] Decide to move forward or return to Snowmantle
+>     - [ ] Found the Goliaths -- Get them out (?!? !!)
 > - [ ] Keep an eye out for signs of Elara and Flinn
 
 > [!tip|color-red background-yellow] Other Quests
