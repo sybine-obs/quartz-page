@@ -82,4 +82,4 @@ Along our way, Garren ranged a bit to see what he could find. His success was he
 
 The dilapidated shack still stood where we remembered it to be, not noticeably more ruined by the storm. A growl rumbled from within and the dire wolves we had retreated from in our prior visit stalked out of the snow and shadows.
 
-_([[23 - Dire Wolves|Fight with the Dire Wolves]])_
+[[23 - Dire Wolves]]

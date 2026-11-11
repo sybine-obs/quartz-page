@@ -43,12 +43,17 @@ Eventually we came to a place where the trail fell into a deep, dark notch and a
 Scouting, Aiwë reported back of the trail ahead, the broken trees, and a little open area beyond within the depression. Bracken saw more in the area past the broken trees. The open area just within the cut was filled with packed snow and ice, and to one side a winter wolf watched the trail we currently followed. He seemed to detect Bracken somehow, perhaps by scent. In the darkness she saw two more shapes moving. Three wolves.
 Circling further, Aiwë spotted a glint of light on the ridge above the cut and heard the click of something metal. Combined with that information, and the blood dotting the trail, recent blazes, and even the figure seen in our home camp, I wondered if there wasn't a hunter that might be added to our number in the effort to bring down the wolves. Phelan and I shared our information and Doran, Berrus and Phelan decided to head to the ridge and see if there was another enemy, or a possible ally there.
 
-On the ridge, they encountered Kresh Two-Tusk, an orc scout of the tribes that had driven Doran from his people to look for less contested lands. Doran was not happy to find the orc here and was understandably hostile at first, but the three managed to come to an agreement with Kresh and his other scouts. They had a young orc held by the wolves, likely to be their next meal. We could take the spoils of the battle if they could recover their youngling. They would try to draw one or more of the wolves away to divide the battleground. <span style="display: flex; justify-content: center;">![[Images/NPCs/Kresh Two-Tusk.png#edge|lp cover ]]</span>
+On the ridge, they encountered Kresh Two-Tusk, an orc scout of the tribes that had driven Doran from his people to look for less contested lands. Doran was not happy to find the orc here and was understandably hostile at first, but the three managed to come to an agreement with Kresh and his other scouts. They had a young orc held by the wolves, likely to be their next meal. We could take the spoils of the battle if they could recover their youngling. They would try to draw one or more of the wolves away to divide the battleground.
+
+![[Images/NPCs/Kresh Two-Tusk.png#edge|lp cover center]]
 
 They agreed, and we prepared to assault the den, taking care to spread out that we would not be caught together in the devastating cold breath of the wolves. As we came within range, Kresh's drums rang out, and the wolves flinched with every beat.
 
-<span style="display: flex; justify-content: center;">![[Images/Misc/Fighting Winter Wolves.png#edge|lp  cover wmedium]]</span>
+![[Images/Misc/Fighting Winter Wolves.png#edge|lp  cover wmedium center]]
 
 The melee was intense. Hank flung illusions in every direction, adding to the chaos of battle and confusing the wolves. They eventually focused on him and brought him down, although Heswyn was quick with a healing word in Hank's defense. Doran distracted one, and we were able to focus on another. It fell first to Berrus' swift strikes. The second dropped soon after, and the third fell to the scout's team.
-The last wolf, unseen until later in the battle, looked around at the field of its fallen pack members, and fled. <span style="display: flex; justify-content: center;">![[Images/Battle maps/Winter Wolf Lair.png#edge|lp cover  wmedium]]</span>
+The last wolf, unseen until later in the battle, looked around at the field of its fallen pack members, and fled.
+
+![[Images/Battle maps/Winter Wolf Lair.png#edge|lp cover  wmedium center]]
+
 [[22 - Wolf Winter]]

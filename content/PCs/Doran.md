@@ -24,3 +24,4 @@ tags:
 
 - this guy is BIG
 - and TOUGH
+- cold, calculating "rage"

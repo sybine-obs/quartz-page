@@ -28,19 +28,20 @@ title: All Sessions
 > |      July 21 | [[13 - The Temple of Cyric (part 2)]]         |                   |
 
 > [!abstract|background-yellow color-red] Arc 3 - Restoring Snowmantle
-> |         Date | Title                                         | Faerun Calendar   |
-> | -----------: | --------------------------------------------- | ----------------- |
-> |      July 28 | [[14 - Next Steps for Snowmantle]]            | 20 Marpenoth      |
-> |     August 4 | [[15 - The Sunken Quarry]]                    | 1 Uktar           |
-> |    August 18 | [[16 - The Ironvein Mines]]                   | 12 Uktar          |
-> |    August 25 | [[17 - Flowers to Frost]]                     | 23 Uktar          |
-> | September 15 | [[18 - Shelter in Place]]                     | Uktar to Hammer   |
-> | September 22 | [[19 - Fun in the Snow]]                      | 29-30 Nightal     |
-> | September 29 | [[20 - The next steps -- Food and survival]]  | 1-7 Hammer        |
-> |    October 6 | [[21 - Trails in the Snow]]                   | 8-9 Hammer        |
-> |   October 13 | [[22 - Wolf Winter]]                          | 11-15 Hammer      |
-> |   October 20 | [[23 - Dire Wolves]]                          | 15-19 Hammer      |
-> |   October 27 | [[24 - The Misty Valley]]                     | 20 Hammer         |
-> |   November 3 | [[25 - Caverns and Ogres and Giants, OH MY!]] | 20 Hammer (night) |
-> |              | [[26 - Next Session]]                         |                   |
-> |              |                                               |                   |
+
+|         Date | Title                                         | Faerun Calendar   |
+| -----------: | --------------------------------------------- | ----------------- |
+|      July 28 | [[14 - Next Steps for Snowmantle]]            | 20 Marpenoth      |
+|     August 4 | [[15 - The Sunken Quarry]]                    | 1 Uktar           |
+|    August 18 | [[16 - The Ironvein Mines]]                   | 12 Uktar          |
+|    August 25 | [[17 - Flowers to Frost]]                     | 23 Uktar          |
+| September 15 | [[18 - Shelter in Place]]                     | Uktar to Hammer   |
+| September 22 | [[19 - Fun in the Snow]]                      | 29-30 Nightal     |
+| September 29 | [[20 - The next steps -- Food and survival]]  | 1-7 Hammer        |
+|    October 6 | [[21 - Trails in the Snow]]                   | 8-9 Hammer        |
+|   October 13 | [[22 - Wolf Winter]]                          | 11-15 Hammer      |
+|   October 20 | [[23 - Dire Wolves]]                          | 15-19 Hammer      |
+|   October 27 | [[24 - The Misty Valley]]                     | 20 Hammer         |
+|   November 3 | [[25 - Caverns and Ogres and Giants, OH MY!]] | 20 Hammer (night) |
+|  November 10 | [[26 - The Better Part of Valor]]             | 20 Hammer         |
+|              | [[27 - Next Session]]                       |                   |

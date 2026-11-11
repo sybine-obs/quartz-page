@@ -87,4 +87,8 @@ rusted rails and old carts
 inky black in the center
 No birds sing here
 
+The water is filled with the remnants of old structures, broken walls, crumbling chimneys and rotted roofs sticking out from the surface.
+
+There is no clear indication of where a forge might have been, or where the anvil might be now. If it was submerged, it may be lost.
+
 [[15 - The Sunken Quarry]]

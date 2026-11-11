@@ -22,6 +22,6 @@ tags:
 
 ## Impressions:
 
-- Seems pretty laid back. Interested in him as a Tiefling
+- Seems pretty laid back. Interested in him as a Tiefling (never met one before?)
 - mmmm. Tail
 - definitely a joker

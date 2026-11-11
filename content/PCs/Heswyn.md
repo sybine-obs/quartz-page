@@ -23,3 +23,5 @@ tags:
 ## Impressions:
 
 - Oh, great, a cleric -- but can he tank?
+  - Spoiler alert: Yes
+  - Also Twilight Sanctuary ROCKS

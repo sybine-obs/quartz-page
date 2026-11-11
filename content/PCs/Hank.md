@@ -25,6 +25,7 @@ tags:
 ## Impressions:
 
 - old - he's OLD (for a human)
-- familiar, tinker
+- familiar, Tinker
+- lots of Skills:
 
 ![[Images/PC Images/Tinker.png]]

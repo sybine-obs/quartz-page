@@ -81,4 +81,4 @@ It was a fraught decision. We needed to return. We wanted to find Doran's people
 
 We would descend to the stone and leave a mark there, hopefully for them to find, and then return our bounty to Snowmantle.
 
-_([[24 - The Misty Valley]])_
+[[24 - The Misty Valley]]
