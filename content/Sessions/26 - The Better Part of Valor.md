@@ -47,6 +47,7 @@ We emerged through the frozen ceiling of water that capped the river as it emerg
 Phelan woke, and we gathered close with the Goliaths to determine our next steps. I wrung water from our clothes as fast as I was able, but we were all dull and shaking with exhaustion now. We began the slow trudge back to the mesa's summit where hopefully the rest of our group would be waiting.
 
 > [!important|background-yellow color-red] Old Keth
+>
 > ![[Images/NPCs/OldKeth.png#edge|cover right circle  wtiny lp]] _Not old by stone standards. Forties, missing two fingers on the left hand from a bad winter and a worse snare. He was the clan’s voice for staying. He came anyway, because Sava went and someone had to count the bodies on the way. He knows every name of the ones who turned back and the four who did not finish the walk. He will tell Doran those names once, in private, and then he will not say them again unless asked. He is the one who will argue with Jerana about where the clan sleeps and who eats first._
 
 ## Goliath reunion
