@@ -43,5 +43,6 @@ title: All Sessions
 |   October 20 | [[23 - Dire Wolves]]                          | 15-19 Hammer      |
 |   October 27 | [[24 - The Misty Valley]]                     | 20 Hammer         |
 |   November 3 | [[25 - Caverns and Ogres and Giants, OH MY!]] | 20 Hammer (night) |
-|  November 10 | [[26 - The Better Part of Valor]]             | 20 Hammer         |
-|              | [[27 - Next Session]]                       |                   |
+|  November 10 | [[26 - The Better Part of Valor]]             | 20-21 Hammer      |
+|  November 17 | [[27 - The Sound of Silence]]                 | 22-29 Hammer      |
+|   December 1 | [[28 - Next Session]]                         |                   |

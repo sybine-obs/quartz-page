@@ -8,7 +8,7 @@ tags:
 > ![[Images/NPCs/Durin Stoneweaver.png#edge|cover right circle  hsmall lp]]
 > The Dwarven Grand Runemaster
 
-![[Images/NPCs/Durin Stoneweaver 1.png#edge|cover center wsmall lp left]]
+![[Images/NPCs/Durin Stoneweaver 1.png#edge|cover center wsmall lp right]]
 
 - Rescued from a pocket realm as part of restoring the grove north of Snowmantle
 - Was able to magically remove the axe from the Great Oak without causing further harm

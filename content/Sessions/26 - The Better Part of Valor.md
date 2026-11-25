@@ -10,7 +10,7 @@ tags:
 >
 > - [x] GLHF -- don't die
 > - [ ] Cached food back at the old shack - 6lbs from Garren, 12 rations from Dire Wolves
-> - [ ] Create three Goliath NPCs
+> - [x] Create three Goliath NPCs
 
 # Fleeing the Ogre Cave
 
@@ -55,4 +55,4 @@ The look on Doran's face as we emerged, climbing up the to the mesa summit, was 
 
 Now the next questions began to press on me. We had been gone much longer than planned from Snowmantle, and we would be returning with even more mouths to feed. How will we continue to see to their safety, and what will we find when we get back?
 
-[[27 - Next Session]]
+[[27 - The Sound of Silence]]
