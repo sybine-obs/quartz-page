@@ -53,7 +53,7 @@ In the end, we barely scraped together enough to get a small bit "ahead" for the
 
 ## The Next Week - Finding Food
 
-<span style="font-style:italic;font-weight:bold"  class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">Nightal 30, 1501 - Hammer 7, 1502</span>
+<span style="font-style:italic;font-weight:bold"  data-calendar="Faerun Calendar" data-date="1501-Nightal-30" data-end="1502-Hammer-7" data-name="The new year - finding food" data-category="Character Journal">~</span>
 
 Training the villagers to feed themselves
 

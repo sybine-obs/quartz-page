@@ -15,7 +15,7 @@ tags:
 
 ## Getting the Goliaths out of the cavern
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-end="" data-name="Caverns and Ogres and Giants, OH MY!" data-category="Character Journal">Hammer 20 (evening/night) - Having infiltrated the ogre's cave, we're about to make something happen</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-name="Caverns and Ogres and Giants, OH MY!" data-category="Character Journal">~</span>
 Tyalië and Phelan returned to the fire and food-prep cavern, casting Pass Without a Trace and Guidance on the way. The Hill Giant was still sleeping.
 Tyalië managed to lockpick three of five cages, freeing approximately 21 (of 35) Goliaths. Under the umbrella of Pass Without a Trace, these Goliaths climbed up and hid in the rocky passage while Phelan and Tyalië determined what to do next. Of those Goliaths, one (Sava Stonebind) hesitated and directly followed Tyalië between cages. She convinced the others to wait, especially once hearing of the children and Goliath equipment held in a nearby cave
 

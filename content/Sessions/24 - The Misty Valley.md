@@ -19,7 +19,7 @@ tags:
 
 ## Headed towards the trail and trail-end
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-end="" data-name="Finding the Ogre lair..." data-category="Character Journal">Hammer 19 - Thick mist obscures the way as we head down into the valley</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-name="Finding the Ogre lair..." data-category="Character Journal">~</span>
 I had hoped that in the morning, the way forward might be revealed under the early sun, but thick mist had rolled in and obscured everything. We discussed what I had seen from the ridge and debated leaving information at the standing stone marker, or investigating the trail and cleft that might shelter a cave. We started out, quickly finding that climbing downhill is hard work on the ankles, and descended from the top of the butte into the ravine below.
 We crossed a solidly frozen river, and more bare rock, both dusted with patchy snow. The frozen river provided a clear path forward. There were no obvious tracks in this area. Looking up the path we could see the walls close until they met in a very narrow cleft.
 
@@ -49,7 +49,7 @@ SHORT REST
 
 ## Another way in to the cave
 
-![[Images/Misc/OgreCave.png#edge|cover circle right hsmall lp]]<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-end="" data-name="Searching for another way in" data-category="Character Journal">Hammer 20 - Searching for another way</span>
+![[Images/Misc/OgreCave.png#edge|cover circle right hsmall lp]]<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-name="Searching for another way in" data-category="Character Journal">~</span>
 The morning arrived with sharper winds and a peppering of snow mixed with sleet.  We knew the Ogres had Doran's people. We suspected that they had at least one Hill Giant among them, for otherwise they would not have been so circumspect and organized. A frontal assault (without a great amount of outside help) would be certain death for us all.
 
 I thought perhaps we could bait them out, or trade enough food that the Goliaths would  no longer be the immediate choice, but I could not locate the herd of snow elk I knew to be in the area, perhaps we could make a trade. Unfortunately, they were not to be found.

@@ -10,7 +10,7 @@ tags:
 >
 > - Time to figure out what to do next
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-16" data-end="1501-Uktar-22" data-name="Rebuilding Snowmantle" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-16" data-end="1501-Uktar-22" data-name="Rebuilding Snowmantle" data-category="Character Journal">~</span>
 
 # Rebuilding Snowmantle
 
@@ -35,7 +35,7 @@ We also found that the fields to the south were set to be an excellent area to g
 **Doran** - helps Durin with the smithy repairs; also assisted by Hank
 **Hank** - Deryan's Helpful Homunculi - a whole squad of shorter, semi-transparent "Hanks" to help with processing lumber
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="A Sky Full of Stars" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="A Sky Full of Stars" data-category="Character Journal">~</span>
 
 ## A rooftop moment
 
@@ -53,7 +53,7 @@ Before we descended, one last thing caught my eye. A light flickered on a ridge 
 A cloaked figure had stood upon that ridge, and as he watched the town, a light answered in a quick, staccato flicker. The figure took out a device and signaled in return before turning to follow the ridge to the north.
 I told the others, and we all agreed this was a sign of something afoot. But what?
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="The Ice Storm" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-23" data-name="The Ice Storm" data-category="Character Journal">~</span>
 
 ## The storm rolls in
 

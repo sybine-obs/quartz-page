@@ -15,7 +15,7 @@ tags:
 
 ## Dire Wolves
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-15" data-end="" data-name="Dire Wolves" data-category="Character Journal">Hammer 15 - Dire Wolves</span>
+<span style="font-style:italic;font-weight:bold"  data-calendar="Faerun Calendar" data-date="1502-Hammer-15"  data-name="Dire Wolves" data-category="Character Journal">~</span>
 Mid-fight
 ![[Images/Battle maps/DireWolfBattle.png#edge|circle cover right lp hmedium]]
 We manage to kill 2, the third one runs.
@@ -28,7 +28,7 @@ We manage to kill 2, the third one runs.
 
 LONG REST
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-16" data-end="" data-name="Continuing Northeast" data-category="Character Journal">Hammer 16 - Continuing Northeast</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-16" data-name="Continuing Northeast" data-category="Character Journal">~</span>
 Decision to cache most of the food, take 1 week of rations, and try to make good time.
 
 Travel a hex, and then take a rest ...
@@ -39,7 +39,7 @@ Last: Berrus, Tyalië
 
 ## North by NorthEast - rolling hills and waymarkers
 
-![[Images/Travel Maps/Elven waystation on the way north.png#edge|cover circle hsmall left lp]]<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-17" data-end="" data-name="Continuing Northeast" data-category="Character Journal">Hammer 17 - Continuing Northeast</span>
+![[Images/Travel Maps/Elven waystation on the way north.png#edge|cover circle hsmall left lp]]<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-17" data-name="Continuing Northeast" data-category="Character Journal">~</span>
 Thunderheads crowded the sky in the morning, sparking with a bit of lightning. It was a dramatic, but blew by us to the north. The lightning did illuminate the terrain a bit as we head out, making the way easier.
 
 We wound through the deeper drifts, seeking the more secure footing of ridges and rocky ground.
@@ -54,7 +54,7 @@ Resting by the stone was uneventful.
 
 ## Bitter cold
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-18" data-end="" data-name="Continuing Northeast" data-category="Character Journal">Hammer 18 - Biting, bitter winds</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-18" data-name="Continuing Northeast" data-category="Character Journal">~</span>
 Druidcraft for the day reveals: bitter northerly wind. _(Extreme cold rules will apply. Cold weather gear gives advantage.)_
 
 With Phelan's warning of the weather to come, we did our best to prepare for the cold. His poor Mule, Doug, was well into his shaggy winter coat, but that would not be enough. It took some careful coaxing, but we draped him in blankets and added the fabric of one of our tents to try and cut the biting wind.
@@ -74,7 +74,7 @@ I returned to camp.
 
 ## A choice - how far to go
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-end="" data-name="How far to explore?" data-category="Character Journal">Hammer 19 - Thick mist obscures the way</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-19" data-name="How far to explore?" data-category="Character Journal">~</span>
 We rested through another uneventful night, huddling out of the wind. In the morning, the hills were all shrouded in a thick mist. We would need to trek into the valley to see more.
 
 It was a fraught decision. We needed to return. We wanted to find Doran's people.

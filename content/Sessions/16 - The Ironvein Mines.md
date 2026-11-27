@@ -10,7 +10,7 @@ tags:
 >
 > - Exploring the crystal caves
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-12" data-name="Ironvein Mines - the Anvil" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-12" data-name="Ironvein Mines - the Anvil" data-category="Character Journal">~</span>
 
 # Searching for the anvil
 
@@ -54,7 +54,7 @@ Only then did Phelan reveal that the other party was returning. Berrus thought q
 
 ![[Images/Misc/Draft Horse.png#edge|cover right hsmall lp]]Suddenly we were confronted with a new challenge. This anvil was far greater and heavier than any of the others we had bargained to take earlier. Much more than we could easily carry. The way out of the cavern emerged from a cliff wall, high above unknown forest below, and with only a dubious scaffolding to allow the descent. The other passage went out only to the lake.
 
-But we had found the potion of water-breathing earlier! We debated the best way to use it. Could Doran carry the anvil out? Despite his great size and strength he swore he could not. But maybe something large and strong could drag it... And so I drew upon the forms of nature once more and, after taking the potion myself, shaped into a draft horse. The others tied the anvil to me and I was able to drag it out across the lake bottom. Thankfully, the rest swam along with, diving down to assist as they were able. We emerged on the other side of the lake before the potion ran out. <span data-calendar="Faerun Calendar" data-date="1501-Uktar-13" data-end="1501-Uktar-15" data-name="The Trek back to Snowmantle" data-category="Character Journal"></span>
+But we had found the potion of water-breathing earlier! We debated the best way to use it. Could Doran carry the anvil out? Despite his great size and strength he swore he could not. But maybe something large and strong could drag it... And so I drew upon the forms of nature once more and, after taking the potion myself, shaped into a draft horse. The others tied the anvil to me and I was able to drag it out across the lake bottom. Thankfully, the rest swam along with, diving down to assist as they were able. We emerged on the other side of the lake before the potion ran out. <span data-calendar="Faerun Calendar" data-date="1501-Uktar-13" data-end="1501-Uktar-15" data-name="The Trek back to Snowmantle" data-category="Character Journal">~</span>
 
 ## Return to Snowmantle
 

@@ -40,11 +40,11 @@ As we emerged once again from the temple, the day now well spent, Bracken and Ai
 
 At the last, she bade us plant the acorn used to find the axe to the north, that something new might come of it.
 
-<span data-calendar="Faerun Calendar" data-date="1501-Mar-30" data-name="Reviewing the day -- awakenings" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Mar-30" data-name="Reviewing the day -- awakenings" data-category="Character Journal">~</span>
 
 LONG REST - Uktar 1, 1501
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-1" data-name="New Day - New Quest" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-1" data-name="New Day - New Quest" data-category="Character Journal">~</span>
 
 As we awoke, we could hear the people of the caravan speaking, the voices a low hum of wonder. And to the northwest where we had planted Ellowyn's acorn, a great oak rose from the hill, casting a wide circle of shade from its brilliant foliage.
 ![[Images/Banners/Great Oak.png#edge|cover circle right hsmall lp]]
@@ -76,7 +76,7 @@ It seemed almost impossibly hard to hit, but the light of the feywilds clung to 
 
 ### Broken Marble Pillar
 
-<span data-calendar="Faerun Calendar" data-date="1501-Uktar-5" data-name="Marble Pillar and Sunken Quarry" data-category="Character Journal"></span>
+<span data-calendar="Faerun Calendar" data-date="1501-Uktar-5" data-name="Marble Pillar and Sunken Quarry" data-category="Character Journal">~</span>
 
 Remnants of an old fountain - distinctively Elven
 

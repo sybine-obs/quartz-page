@@ -14,7 +14,7 @@ tags:
 
 ## Hunting the Winter Wolves
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-8" data-end="" data-name="Hunting the wolves" data-category="Character Journal">Hammer 8</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-8"  data-name="Hunting the wolves" data-category="Character Journal">~</span>
 As the day dawned clear enough for us to think we could leave the town safely for a short while, we debated the best direction to take. The Grove and the Quarry might hold enough game to support us, but were also a further trek. The present danger of the winter wolves to our west seemed more pressing. While wolf meat would not be the most savory, it was still food. And leaving them at our backs to harry the camp while we were gone was too great of a risk. We decided to hunt them instead of leaving them to harry our people.
 
 We began to track the wolves...![[Images/Misc/Tracks in the snowy woods.png#edge|lp hsmall right circle ]]
@@ -34,7 +34,7 @@ We slept well enough and woke up warm and rested.
 
 ## Hunting the Wolves - Day 2
 
-<span  style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-9" data-end="" data-name="Hunting the wolves - day 2" data-category="Character Journal">Hammer 9</span>
+<span  style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-9" data-name="Hunting the wolves - day 2" data-category="Character Journal">~</span>
 The paths were deeper here, and we spotted a few drops of blood from time to time along the trail.
 The trunks on the left carried old blazes, grown shut with time. But under the old blazes, there were new ones - two strokes cut into the bark and fresh enough that they are still sticky with sap.
 

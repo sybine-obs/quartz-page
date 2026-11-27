@@ -15,4 +15,5 @@ tags:
 
 ## Current thread
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-30" data-end="" data-name="Next Session" data-category="Character Journal">Hammer 30</span> - Next Session
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-30" data-name="The Return to Snowmantle" data-category="Character Journal">~</span>
+⦿ ⨳

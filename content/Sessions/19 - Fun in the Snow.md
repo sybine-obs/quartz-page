@@ -17,7 +17,7 @@ tags:
 
 ## A party for Lila
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-end="" data-name="Fun in the Snow" data-category="Character Journal">Nightal 29</span>
+<span style="font-style:italic;font-weight:bold"  data-calendar="Faerun Calendar" data-date="1501-Nightal-29" data-name="Fun in the Snow" data-category="Character Journal">~</span>
 ![[Images/Banners/Singing Dryad.png]]As we all emerged from our storm shelter into the waning day, it seemed like we would be able to relocate to the Singing Dryad Inn. Lila was barely able to sit still, knowing that her complaint had been heard and that we were all going to do our very best to celebrate her birthday, and surviving the storm. Jerana stood at her side, still looking fragile, but present.
 
 A careful patch of blankets stretched over the wide hole in the roof. Mara was able to cook up a plain broth, which was at least filling and better than nothing. There was little left to spice it and nothing for a sweet treat.
@@ -54,6 +54,6 @@ Berrus joined us out by the Barracks as we investigated, finding a person's foot
 
 Unfortunately ... the barracks were occupied. Two Winter Wolves rose slowly to their feet and attacked.
 
-<span style="display: flex; justify-content: center;">![[Images/Misc/Winter Wolf.png#edge|cover center wmedium lp]]</span>
+![[Images/Misc/Winter Wolf.png#edge|cover center wmedium lp]]
 
 [[20 - The next steps -- Food and survival]]

@@ -16,7 +16,7 @@ tags:
 
 ## Facing off on Two Fronts
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-end="" data-name="Over land and the river under " data-category="Character Journal">Hammer 20 (evening/night) - Fleeing over (and under) mountain</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-20" data-name="Over land and the river under " data-category="Character Journal">~</span>
 
 Berrus, Doran, Hank, and Heswyn faced off against the ogres that came out of the cave, leading them on a slow battle of sorts, but mostly dodging and retreating to draw them away. It could have gone much worse, and thankfully they were able to fully retreat once Bracken came with news of our (hopefully) imminent escape.
 
@@ -42,7 +42,7 @@ We emerged through the frozen ceiling of water that capped the river as it emerg
 
 ## Trek back to camp
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-21" data-end="" data-name="The trek back to camp" data-category="Character Journal">Hammer 21 - The morning trek back to camp</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-21" data-name="The trek back to camp" data-category="Character Journal">~</span>
 
 Phelan woke, and we gathered close with the Goliaths to determine our next steps. I wrung water from our clothes as fast as I was able, but we were all dull and shaking with exhaustion now. We began the slow trudge back to the mesa's summit where hopefully the rest of our group would be waiting.
 

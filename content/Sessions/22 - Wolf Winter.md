@@ -31,8 +31,8 @@ The orcs descend from where they had held off the fourth wolf -- long enough tha
 Berrus followed closely on the orcs' heels, but ran only into hostility (and nearly into the sharp end of their spears). Always looking for the balanced path forward, he tried to leave the path of cooperation open in the future, but the orcs did not seem likely to accept in any way, and the attempted provoked Doran's ire.
 
 > [!Quote| background-yellow color-red] Berrus and Doran
-> "They are killing my people. They are driving us out of our home. And you want to _ally_ with them?"
-> "There's always a first step."
+> _"They are killing my people. They are driving us out of our home. And you want to ally with them?"_
+> _"There's always a first step."_
 
 ## Harvesting the Bounty of the Hunt
 
@@ -55,11 +55,11 @@ As we finished our harvesting, I took a moment to thank Malar for a successful h
 
 ## Sounds in the Stone
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-11" data-end="" data-name="Harvesting the wolves" data-category="Character Journal">Hammer 11</span>
+<span style="font-style:italic;font-weight:bold"  data-calendar="Faerun Calendar" data-date="1502-Hammer-11" data-end="" data-name="Harvesting the wolves" data-category="Character Journal">~</span>
 We rested and made plans to return to Snowmantle, and set about to make that happen. The bounty was much greater than we might have planned (or perhaps the others considered it, but I certainly did not adequately plan for our success and return). Fortunately, Hank had found the sled runners back in the deep crib we crossed on our way. I returned to the crib with Doran.
 In that sheltered space, we all worked together to turn those runners back into a sledge. And although it would earn no awards for beauty, with it we would be **returning with almost fifty rations for the camp**.
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-13" data-end="" data-name="Returning to town" data-category="Character Journal">Hammer 13</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-13" data-name="Returning to town" data-category="Character Journal">~</span>
 ![[Images/NPCs/Edda Moss.png#edge|cover hsmall lp right]]Upon our return, one of the townspeople approched. We had not spoken much with her prior. [[Edda Moss]] knew what to do with the hides -- able to spin and weave and in other ways work with hide and fabric.
 
 We joined Jerana, Brock, and Durin to relate the details of our hunt and while we were speaking Durin noticed something in the rock -- a rhythmic noise like the beating of a drum. Dorin's shock was evident as he recognized its patterns -- this was a sign his people were nearby. They must have fled the orcs and journeyed in this direction.
@@ -70,14 +70,14 @@ I hoped we might bring some of the settlers with us on this trip, that food coul
 
 ## Heading out again
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-14" data-end="" data-name="Heading out again" data-category="Character Journal">Hammer 14</span>
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-14" data-name="Heading out again" data-category="Character Journal">~</span>
 We set out the next day to the northeast, following the path we had taken to find the old quarry. Hank took some of the time to work with the teeth of the winter wolves, providing one to me to add to my necklace, and keeping one for himself. The rest would remain to be crafted into arrowheads. _(16 left)_
 
 We crossed a number of obstacles, the snow itself and an ice covered creek, coming upon old tracks. They lead into a deadfall of birch that had been dragged into a crescent. Clearly it had been meant to be used again as there was dry kindling weighted down with a flat stone, and a marker of some sort in a short length of braided sinew around one log.
 
 We rested there and then moved onwards the next morning.
 
-<span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1502-Hammer-15" data-end="" data-name="Heading northeast" data-category="Character Journal">Hammer 15</span>
+<span style="font-style:italic;font-weight:bold"  data-calendar="Faerun Calendar" data-date="1502-Hammer-15" data-name="Heading northeast" data-category="Character Journal">~</span>
 Along our way, Garren ranged a bit to see what he could find. His success was heartening and we added about 6 lbs of food to the sledge.
 
 The dilapidated shack still stood where we remembered it to be, not noticeably more ruined by the storm. A growl rumbled from within and the dire wolves we had retreated from in our prior visit stalked out of the snow and shadows.
