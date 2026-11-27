@@ -134,6 +134,6 @@ The magic pooled within the circle, awakening the latent energies that had been 
 
 As Hank finished with the circle, we gathered the Goliaths, ourselves, and the food on makeshift travois, and turned towards Snowmantle. We would pick up our remaining cache of food on the way. Soon, we would see how the settlement had fared in our unexpectedly long absence.
 
-\<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-24" data-end="1502-Hammer-29"data-name="The Return Trek to Snowmantle" data-category="Character Journal">~</span>  _(Six days will pass on the return to Snowmantle, and we will pick up there in the next session)_
+<span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1502-Hammer-24" data-end="1502-Hammer-29" data-name="The Return Trek to Snowmantle" data-category="Character Journal">~</span>  _(Six days will pass on the return to Snowmantle, and we will pick up there in the next session)_
 
 [[28 - Next Session]]
