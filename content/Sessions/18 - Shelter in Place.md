@@ -21,7 +21,7 @@ The days passed as a blur...
 
 ## Week one
 
-- <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Uktar-24" data-end="1501-Uktar-30" data-name="Shelter in place - the first week" data-category="Character Journal">Uktar 24-30 - The first week of the storm</span>
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Uktar-24" data-end="1501-Uktar-30" data-name="Shelter in place - the first week" data-category="Character Journal"></span>
   - The temple had been hurriedly prepared as the most solid building
   - In the time that we had been gone, the townspeople and the rest of our party had managed to relocate nearly six weeks of food supply
   - Firewood would be at a premium, although it would serve a bit to clear the temple of the half-rotten detritus that still remained. Hank did his best to warm us all with repeated conjuring of fire, but it would only last a short while before needing to be renewed -- stones heated in the fire lasted longer, but cast no light
@@ -31,11 +31,11 @@ The days passed as a blur...
   - Phelan and Ralthor moved a brazier from the temple room to the barracks to hold a fire for heat
   - Berrus kept the children occupied, which was far more important than one might initially consider
   - Heswyn was able to conjure water, and Doran and Hank also brought snow down from above when they were able
-- <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Feast-1" data-name="Festival of the Moon" data-category="Character Journal">Feast of the Moon</span> -- The day of celebration passed without notice or comment.
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Feast-1" data-name="Festival of the Moon" data-category="Character Journal"></span> -- The day of celebration passed without notice or comment.
 
 ## Week Two
 
-- <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Nightal-1" data-end="1501-Nightal-7" data-name="Shelter in place - the second week" data-category="Character Journal">Nightal 1-7 - The second week</span>
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Nightal-1" data-end="1501-Nightal-7" data-name="Shelter in place - the second week" data-category="Character Journal"></span>
   - After the first week, the talk began. Will we die? Will the storm ever end? Tossed together in such a small space, sanitation also started to be an issue. Getting the townspeople to wash and be clean with limited water (and no dedicated privy) meant the halls became redolent with the smell of the living.
   - The winds finally began to diminish around the end of the week so that some of the bitterness of the cold was not so keenly felt
   - But now heavy snowfall began to blanket everything. It was still too cold to venture out beyond the most necessary of tasks -- most of which fell to Doran
@@ -48,7 +48,7 @@ The days passed as a blur...
 
 ## Week Three
 
-- <span style="font-style:italic;font-weight:bold" class="hide-data"  data-calendar="Faerun Calendar" data-date="1501-Nightal-8" data-end="1501-Nightal-14" data-name="Shelter in place - the third week" data-category="Character Journal">Nightal 8-14 - the third week</span>
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Nightal-8" data-end="1501-Nightal-14" data-name="Shelter in place - the third week" data-category="Character Journal"></span>
   - More fall sick:
     - Mara
     - Garren's child (Bren Mossley)
@@ -62,7 +62,7 @@ The days passed as a blur...
 
 ## Week Four
 
-- <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-15" data-end="1501-Nightal-21" data-name="Shelter in place - the forth week" data-category="Character Journal">Nightal 15-21 - the fourth week</span>
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Nightal-15" data-end="1501-Nightal-21" data-name="Shelter in place - the forth week" data-category="Character Journal"></span>
   - The weather lightens more, although snow still falls
   - Heswyn heals two, still six people sick with "frost lung". This is beginning to wear on him as well -- doubts fester. Could he have been stronger? A better cleric?
   - Tyalië suggests that maybe they need a break of some sort -- could the Inn be prepped for a celebration when they get there?
@@ -83,7 +83,7 @@ The days passed as a blur...
 
 ## Week Five
 
-- <span style="font-style:italic;font-weight:bold" class="hide-data" data-calendar="Faerun Calendar" data-date="1501-Nightal-22" data-end="1501-Nightal-28" data-name="Shelter in place - the fifth week" data-category="Character Journal">Nightal 22-28 - the fifth week</span>
+- <span style="font-style:italic;font-weight:bold" data-calendar="Faerun Calendar" data-date="1501-Nightal-22" data-end="1501-Nightal-28" data-name="Shelter in place - the fifth week" data-category="Character Journal"></span>
   - Doran and Hank make it to the inn and assess what needs to happen there
   - Tyalië tries to wild-shape as a wolf to follow the tracks, but sinks right into the snow. So why do the tracks by the barracks run along the top of the snow??
   - Two days where it snows - normal snowfall
