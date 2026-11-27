@@ -8,6 +8,11 @@
     background-color: #f6e9ca86 !important;
 }
 
+.callout[data-callout-metadata*=background-white] {
+    border: 2px solid #db8942dc !important;
+    background-color: #ffffffff !important;
+}
+
 .callout[data-callout-metadata*=color-red] {
     --color: #c14343; //red;
 }
@@ -16,6 +21,25 @@
     position: relative !important;
     z-index:2 !important;
     text-shadow: 0px 0px 12px white;
+}
+
+/* Calendarium fix for Span class for better display and less typing */
+span[data-date]:not([data-end]):before,div[data-date]:not([data-end]):before{
+	content:"\1f516  " attr(data-date) ": " attr(data-name) ". ";
+	color:var(--calendarium-span-data-color, var(--text-accent));
+	font-weight:500
+}
+span[data-date][data-end]:before,div[data-date][data-end]:before{
+	content:"\1f516  " attr(data-date) " to " attr(data-end) ": " attr(data-name) ". ";
+	color:var(--calendarium-span-data-color, var(--text-accent));
+	font-weight:500
+}
+
+/* fix paragraph container centering for images */
+p:has(img[alt*="center"]) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Force canvas container to render link strokes at visible opacity */
